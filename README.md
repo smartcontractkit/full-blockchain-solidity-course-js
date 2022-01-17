@@ -21,8 +21,10 @@ All code references have both a javascript and a typescript edition.
 - [StackOverflow](https://stackoverflow.com/)
   - Great place for asking technical questions overall
 
+# Table of Contents
 - [Resources For This Course](#resources-for-this-course)
     - [Questions](#questions)
+- [Table of Contents](#table-of-contents)
 - [Lesson 0: Welcome To Blockchain](#lesson-0-welcome-to-blockchain)
   - [What is a Blockchain?](#what-is-a-blockchain)
   - [Making Your First Transaction](#making-your-first-transaction)
