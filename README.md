@@ -13,6 +13,7 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
 All code references have both a javascript and a typescript edition.
 
 Recommended Testnet: Rinkeby
+
 Testnet Faucets: https://faucets.chain.link
 
 # Resources For This Course
