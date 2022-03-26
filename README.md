@@ -112,6 +112,8 @@ Testnet Faucets: https://faucets.chain.link
 -   [Layer 2 and Rollups](https://ethereum.org/en/developers/docs/scaling/layer-2-rollups/)
 -   [Decentralized Blockchain Oracles](https://blog.chain.link/what-is-the-blockchain-oracle-problem/)
 -   [Block Rewards](https://www.investopedia.com/terms/b/block-reward.asp)
+-   Advanced Gas
+    -   [EIP 1559](https://www.youtube.com/watch?v=MGemhK9t44Q)
 -   [Run Your Own Ethereum Node](https://geth.ethereum.org/docs/getting-started)
 
 ### Consensus
@@ -413,3 +415,4 @@ Improvements from the Python edition:
 5. Fundme lesson improvements
 6. Not using sleep to wait for tx to complete
 7. Front end stuff
+8. TODO: Explain EIP-1559 at some point... maybe after blockchain explainer, but before coding.
