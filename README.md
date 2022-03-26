@@ -32,12 +32,13 @@ Testnet Faucets: https://faucets.chain.link
 - [Resources For This Course](#resources-for-this-course)
     - [Questions](#questions)
 - [Table of Contents](#table-of-contents)
-- [Lesson 0: Welcome To Blockchain](#lesson-0-welcome-to-blockchain)
+- [Lesson 0: The Edge of the Rabbit Hole](#lesson-0-the-edge-of-the-rabbit-hole)
+- [Lesson 1: Blockchain Basics](#lesson-1-blockchain-basics)
   - [What is a Blockchain?](#what-is-a-blockchain)
   - [Making Your First Transaction](#making-your-first-transaction)
   - [How Do Blockchains Work?](#how-do-blockchains-work)
     - [Consensus](#consensus)
-- [Lesson 1: Welcome to Remix! Simple Storage](#lesson-1-welcome-to-remix-simple-storage)
+- [Lesson 2: Welcome to Remix! Simple Storage](#lesson-2-welcome-to-remix-simple-storage)
     - [Everything in this section can be read about in the Solidity Documentation](#everything-in-this-section-can-be-read-about-in-the-solidity-documentation)
     - [Remix](#remix)
     - [Basic Solidity](#basic-solidity)
@@ -82,7 +83,13 @@ Testnet Faucets: https://faucets.chain.link
     - [Community](#community)
     - [Hackathons](#hackathons)
 
-# Lesson 0: Welcome To Blockchain
+# Lesson 0: The Edge of the Rabbit Hole
+
+-   Welcome to the course!
+-   Why do you want to embark on this journey?
+-   Best Practices
+
+# Lesson 1: Blockchain Basics
 
 ## What is a Blockchain?
 
@@ -114,6 +121,8 @@ Testnet Faucets: https://faucets.chain.link
 -   [Block Rewards](https://www.investopedia.com/terms/b/block-reward.asp)
 -   Advanced Gas
     -   [EIP 1559](https://www.youtube.com/watch?v=MGemhK9t44Q)
+    -   GWEI, WEI, and ETH
+        -   [ETH Converter](https://eth-converter.com/)
 -   [Run Your Own Ethereum Node](https://geth.ethereum.org/docs/getting-started)
 
 ### Consensus
@@ -124,9 +133,9 @@ Testnet Faucets: https://faucets.chain.link
 -   [Nakamoto Consensus](https://blockonomi.com/nakamoto-consensus/)
 -   [Ethereum 2 (the merge)](https://ethereum.org/en/eth2/)
 
-# Lesson 1: [Welcome to Remix! Simple Storage](https://github.com/PatrickAlphaC/simple_storage)
+# Lesson 2: [Welcome to Remix! Simple Storage](https://github.com/PatrickAlphaC/simple-storage-fcc)
 
-💻 Code: https://github.com/PatrickAlphaC/simple_storage
+💻 Code: https://github.com/PatrickAlphaC/simple-storage-fcc
 
 ### Everything in this section can be read about in the [Solidity Documentation](https://docs.soliditylang.org/en/v0.8.6/index.html)
 
