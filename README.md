@@ -43,41 +43,22 @@ Testnet Faucets: https://faucets.chain.link
     - [Remix](#remix)
     - [Basic Solidity](#basic-solidity)
     - [Deploying to a "Live" network](#deploying-to-a-live-network)
-- [Lesson 2: Storage Factory](#lesson-2-storage-factory)
-    - [Inheritance, Factory Pattern, and Interacting with External Contracts](#inheritance-factory-pattern-and-interacting-with-external-contracts)
-- [Lesson 3: Fund Me](#lesson-3-fund-me)
-    - [Payable, msg.sender, msg.value, Units of Measure](#payable-msgsender-msgvalue-units-of-measure)
-    - [Chainlink Oracles](#chainlink-oracles)
-    - [Importing from NPM and Advanced Solidity](#importing-from-npm-and-advanced-solidity)
-- [Lesson 4: Web3.js Simple Storage](#lesson-4-web3js-simple-storage)
-    - [Installing VSCode, Python, and Web3](#installing-vscode-python-and-web3)
-    - [Our First Python Script with Web3.js - Deploying a Contract](#our-first-python-script-with-web3js---deploying-a-contract)
-    - [Interacting with Our Contract in Javascript & Web3.js](#interacting-with-our-contract-in-javascript--web3js)
-- [Lesson 5: Hardhat Simple Storage](#lesson-5-hardhat-simple-storage)
-    - [Hardhat Introduction](#hardhat-introduction)
-    - [Installing Hardhat](#installing-hardhat)
-    - [Testing Basics](#testing-basics)
-    - [[Hardhat console]](#hardhat-console)
-- [Lesson 6: Hardhat Fund Me](#lesson-6-hardhat-fund-me)
-    - [Introduction](#introduction)
-    - [Dependencies, Deploying, and Networks](#dependencies-deploying-and-networks)
-    - [Funding and Withdrawing Javascript Scripts](#funding-and-withdrawing-javascript-scripts)
-    - [Testing across networks](#testing-across-networks)
-    - [Git](#git)
-- [Lesson 7: SmartContract Lottery](#lesson-7-smartcontract-lottery)
-    - [Introduction](#introduction-1)
-    - [`Lottery.sol`](#lotterysol)
-- [Lesson 8: Full Stack Introduction](#lesson-8-full-stack-introduction)
-- [Lesson 9: Full Stack Lottery](#lesson-9-full-stack-lottery)
-- [Lesson 10: Hardhat Starter Kit](#lesson-10-hardhat-starter-kit)
-- [Lesson 11: ERC20s, EIPs, and Token Standards](#lesson-11-erc20s-eips-and-token-standards)
-- [Lesson 12: Defi & Aave](#lesson-12-defi--aave)
-    - [Defi Intro](#defi-intro)
-- [Lesson 13: NFTs](#lesson-13-nfts)
-- [Lesson 14: NFT Marketplace](#lesson-14-nft-marketplace)
-- [Lesson 15: Upgrades](#lesson-15-upgrades)
-- [Lesson 16 [DAOs]](#lesson-16-daos)
-- [Lesson 17 [Security]](#lesson-17-security)
+- [Lesson 3: Remix Storage Factory](#lesson-3-remix-storage-factory)
+- [Lesson 4: Remix Fund Me](#lesson-4-remix-fund-me)
+- [Lesson 6: Ethers.js Simple Storage](#lesson-6-ethersjs-simple-storage)
+- [Lesson 7: Hardhat Simple Storage](#lesson-7-hardhat-simple-storage)
+- [Lesson 8: Hardhat Fund Me](#lesson-8-hardhat-fund-me)
+- [Lesson 9: HTML / Javascript Fund Me (Full Stack / Front End)](#lesson-9-html--javascript-fund-me-full-stack--front-end)
+- [Lesson 10: Hardhat Smart Contract Lottery](#lesson-10-hardhat-smart-contract-lottery)
+- [Lesson 11: NextJS Smart Contract Lottery (Full Stack / Front End)](#lesson-11-nextjs-smart-contract-lottery-full-stack--front-end)
+- [Lesson 12: Hardhat Starter Kit](#lesson-12-hardhat-starter-kit)
+- [Lesson 13: Hardhat ERC20s](#lesson-13-hardhat-erc20s)
+- [Lesson 14: Hardhat DeFi & Aave](#lesson-14-hardhat-defi--aave)
+- [Lesson 15: Hardhat NFTs (EVERYTHING you need to know)](#lesson-15-hardhat-nfts-everything-you-need-to-know)
+- [Lesson 16: NextJS NFT Marketplace](#lesson-16-nextjs-nft-marketplace)
+- [Lesson 17: Hardhat Upgrades](#lesson-17-hardhat-upgrades)
+- [Lesson 18: Hardhat DAOs](#lesson-18-hardhat-daos)
+- [Lesson 19: Security & Auditing](#lesson-19-security--auditing)
   - [Where do I go now?](#where-do-i-go-now)
     - [Learning More](#learning-more)
     - [Community](#community)
@@ -173,233 +154,142 @@ Testnet Faucets: https://faucets.chain.link
 -   Interacting with Deployed Contracts
 -   The EVM
 
-# Lesson 2: [Storage Factory](https://github.com/PatrickAlphaC/storage_factory)
+# Lesson 3: Remix Storage Factory
 
-💻 Code: https://github.com/PatrickAlphaC/storage_factory
+💻 Code: https://github.com/PatrickAlphaC/storage-factory-fcc
 
-### Inheritance, Factory Pattern, and Interacting with External Contracts
+# Lesson 4: Remix Fund Me
 
--   Factory Pattern
--   Imports
--   Deploy a Contract From a Contract
--   Interact With a Deployed Contract
--   Recap
+💻 Code: https://github.com/PatrickAlphaC/fund-me-fcc
 
-# Lesson 3: [Fund Me](https://github.com/PatrickAlphaC/fund_me)
+# Lesson 6: Ethers.js Simple Storage
 
-💻 Code: https://github.com/PatrickAlphaC/fund_me
+💻 Code: https://github.com/PatrickAlphaC/ethers-simple-storage-fcc
 
-### Payable, msg.sender, msg.value, Units of Measure
+# Lesson 7: Hardhat Simple Storage
 
--   Payable
--   [Wei/Gwei/Eth Converter](https://eth-converter.com/)
--   msg.sender & msg.value
+💻 Code: https://github.com/PatrickAlphaC/hardhat-simple-storage-fcc
 
-### Chainlink Oracles
+# Lesson 8: Hardhat Fund Me
 
--   Decentralized Oracle Network Chainlink
-    -   Blockchains can't make API calls
-    -   Centralized Nodes are Points of Failure
--   [data.chain.link](https://data.chain.link/)
--   Getting External Data with Chainlink Oracles
-    -   [Chainlink](https://docs.chain.link/)
-    -   [Faucets and Contract Addresses](https://docs.chain.link/docs/link-token-contracts/)
-        -   [Kovan](https://docs.chain.link/docs/link-token-contracts/#kovan)
-    -   [Getting Price Information](https://docs.chain.link/docs/get-the-latest-price/)
+💻 Code: https://github.com/PatrickAlphaC/hardhat-fund-me-fcc
 
-### Importing from NPM and Advanced Solidity
+# Lesson 9: HTML / Javascript Fund Me (Full Stack / Front End)
 
--   Decimals/Floating Point Numbers in Solidity
--   latestRoundData
--   Importing from NPM in Remix
--   Interfaces
-    -   Introduction to ABIs
--   [Getting Price Feed Addresses](https://docs.chain.link/docs/reference-contracts/)
--   getPrice
--   Tuples
-    -   Unused Tuple Variables
--   Matching Units (WEI/GWEI/ETH)
--   getConversionRate
--   Matching Units (Continued)
--   SafeMath & Integer Overflow
-    -   using keyword
-    -   [Libraries](https://docs.soliditylang.org/en/v0.8.6/contracts.html#libraries)
-    -   SafeMath PSA
--   Setting a Threshold
--   Require
--   Revert
--   Withdraw Function
--   Transfer
--   Balance
--   this
--   Contract Owners
--   Constructor
--   ==
--   Modifiers
--   Resetting
--   for loop
--   Array Length
--   Forcing a Transaction
--   Recap
+💻 Code: https://github.com/PatrickAlphaC/html-fund-me-fcc
 
-# Lesson 4: [Web3.js Simple Storage]()
+# Lesson 10: Hardhat Smart Contract Lottery
 
-💻 Code:
+💻 Code: https://github.com/PatrickAlphaC/hardhat-smartcontract-lottery-fcc
 
-### Installing VSCode, Python, and Web3
+# Lesson 11: NextJS Smart Contract Lottery (Full Stack / Front End)
 
--   [Developer Bootcamp Setup Instructions (metamask, vscode, python, nodejs..)](https://chain.link/bootcamp/brownie-setup-instructions)
--   [VSCode](https://code.visualstudio.com/download)
--   [VSCode Crash Course](https://www.youtube.com/watch?v=WPqXP_kLzpo)
--   Extensions
--   Short Cuts:
-    -   [VSCode Shortcuts](https://code.visualstudio.com/docs/getstarted/keybindings)
-    -   [VSCode MacOS Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
--   [Python](https://www.python.org/downloads/)
-    -   Install Troubleshooting
--   Terminal
--   Making a directory/Folder
--   Opening the folder up with VSCode
--   Creating a new file
--   Syntax Highlights
--   Remember to save!
--   Setting linting compile version
--   VSCode Solidity Settings
-    -   Formatting & Format on Save
-    -   Solidity Prettier
-    -   [Python Black](https://pypi.org/project/black/)
-    -   [pip](https://pypi.org/project/pip/)
+💻 Code: https://github.com/PatrickAlphaC/nextjs-smartcontract-lottery-fcc
 
-### Our First Python Script with Web3.js - Deploying a Contract
+    1. create-next-app
+    2. tailwindcss
+    3. Connect to metamask
+    4. Click a button to send TX
+        1. Speed Run Ethereum Intro
+    5. call, staticcall, delegatecall
+    6. send, transfer, call
+    7. POAP
 
--   Reading our solidity file
--   Running a Python Script in the Terminal
--   [MaxOS Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
--   [Windows Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
--   [Linux Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)
--   Compiling in Python
--   [py-solc-x](https://pypi.org/project/py-solc-x/)
-    -   compile_standard
--   Colorized Brackets
--   JSON ABI
--   Saving Compiled Code
--   Formatting JSON
-
-### Interacting with Our Contract in Javascript & Web3.js
-
-# Lesson 5: [Hardhat Simple Storage]()
-
-### Hardhat Introduction
-
-### Installing Hardhat
-
-### Testing Basics
-
-### [Hardhat console]
-
--   `brownie console`
-
-# Lesson 6: [Hardhat Fund Me]()
-
-### Introduction
-
--   Setup
-
-### Dependencies, Deploying, and Networks
-
-### Funding and Withdrawing Javascript Scripts
-
-### Testing across networks
-
-### Git
-
--   Tweet it out!
-
-# Lesson 7: SmartContract Lottery
-
-💻 Code:
-
-### Introduction
-
--   Add a `README.md`
--   Defining the project
--   Is it decentralized?
-
-### `Lottery.sol`
-
-# Lesson 8: Full Stack Introduction
-
-# Lesson 9: Full Stack Lottery
-
-# Lesson 10: [Hardhat Starter Kit](https://github.com/smartcontractkit/hardhat-starter-kit)
+# Lesson 12: Hardhat Starter Kit
 
 💻 Code: https://github.com/smartcontractkit/hardhat-starter-kit
 
-# Lesson 11: [ERC20s, EIPs, and Token Standards]()
+# Lesson 13: Hardhat ERC20s
 
-💻 Code:
+💻 Code: https://github.com/PatrickAlphaC/hardhat-erc20-fcc
 
--
+# Lesson 14: Hardhat DeFi & Aave
 
-# Lesson 12: [Defi & Aave]()
+💻 Code: https://github.com/PatrickAlphaC/hardhat-defi-fcc
 
-💻 Code:
+-   5 minute speedrun ethereum ft. XXX
 
-### Defi Intro
+# Lesson 15: Hardhat NFTs (EVERYTHING you need to know)
 
--   [Defipulse](https://defipulse.com/)
--   [Defillama](https://defillama.com/)
--   [Aave Testnet Site](https://testnet.aave.com/)
--   [Paraswap](https://paraswap.io/)
--   Decentralized Exchange
+💻 Code: https://github.com/PatrickAlphaC/hardhat-nft-fcc
 
-# Lesson 13: [NFTs]()
+    1. IPFS / SVG On-Chain
+    2. Randomization
+    3. Trading Cards / Stats
+    4. Challenge
 
-💻 Code
+# Lesson 16: NextJS NFT Marketplace
 
-# Lesson 14: NFT Marketplace
+💻 Code: (In Progress)
 
-# Lesson 15: [Upgrades](https://github.com/PatrickAlphaC/upgrades-mix)
+    1. Using Moralis
+    2. Using Graph Protocol
 
-💻 Code: https://github.com/PatrickAlphaC/upgrades-mix
+# Lesson 17: Hardhat Upgrades
 
-# Lesson 16 [DAOs]
+💻 Code: https://github.com/PatrickAlphaC/hardhat-upgrades-fcc
 
-# Lesson 17 [Security]
+    1.  Parameter
+    2.  Social Migrate
+    3.  Proxy
+        1.  [Metamorphic Upgrades](https://github.com/PatrickAlphaC/hardhat-metamorphic-upgrades-fcc)
+            1. Collisions
+            2. [opcodes](https://etherscan.io/opcode-tool)
+        2.  Transparent
+        3.  UUPS
+        4.  Diamond
+    4.  Low level `delegatecall`
+    5.  Gas optimizations
 
-<!-- # Closing and Summary
-## Security
-- [Best Practices](https://consensys.github.io/smart-contract-best-practices/)
-- [Attacks](https://consensys.github.io/smart-contract-best-practices/known_attacks/)
-  - [Oracle Attacks](https://hackernoon.com/how-dollar100m-got-stolen-from-defi-in-2021-price-oracle-manipulation-and-flash-loan-attacks-explained-3n6q33r1)
-  - [Re-entrancy Attacks](https://quantstamp.com/blog/what-is-a-re-entrancy-attack)
-- [Damn Vulnerable Defi](https://www.damnvulnerabledefi.xyz/)
-- [Ethernaut](https://ethernaut.openzeppelin.com/)
-- Some Auditors
-  - [OpenZeppelin](https://openzeppelin.com/)
-  - [SigmaPrime](https://sigmaprime.io/)
-  - [Trail of Bits](https://www.trailofbits.com/) -->
+# Lesson 18: Hardhat DAOs
+
+💻 Code: https://github.com/PatrickAlphaC/hardhat-dao-fcc
+
+    1. Encode data
+    2. Function selectors & signatures
+    3. abi.encodePacked, vs abi.encode etc
+    4. Challenge
+
+# Lesson 19: Security & Auditing
+
+💻 Code: https://github.com/PatrickAlphaC/hardhat-security-fcc
+
+    1. Reentrancy
+    2. Flash Loans Attacks
+    3. Top Tools
+    4. Challenge
+
+-   [Best Practices](https://consensys.github.io/smart-contract-best-practices/)
+-   [Attacks](https://consensys.github.io/smart-contract-best-practices/known_attacks/)
+    -   [Oracle Attacks](https://hackernoon.com/how-dollar100m-got-stolen-from-defi-in-2021-price-oracle-manipulation-and-flash-loan-attacks-explained-3n6q33r1)
+    -   [Re-entrancy Attacks](https://quantstamp.com/blog/what-is-a-re-entrancy-attack)
+-   [Damn Vulnerable Defi](https://www.damnvulnerabledefi.xyz/)
+-   [Ethernaut](https://ethernaut.openzeppelin.com/)
+-   Some Auditors
+    -   [OpenZeppelin](https://openzeppelin.com/)
+    -   [SigmaPrime](https://sigmaprime.io/)
+    -   [Trail of Bits](https://www.trailofbits.com/)
 
 ## Where do I go now?
 
 ### Learning More
 
 -   [CryptoZombies](https://cryptozombies.io/)
+-   [Patrick Collins](https://www.youtube.com/channel/UCn-3f8tw_E1jZvhuHatROwA)
 -   [Dapp University](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ)
 -   [ChainShot](https://www.chainshot.com/courses)
 -   [Ivan on Tech](https://academy.ivanontech.com/)
 -   [Eat the Blocks](https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA)
--   [Patrick Collins](https://www.youtube.com/channel/UCn-3f8tw_E1jZvhuHatROwA)
 -   [Austin Griffith](https://www.youtube.com/channel/UC_HI2i2peo1A-STdG22GFsA)
 -   [Nader Dabit](https://www.youtube.com/user/boyindasouth)
 -   [Ethereum.org](https://ethereum.org/en/)
 
 ### Community
 
--   Twitter
--   [Brownie Discord](https://discord.gg/9zk7snTfWe)
--   [Ethereum Discord](https://ethereum.org/en/)
+-   [Twitter](https://twitter.com/PatrickAlphaC)
+-   [Hardhat Discord](https://discord.gg/9zk7snTfWe)
 -   [Chainlink Discord](https://discord.gg/2YHSAey)
+-   [Ethereum Discord](https://ethereum.org/en/)
 -   [Reddit ethdev](https://www.reddit.com/r/ethdev/)
 
 ### Hackathons
