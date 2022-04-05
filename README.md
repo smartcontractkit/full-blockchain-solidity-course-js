@@ -46,6 +46,7 @@ Testnet Faucets: https://faucets.chain.link
 - [Lesson 3: Remix Storage Factory](#lesson-3-remix-storage-factory)
 - [Lesson 4: Remix Fund Me](#lesson-4-remix-fund-me)
 - [Lesson 6: Ethers.js Simple Storage](#lesson-6-ethersjs-simple-storage)
+  - [Installation & Setup!](#installation--setup)
 - [Lesson 7: Hardhat Simple Storage](#lesson-7-hardhat-simple-storage)
 - [Lesson 8: Hardhat Fund Me](#lesson-8-hardhat-fund-me)
 - [Lesson 9: HTML / Javascript Fund Me (Full Stack / Front End)](#lesson-9-html--javascript-fund-me-full-stack--front-end)
@@ -127,8 +128,9 @@ Testnet Faucets: https://faucets.chain.link
 -   Versioning
 -   Compiling
 -   Contract Declaration
--   [Types & Declaring Variables](https://docs.soliditylang.org/en/v0.8.6/types.html)
+-   [Types & Declaring Variables](https://docs.soliditylang.org/en/v0.8.13/)
     -   `uint256`, `int256`, `bool`, `string`, `address`, `bytes32`
+    -   [Bits and Bytes](https://www.youtube.com/watch?v=Dnd28lQHquU)
 -   Default Initializations
 -   Comments
 -   Functions
@@ -162,7 +164,13 @@ Testnet Faucets: https://faucets.chain.link
 
 💻 Code: https://github.com/PatrickAlphaC/fund-me-fcc
 
+-   [Transfer, Send, Call](https://solidity-by-example.org/sending-ether/)
+
 # Lesson 6: Ethers.js Simple Storage
+
+## Installation & Setup!
+
+-   [Visual Studio Code](https://code.visualstudio.com/)
 
 💻 Code: https://github.com/PatrickAlphaC/ethers-simple-storage-fcc
 
