@@ -166,31 +166,38 @@ Testnet Faucets: https://faucets.chain.link
 
 -   [Transfer, Send, Call](https://solidity-by-example.org/sending-ether/)
 
-# Lesson 6: Ethers.js Simple Storage
+# Lesson 5: Ethers.js Simple Storage
 
 ## Installation & Setup!
 
 -   [Visual Studio Code](https://code.visualstudio.com/)
+    - [Crash Course](https://www.youtube.com/watch?v=WPqXP_kLzpo)
+- [NodeJS](https://nodejs.org/en/)
+- [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+
+Windows Only:
+- [WSL](https://docs.microsoft.com/en-us/windows/wsl/install)
+- [TroubleShooting](https://docs.microsoft.com/en-us/windows/wsl/troubleshooting)
 
 💻 Code: https://github.com/PatrickAlphaC/ethers-simple-storage-fcc
 
-# Lesson 7: Hardhat Simple Storage
+# Lesson 6: Hardhat Simple Storage
 
 💻 Code: https://github.com/PatrickAlphaC/hardhat-simple-storage-fcc
 
-# Lesson 8: Hardhat Fund Me
+# Lesson 7: Hardhat Fund Me
 
 💻 Code: https://github.com/PatrickAlphaC/hardhat-fund-me-fcc
 
-# Lesson 9: HTML / Javascript Fund Me (Full Stack / Front End)
+# Lesson 8: HTML / Javascript Fund Me (Full Stack / Front End)
 
 💻 Code: https://github.com/PatrickAlphaC/html-fund-me-fcc
 
-# Lesson 10: Hardhat Smart Contract Lottery
+# Lesson 9: Hardhat Smart Contract Lottery
 
 💻 Code: https://github.com/PatrickAlphaC/hardhat-smartcontract-lottery-fcc
 
-# Lesson 11: NextJS Smart Contract Lottery (Full Stack / Front End)
+# Lesson 10: NextJS Smart Contract Lottery (Full Stack / Front End)
 
 💻 Code: https://github.com/PatrickAlphaC/nextjs-smartcontract-lottery-fcc
 
@@ -203,21 +210,21 @@ Testnet Faucets: https://faucets.chain.link
     6. send, transfer, call
     7. POAP
 
-# Lesson 12: Hardhat Starter Kit
+# Lesson 11: Hardhat Starter Kit
 
 💻 Code: https://github.com/smartcontractkit/hardhat-starter-kit
 
-# Lesson 13: Hardhat ERC20s
+# Lesson 12: Hardhat ERC20s
 
 💻 Code: https://github.com/PatrickAlphaC/hardhat-erc20-fcc
 
-# Lesson 14: Hardhat DeFi & Aave
+# Lesson 13: Hardhat DeFi & Aave
 
 💻 Code: https://github.com/PatrickAlphaC/hardhat-defi-fcc
 
 -   5 minute speedrun ethereum ft. XXX
 
-# Lesson 15: Hardhat NFTs (EVERYTHING you need to know)
+# Lesson 14: Hardhat NFTs (EVERYTHING you need to know)
 
 💻 Code: https://github.com/PatrickAlphaC/hardhat-nft-fcc
 
@@ -226,14 +233,14 @@ Testnet Faucets: https://faucets.chain.link
     3. Trading Cards / Stats
     4. Challenge
 
-# Lesson 16: NextJS NFT Marketplace
+# Lesson 15: NextJS NFT Marketplace
 
 💻 Code: (In Progress)
 
     1. Using Moralis
     2. Using Graph Protocol
 
-# Lesson 17: Hardhat Upgrades
+# Lesson 16: Hardhat Upgrades
 
 💻 Code: https://github.com/PatrickAlphaC/hardhat-upgrades-fcc
 
@@ -249,7 +256,7 @@ Testnet Faucets: https://faucets.chain.link
     4.  Low level `delegatecall`
     5.  Gas optimizations
 
-# Lesson 18: Hardhat DAOs
+# Lesson 17: Hardhat DAOs
 
 💻 Code: https://github.com/PatrickAlphaC/hardhat-dao-fcc
 
@@ -258,7 +265,7 @@ Testnet Faucets: https://faucets.chain.link
     3. abi.encodePacked, vs abi.encode etc
     4. Challenge
 
-# Lesson 19: Security & Auditing
+# Lesson 18: Security & Auditing
 
 💻 Code: https://github.com/PatrickAlphaC/hardhat-security-fcc
 
