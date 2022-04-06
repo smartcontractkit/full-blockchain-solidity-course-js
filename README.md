@@ -181,6 +181,16 @@ Windows Only:
 
 💻 Code: https://github.com/PatrickAlphaC/ethers-simple-storage-fcc
 
+- [NodeJS Course](https://www.youtube.com/watch?v=RLtyhwFtXQA)
+- [Javascript Course](https://www.youtube.com/watch?v=jS4aFq5-91M)
+- Format your solidity code with: 
+```
+    "[solidity]": {
+        "editor.defaultFormatter": "NomicFoundation.hardhat-solidity"
+    },
+```
+In your `.vscode/settings.json` file.
+
 # Lesson 6: Hardhat Simple Storage
 
 💻 Code: https://github.com/PatrickAlphaC/hardhat-simple-storage-fcc
