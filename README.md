@@ -190,6 +190,14 @@ Windows Only:
     },
 ```
 In your `.vscode/settings.json` file.
+- [Yarn](https://yarnpkg.com/getting-started/install)
+- [Ganache](https://trufflesuite.com/ganache/)
+- [EthersJS](https://docs.ethers.io/v5/getting-started/)
+- [prettier-plugin-solidity](https://github.com/prettier-solidity/prettier-plugin-solidity)
+- [Alchemy](https://alchemy.com/?a=673c802981)
+
+More information:
+- [JSON RPC Spec](https://playground.open-rpc.org/?schemaUrl=https://raw.githubusercontent.com/ethereum/execution-apis/assembled-spec/openrpc.json&uiSchema%5BappBar%5D%5Bui:splitView%5D=false&uiSchema%5BappBar%5D%5Bui:input%5D=false&uiSchema%5BappBar%5D%5Bui:examplesDropdown%5D=false)
 
 # Lesson 6: Hardhat Simple Storage
 
