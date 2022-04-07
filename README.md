@@ -203,6 +203,11 @@ More information:
 
 💻 Code: https://github.com/PatrickAlphaC/hardhat-simple-storage-fcc
 
+- [Hardhat Documentation](https://hardhat.org/)
+
+Typescript:
+- [Typechain](https://github.com/dethcrypto/TypeChain)
+
 # Lesson 7: Hardhat Fund Me
 
 💻 Code: https://github.com/PatrickAlphaC/hardhat-fund-me-fcc
