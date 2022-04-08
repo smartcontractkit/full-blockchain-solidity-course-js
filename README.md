@@ -204,9 +204,21 @@ More information:
 💻 Code: https://github.com/PatrickAlphaC/hardhat-simple-storage-fcc
 
 - [Hardhat Documentation](https://hardhat.org/)
+- [DevDependencies vs Dependencies](https://stackoverflow.com/questions/18875674/whats-the-difference-between-dependencies-devdependencies-and-peerdependencies)
+- [@ Sign node modules](https://stackoverflow.com/questions/36667258/what-is-the-meaning-of-the-at-prefix-on-npm-packages)
+- [Chain ID List](https://chainlist.org/)
+- [Etherscan Verify Tutorial](https://docs.etherscan.io/tutorials/verifying-contracts-programmatically)
+- [Javascript == vs ===](https://stackoverflow.com/questions/359494/which-equals-operator-vs-should-be-used-in-javascript-comparisons)
+- [Hardhat Gas Reporter](https://www.npmjs.com/package/hardhat-gas-reporter)
+- [Coinmarketcap API](https://coinmarketcap.com/api/)
+- [Best README Template](https://github.com/othneildrew/Best-README-Template)
+- [Hardhat-Waffle](https://npm.io/package/@nomiclabs/hardhat-waffle)
 
 Typescript:
 - [Typechain](https://github.com/dethcrypto/TypeChain)
+```
+yarn add @typechain/ethers-v5 @typechain/hardhat @types/chai @types/node @types/mocha ts-node typechain typescript
+```
 
 # Lesson 7: Hardhat Fund Me
 
