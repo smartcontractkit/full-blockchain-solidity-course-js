@@ -51,6 +51,9 @@ Testnet Faucets: https://faucets.chain.link
 - [Lesson 7: Hardhat Fund Me](#lesson-7-hardhat-fund-me)
 - [Lesson 8: HTML / Javascript Fund Me (Full Stack / Front End)](#lesson-8-html--javascript-fund-me-full-stack--front-end)
 - [Lesson 9: Hardhat Smart Contract Lottery](#lesson-9-hardhat-smart-contract-lottery)
+    - [Sub-Lesson: Events & Logging](#sub-lesson-events--logging)
+    - [Sub-Lesson: Chainlink VRF](#sub-lesson-chainlink-vrf)
+    - [Sub-Lesson: Chainlink Keepers](#sub-lesson-chainlink-keepers)
 - [Lesson 10: NextJS Smart Contract Lottery (Full Stack / Front End)](#lesson-10-nextjs-smart-contract-lottery-full-stack--front-end)
 - [Lesson 11: Hardhat Starter Kit](#lesson-11-hardhat-starter-kit)
 - [Lesson 12: Hardhat ERC20s](#lesson-12-hardhat-erc20s)
@@ -262,6 +265,19 @@ yarn add --dev @typechain/ethers-v5 @typechain/hardhat @types/chai @types/node @
 ```bash
 yarn add --dev @nomiclabs/hardhat-ethers@npm:hardhat-deploy-ethers ethers @nomiclabs/hardhat-etherscan @nomiclabs/hardhat-waffle chai ethereum-waffle hardhat hardhat-contract-sizer hardhat-deploy hardhat-gas-reporter prettier prettier-plugin-solidity solhint solidity-coverage dotenv
 ```
+- [Custom Errors in Solidity](https://blog.soliditylang.org/2021/04/21/custom-errors/)
+### Sub-Lesson: Events & Logging
+  - [Events & Logging Video](https://www.youtube.com/watch?v=KDYJC85eS5M)
+  - [Events & Logging in Hardhat](https://github.com/PatrickAlphaC/hardhat-events-logs)
+### Sub-Lesson: Chainlink VRF
+    - [Chainlink VRFv2 Docs](https://docs.chain.link/docs/get-a-random-number/)
+    - [Chainlink VRFv2 Walkthrough](https://www.youtube.com/watch?v=rdJ5d8j1RCg)
+    - [Chainlink Contracts](https://github.com/smartcontractkit/chainlink/blob/develop/contracts/src/v0.8/VRFConsumerBase.sol)
+- [Modulo](https://docs.soliditylang.org/en/v0.8.13/types.html?highlight=modulo#modulo)
+### Sub-Lesson: Chainlink Keepers
+    - [Chainlink Keepers Docs](https://docs.chain.link/docs/chainlink-keepers/introduction/)
+    - [Chainlink Keepers Walkthrough](https://www.youtube.com/watch?v=-Wkw5JVQGUo)
+- [Enum](https://docs.soliditylang.org/en/v0.8.13/structure-of-a-contract.html?highlight=enum#enum-types)
 
 # Lesson 10: NextJS Smart Contract Lottery (Full Stack / Front End)
 
