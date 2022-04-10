@@ -258,6 +258,11 @@ yarn add --dev @typechain/ethers-v5 @typechain/hardhat @types/chai @types/node @
 
 💻 Code: https://github.com/PatrickAlphaC/hardhat-smartcontract-lottery-fcc
 
+- Install dependencies:
+```bash
+yarn add --dev @nomiclabs/hardhat-ethers@npm:hardhat-deploy-ethers ethers @nomiclabs/hardhat-etherscan @nomiclabs/hardhat-waffle chai ethereum-waffle hardhat hardhat-contract-sizer hardhat-deploy hardhat-gas-reporter prettier prettier-plugin-solidity solhint solidity-coverage
+```
+
 # Lesson 10: NextJS Smart Contract Lottery (Full Stack / Front End)
 
 💻 Code: https://github.com/PatrickAlphaC/nextjs-smartcontract-lottery-fcc
