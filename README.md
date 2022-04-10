@@ -217,12 +217,27 @@ More information:
 Typescript:
 - [Typechain](https://github.com/dethcrypto/TypeChain)
 ```
-yarn add @typechain/ethers-v5 @typechain/hardhat @types/chai @types/node @types/mocha ts-node typechain typescript
+yarn add --dev @typechain/ethers-v5 @typechain/hardhat @types/chai @types/node @types/mocha ts-node typechain typescript
 ```
 
 # Lesson 7: Hardhat Fund Me
 
 💻 Code: https://github.com/PatrickAlphaC/hardhat-fund-me-fcc
+
+- [Eslint](https://eslint.org/)
+- [Solhint](https://github.com/protofire/solhint)
+- [Linting Code](https://www.perforce.com/blog/qac/what-lint-code-and-why-linting-important)
+- [Hardhat Deploy](https://github.com/wighawag/hardhat-deploy)
+- [Mocking](https://stackoverflow.com/questions/2665812/what-is-mocking)
+- [Aave Github](https://github.com/aave/aave-v3-core)
+- [Chainlink Github](https://github.com/smartcontractkit/chainlink)
+- [Style Guide](https://docs.soliditylang.org/en/v0.8.13/style-guide.html)
+- [NatSpec](https://docs.soliditylang.org/en/v0.8.13/natspec-format.html#natspec)
+- [Unit Testing](https://en.wikipedia.org/wiki/Unit_testing)
+- [Waffle Chai Matchers](https://ethereum-waffle.readthedocs.io/en/latest/matchers.html)
+- [Storage Layout](https://docs.soliditylang.org/en/v0.8.13/internals/layout_in_storage.html)
+- [Purpose of the memory keyword](https://stackoverflow.com/questions/33839154/in-ethereum-solidity-what-is-the-purpose-of-the-memory-keyword)
+- [Opcodes by Gas](https://github.com/crytic/evm-opcodes)
 
 # Lesson 8: HTML / Javascript Fund Me (Full Stack / Front End)
 
@@ -241,6 +256,10 @@ yarn add @typechain/ethers-v5 @typechain/hardhat @types/chai @types/node @types/
     3. Connect to metamask
     4. Click a button to send TX
         1. Speed Run Ethereum Intro
+
+Movetime:
+All hardhat stuff: https://hardhat.org/hardhat-network/reference/
+
     5. call, staticcall, delegatecall
     6. send, transfer, call
     7. POAP
@@ -365,3 +384,6 @@ Improvements from the Python edition:
 6. Not using sleep to wait for tx to complete
 7. Front end stuff
 8. TODO: Explain EIP-1559 at some point... maybe after blockchain explainer, but before coding.
+
+optional JS seciton? 
+Async, Arrow functions, yarn 
