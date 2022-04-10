@@ -238,6 +238,8 @@ yarn add --dev @typechain/ethers-v5 @typechain/hardhat @types/chai @types/node @
 - [Storage Layout](https://docs.soliditylang.org/en/v0.8.13/internals/layout_in_storage.html)
 - [Purpose of the memory keyword](https://stackoverflow.com/questions/33839154/in-ethereum-solidity-what-is-the-purpose-of-the-memory-keyword)
 - [Opcodes by Gas](https://github.com/crytic/evm-opcodes)
+- [Ternary](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator)
+- [Github Quickstart](https://docs.github.com/en/get-started/quickstart)
 
 # Lesson 8: HTML / Javascript Fund Me (Full Stack / Front End)
 
