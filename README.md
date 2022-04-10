@@ -240,10 +240,19 @@ yarn add --dev @typechain/ethers-v5 @typechain/hardhat @types/chai @types/node @
 - [Opcodes by Gas](https://github.com/crytic/evm-opcodes)
 - [Ternary](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator)
 - [Github Quickstart](https://docs.github.com/en/get-started/quickstart)
+  - [The quickstart that we follow in the video](https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github#adding-a-local-repository-to-github-using-git)
+  - [Learn about git and GitHub](https://www.youtube.com/watch?v=RGOj5yH7evk)
 
 # Lesson 8: HTML / Javascript Fund Me (Full Stack / Front End)
 
 💻 Code: https://github.com/PatrickAlphaC/html-fund-me-fcc
+
+- Live Server: ExtensionID: ritwickdey.LiveServer
+- [Metamask Docs](https://docs.metamask.io/guide/)
+- [Web3Provider](https://docs.ethers.io/v5/api/providers/other/#Web3Provider)
+- [Browserify](https://browserify.org/)
+- [Watchify](https://www.npmjs.com/package/watchify)
+- [Javascript Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 
 # Lesson 9: Hardhat Smart Contract Lottery
 
