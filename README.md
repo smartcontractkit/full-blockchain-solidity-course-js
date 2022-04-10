@@ -270,13 +270,17 @@ yarn add --dev @nomiclabs/hardhat-ethers@npm:hardhat-deploy-ethers ethers @nomic
   - [Events & Logging Video](https://www.youtube.com/watch?v=KDYJC85eS5M)
   - [Events & Logging in Hardhat](https://github.com/PatrickAlphaC/hardhat-events-logs)
 ### Sub-Lesson: Chainlink VRF
-    - [Chainlink VRFv2 Docs](https://docs.chain.link/docs/get-a-random-number/)
-    - [Chainlink VRFv2 Walkthrough](https://www.youtube.com/watch?v=rdJ5d8j1RCg)
-    - [Chainlink Contracts](https://github.com/smartcontractkit/chainlink/blob/develop/contracts/src/v0.8/VRFConsumerBase.sol)
+> - [Chainlink VRFv2 Docs](https://docs.chain.link/docs/get-a-random-number/)
+
+> - [Chainlink VRFv2 Walkthrough](https://www.youtube.com/watch?v=rdJ5d8j1RCg)
+
+> - [Chainlink Contracts](https://github.com/smartcontractkit/chainlink/blob/develop/contracts/src/v0.8/VRFConsumerBase.sol)
+
 - [Modulo](https://docs.soliditylang.org/en/v0.8.13/types.html?highlight=modulo#modulo)
 ### Sub-Lesson: Chainlink Keepers
-    - [Chainlink Keepers Docs](https://docs.chain.link/docs/chainlink-keepers/introduction/)
-    - [Chainlink Keepers Walkthrough](https://www.youtube.com/watch?v=-Wkw5JVQGUo)
+
+- [Chainlink Keepers Docs](https://docs.chain.link/docs/chainlink-keepers/introduction/)
+  - [Chainlink Keepers Walkthrough](https://www.youtube.com/watch?v=-Wkw5JVQGUo)
 - [Enum](https://docs.soliditylang.org/en/v0.8.13/structure-of-a-contract.html?highlight=enum#enum-types)
 
 # Lesson 10: NextJS Smart Contract Lottery (Full Stack / Front End)
