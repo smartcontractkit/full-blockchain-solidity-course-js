@@ -54,6 +54,7 @@ Testnet Faucets: https://faucets.chain.link
     - [Sub-Lesson: Events & Logging](#sub-lesson-events--logging)
     - [Sub-Lesson: Chainlink VRF](#sub-lesson-chainlink-vrf)
     - [Sub-Lesson: Chainlink Keepers](#sub-lesson-chainlink-keepers)
+    - [Recommended LINK amounts for Rinkeby Staging Test:](#recommended-link-amounts-for-rinkeby-staging-test)
 - [Lesson 10: NextJS Smart Contract Lottery (Full Stack / Front End)](#lesson-10-nextjs-smart-contract-lottery-full-stack--front-end)
 - [Lesson 11: Hardhat Starter Kit](#lesson-11-hardhat-starter-kit)
 - [Lesson 12: Hardhat ERC20s](#lesson-12-hardhat-erc20s)
@@ -282,6 +283,14 @@ yarn add --dev @nomiclabs/hardhat-ethers@npm:hardhat-deploy-ethers ethers @nomic
 - [Chainlink Keepers Docs](https://docs.chain.link/docs/chainlink-keepers/introduction/)
   - [Chainlink Keepers Walkthrough](https://www.youtube.com/watch?v=-Wkw5JVQGUo)
 - [Enum](https://docs.soliditylang.org/en/v0.8.13/structure-of-a-contract.html?highlight=enum#enum-types)
+- [Emit Chai Matcher](https://ethereum-waffle.readthedocs.io/en/latest/matchers.html#emitting-events)
+- [Make Hardhat do whatever you want it to](https://hardhat.org/hardhat-network/reference/)
+- [Special debugging hardhat methods](https://hardhat.org/hardhat-network/reference/#special-testing-debugging-methods)
+
+
+### Recommended LINK amounts for Rinkeby Staging Test:
+- Chainlink VRF: 2 LINK
+- Chainlink Keepers: 8 LINK
 
 # Lesson 10: NextJS Smart Contract Lottery (Full Stack / Front End)
 
