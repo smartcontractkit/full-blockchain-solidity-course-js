@@ -56,6 +56,8 @@ Testnet Faucets: https://faucets.chain.link
     - [Sub-Lesson: Chainlink Keepers](#sub-lesson-chainlink-keepers)
     - [Recommended LINK amounts for Rinkeby Staging Test:](#recommended-link-amounts-for-rinkeby-staging-test)
 - [Lesson 10: NextJS Smart Contract Lottery (Full Stack / Front End)](#lesson-10-nextjs-smart-contract-lottery-full-stack--front-end)
+    - [Optional Sub-Lesson: Full Stack Development & Other Libraries](#optional-sub-lesson-full-stack-development--other-libraries)
+    - [The Rest of this Lesson](#the-rest-of-this-lesson)
 - [Lesson 11: Hardhat Starter Kit](#lesson-11-hardhat-starter-kit)
 - [Lesson 12: Hardhat ERC20s](#lesson-12-hardhat-erc20s)
 - [Lesson 13: Hardhat DeFi & Aave](#lesson-13-hardhat-defi--aave)
@@ -296,18 +298,31 @@ yarn add --dev @nomiclabs/hardhat-ethers@npm:hardhat-deploy-ethers ethers @nomic
 
 💻 Code: https://github.com/PatrickAlphaC/nextjs-smartcontract-lottery-fcc
 
-    1. create-next-app
-    2. tailwindcss
-    3. Connect to metamask
-    4. Click a button to send TX
-        1. Speed Run Ethereum Intro
+### Optional Sub-Lesson: Full Stack Development & Other Libraries
+- [6 Ways to connect your dapp to a wallet](https://www.youtube.com/watch?v=pdsYCkUWrgQ)
+- Other React libraries:
+  - [Web3React](https://github.com/NoahZinsmeister/web3-react)
+  - [wagmi](https://github.com/tmm/wagmi)
+  - [react-moralis](https://www.npmjs.com/package/react-moralis)
+  - [useDapp](https://github.com/TrueFiEng/useDApp)
+  - [Web3Modal](https://github.com/Web3Modal/web3modal)
+  - [useMetamask](https://github.com/mdtanrikulu/use-metamask)
+- Other Full Stack Web3 Templates
+  - [scaffold-eth](https://github.com/scaffold-eth/scaffold-eth)
+  - [ethereum-boilerplate](https://github.com/ethereum-boilerplate/ethereum-boilerplate)
+  - [create-eth-app](https://github.com/paulrberg/create-eth-app)
 
-Movetime:
-All hardhat stuff: https://hardhat.org/hardhat-network/reference/
+### The Rest of this Lesson
+- [NextJS Documentation](https://nextjs.org/learn/basics/create-nextjs-app)
+- [NextJS Minimal Ethers Example For Lottery](https://github.com/PatrickAlphaC/nextjs-ethers-introduction)
 
-    5. call, staticcall, delegatecall
-    6. send, transfer, call
-    7. POAP
+```
+yarn create next-app .
+```
+- [Install Tailwind into NextJS](https://tailwindcss.com/docs/guides/nextjs)
+
+    1. call, staticcall, delegatecall
+    2. send, transfer, call
 
 # Lesson 11: Hardhat Starter Kit
 
