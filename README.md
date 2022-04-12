@@ -298,8 +298,11 @@ yarn add --dev @nomiclabs/hardhat-ethers@npm:hardhat-deploy-ethers ethers @nomic
 
 💻 Code: https://github.com/PatrickAlphaC/nextjs-smartcontract-lottery-fcc
 
+We moving into using [NextJS](https://nextjs.org/) for our front end. NextJS is a [React framework](https://reactjs.org/) for building websites. 
+
 ### Optional Sub-Lesson: Full Stack Development & Other Libraries
 - [6 Ways to connect your dapp to a wallet](https://www.youtube.com/watch?v=pdsYCkUWrgQ)
+- [NextJS Crash Course](https://www.youtube.com/watch?v=mTz0GXj8NN0)
 - Other React libraries:
   - [Web3React](https://github.com/NoahZinsmeister/web3-react)
   - [wagmi](https://github.com/tmm/wagmi)
