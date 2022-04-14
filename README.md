@@ -60,6 +60,8 @@ Testnet Faucets: https://faucets.chain.link
     - [The Rest of this Lesson](#the-rest-of-this-lesson)
 - [Lesson 11: Hardhat Starter Kit](#lesson-11-hardhat-starter-kit)
 - [Lesson 12: Hardhat ERC20s](#lesson-12-hardhat-erc20s)
+    - [Sub-Lesson: What is an ERC20?](#sub-lesson-what-is-an-erc20)
+    - [Rest of the Lesson](#rest-of-the-lesson)
 - [Lesson 13: Hardhat DeFi & Aave](#lesson-13-hardhat-defi--aave)
 - [Lesson 14: Hardhat NFTs (EVERYTHING you need to know)](#lesson-14-hardhat-nfts-everything-you-need-to-know)
 - [Lesson 15: NextJS NFT Marketplace](#lesson-15-nextjs-nft-marketplace)
@@ -297,6 +299,8 @@ yarn add --dev @nomiclabs/hardhat-ethers@npm:hardhat-deploy-ethers ethers @nomic
 # Lesson 10: NextJS Smart Contract Lottery (Full Stack / Front End)
 
 💻 Code: https://github.com/PatrickAlphaC/nextjs-smartcontract-lottery-fcc
+⚡️⚡️ Live Demo IPFS: ipfs://QmXwACyjcS8tL7UkYwimpqMqW9sKzSHUjE4uSZBSyQVuEH
+⚡️⚡️ Live Demo Fleek: https://fancy-dream-3458.on.fleek.co/
 
 We moving into using [NextJS](https://nextjs.org/) for our front end. NextJS is a [React framework](https://reactjs.org/) for building websites. 
 
@@ -314,6 +318,8 @@ We moving into using [NextJS](https://nextjs.org/) for our front end. NextJS is 
   - [scaffold-eth](https://github.com/scaffold-eth/scaffold-eth)
   - [ethereum-boilerplate](https://github.com/ethereum-boilerplate/ethereum-boilerplate)
   - [create-eth-app](https://github.com/paulrberg/create-eth-app)
+- [React being quite popular](https://insights.stackoverflow.com/survey/2021#section-most-popular-technologies-web-frameworks)
+- [Why use react?](https://www.freecodecamp.org/news/why-use-react-for-web-development/)
 
 ### The Rest of this Lesson
 - [NextJS Documentation](https://nextjs.org/learn/basics/create-nextjs-app)
@@ -322,10 +328,21 @@ We moving into using [NextJS](https://nextjs.org/) for our front end. NextJS is 
 ```
 yarn create next-app .
 ```
+- [What is a component?](https://www.w3schools.com/react/react_components.asp)
+- [What is a react hook?](https://reactjs.org/docs/hooks-overview.html)
+- [useEffect Hook](https://reactjs.org/docs/hooks-effect.html)
+- [More on useEffect](https://blog.logrocket.com/guide-to-react-useeffect-hook/)
+- [useState Hook](https://reactjs.org/docs/hooks-state.html)
+- [Learn CSS](https://www.w3schools.com/css/)
+- [Tailwindcss](https://tailwindcss.com/)
 - [Install Tailwind into NextJS](https://tailwindcss.com/docs/guides/nextjs)
+- [What is IPFS](https://www.youtube.com/watch?v=5Uj6uR3fp-U)
 
     1. call, staticcall, delegatecall
     2. send, transfer, call
+
+- [IPFS](https://ipfs.io/)
+- [Fleek](https://fleek.co/)
 
 # Lesson 11: Hardhat Starter Kit
 
@@ -334,6 +351,19 @@ yarn create next-app .
 # Lesson 12: Hardhat ERC20s
 
 💻 Code: https://github.com/PatrickAlphaC/hardhat-erc20-fcc
+
+### Sub-Lesson: What is an ERC20? 
+- [Video (using brownie/python)](https://youtu.be/8rpir_ZSK1g?t=39)
+- [What is an EIP?](https://eips.ethereum.org/)
+- [EIPs codebase](https://github.com/ethereum/EIPs)
+- [EIP-20](https://eips.ethereum.org/EIPS/eip-20)
+- [ERC-677](https://github.com/ethereum/EIPs/issues/677)
+- [EIP-777](https://eips.ethereum.org/EIPS/eip-777)
+
+### Rest of the Lesson
+- [Openzeppelin](https://openzeppelin.com/)
+- [Openzeppelin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
+- [Solmate (Openzeppelin alternative)](https://github.com/Rari-Capital/solmate)
 
 # Lesson 13: Hardhat DeFi & Aave
 
