@@ -369,7 +369,16 @@ yarn create next-app .
 
 💻 Code: https://github.com/PatrickAlphaC/hardhat-defi-fcc
 
--   5 minute speedrun ethereum ft. XXX
+- [What is DeFi?](https://chain.link/education/defi)
+- [DefiLlama](https://defillama.com/)
+
+More DeFi Learnings: 
+- [Speed Run Ethereum](https://speedrunethereum.com/)
+- [Defi-Minimal](https://github.com/smartcontractkit/defi-minimal/tree/main/contracts)
+- [Defi Dad](https://www.youtube.com/channel/UCatItl6C7wJp9txFMbXbSTg)
+-   5 minute speedrun ethereum ft. [Austin Griffith](https://twitter.com/austingriffith)!
+
+
 
 # Lesson 14: Hardhat NFTs (EVERYTHING you need to know)
 
