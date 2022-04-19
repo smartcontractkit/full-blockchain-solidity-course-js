@@ -399,8 +399,8 @@ More DeFi Learnings:
 
 💻 Code: 
  - Backend (Contracts): https://github.com/PatrickAlphaC/hardhat-nft-marketplace-fcc
- - Frontend (Moralis Edition): https://github.com/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc
- - Frontend (TheGraph Edition): https://github.com/PatrickAlphaC/nextjs-nft-marketplace-thegraph-fcc    
+ - Frontend (Moralis Indexer): https://github.com/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc
+ - Frontend (TheGraph Indexer): https://github.com/PatrickAlphaC/nextjs-nft-marketplace-thegraph-fcc    
    - The Graph: https://github.com/PatrickAlphaC/graph-nft-marketplace-fcc   
 
     1. Using Moralis
