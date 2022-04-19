@@ -63,8 +63,8 @@ Testnet Faucets: https://faucets.chain.link
     - [Sub-Lesson: What is an ERC20?](#sub-lesson-what-is-an-erc20)
     - [Rest of the Lesson](#rest-of-the-lesson)
 - [Lesson 13: Hardhat DeFi & Aave](#lesson-13-hardhat-defi--aave)
-- [Lesson 14: Hardhat NFTs (EVERYTHING you need to know)](#lesson-14-hardhat-nfts-everything-you-need-to-know)
-- [Lesson 15: NextJS NFT Marketplace](#lesson-15-nextjs-nft-marketplace)
+- [Lesson 14: Hardhat NFTs (EVERYTHING you need to know about NFTs)](#lesson-14-hardhat-nfts-everything-you-need-to-know-about-nfts)
+- [Lesson 15: NextJS NFT Marketplace (If you finish this lesson, you are a full-stack MONSTER!)](#lesson-15-nextjs-nft-marketplace-if-you-finish-this-lesson-you-are-a-full-stack-monster)
 - [Lesson 16: Hardhat Upgrades](#lesson-16-hardhat-upgrades)
 - [Lesson 17: Hardhat DAOs](#lesson-17-hardhat-daos)
 - [Lesson 18: Security & Auditing](#lesson-18-security--auditing)
@@ -371,6 +371,12 @@ yarn create next-app .
 
 - [What is DeFi?](https://chain.link/education/defi)
 - [DefiLlama](https://defillama.com/)
+- [WETH Token Rinkeby Etherscan](https://rinkeby.etherscan.io/token/0xc778417e063141139fce010982780140aa0cd5ab#writeContract)
+- [Aave V2 Docs](https://docs.aave.com/developers/v/2.0/)
+- [DAI](https://makerdao.com/en/)
+- [Uniswap](https://app.uniswap.org/)
+- [WETH Token Mainnet](https://etherscan.io/token/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2)
+- [Aave Risk Parameters](https://docs.aave.com/risk/asset-risk/risk-parameters)
 
 More DeFi Learnings: 
 - [Speed Run Ethereum](https://speedrunethereum.com/)
@@ -380,7 +386,7 @@ More DeFi Learnings:
 
 
 
-# Lesson 14: Hardhat NFTs (EVERYTHING you need to know)
+# Lesson 14: Hardhat NFTs (EVERYTHING you need to know about NFTs)
 
 💻 Code: https://github.com/PatrickAlphaC/hardhat-nft-fcc
 
@@ -389,9 +395,13 @@ More DeFi Learnings:
     3. Trading Cards / Stats
     4. Challenge
 
-# Lesson 15: NextJS NFT Marketplace
+# Lesson 15: NextJS NFT Marketplace (If you finish this lesson, you are a full-stack MONSTER!)
 
-💻 Code: (In Progress)
+💻 Code: 
+ - Backend (Contracts): https://github.com/PatrickAlphaC/hardhat-nft-marketplace-fcc
+ - Frontend (Moralis Edition): https://github.com/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc
+ - Frontend (TheGraph Edition): https://github.com/PatrickAlphaC/nextjs-nft-marketplace-thegraph-fcc    
+   - The Graph: https://github.com/PatrickAlphaC/graph-nft-marketplace-fcc   
 
     1. Using Moralis
     2. Using Graph Protocol
