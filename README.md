@@ -64,6 +64,9 @@ Testnet Faucets: https://faucets.chain.link
     - [Rest of the Lesson](#rest-of-the-lesson)
 - [Lesson 13: Hardhat DeFi & Aave](#lesson-13-hardhat-defi--aave)
 - [Lesson 14: Hardhat NFTs (EVERYTHING you need to know about NFTs)](#lesson-14-hardhat-nfts-everything-you-need-to-know-about-nfts)
+    - [Sublesson: What is an NFT?](#sublesson-what-is-an-nft)
+    - [Hardhat NFTs Part 1](#hardhat-nfts-part-1)
+    - [Sublesson: EVM Opcodes, Encoding, and Calling](#sublesson-evm-opcodes-encoding-and-calling)
 - [Lesson 15: NextJS NFT Marketplace (If you finish this lesson, you are a full-stack MONSTER!)](#lesson-15-nextjs-nft-marketplace-if-you-finish-this-lesson-you-are-a-full-stack-monster)
 - [Lesson 16: Hardhat Upgrades](#lesson-16-hardhat-upgrades)
 - [Lesson 17: Hardhat DAOs](#lesson-17-hardhat-daos)
@@ -390,10 +393,31 @@ More DeFi Learnings:
 
 💻 Code: https://github.com/PatrickAlphaC/hardhat-nft-fcc
 
-    1. IPFS / SVG On-Chain
-    2. Randomization
-    3. Trading Cards / Stats
-    4. Challenge
+### Sublesson: What is an NFT? 
+- [Video](https://www.youtube.com/watch?v=9yuHz6g_P50)
+- [Optional: All on Chain SVG NFT](https://www.youtube.com/watch?v=9oERTH9Bkw0)
+
+### Hardhat NFTs Part 1
+- [Openzeppelin NFT](https://docs.openzeppelin.com/contracts/4.x/)
+- [SVG Tutorial](https://www.w3schools.com/graphics/svg_intro.asp)
+  - [On-Chain SVG Example](https://opensea.io/assets/matic/0x291ff90b9c410f56e047599bfee6b585c0c484d7/2)
+- [Base64 Encoding](https://en.wikipedia.org/wiki/Base64)
+  - [Example Encoder](https://base64.guru/converter/encode/image/svg)
+
+### Sublesson: EVM Opcodes, Encoding, and Calling
+Thanks to [Alex Roan](https://twitter.com/alexroan) for his help on this session!
+- [Example Contract Creation Transaction](https://rinkeby.etherscan.io/tx/0x924f592458b0e37ee17024f9c826b97697455cd97f6946b802bc42296e77ae43)
+What REALLY is the ABI?
+  - [EVM Opcodes](https://www.evm.codes/)
+  - [More EVM Opcodes](https://github.com/crytic/evm-opcodes)
+  - [Solidity Cheatsheet](https://docs.soliditylang.org/en/v0.8.13/cheatsheet.html?highlight=encodewithsignature)
+  - [abi.encode vs abi.encodePacked](https://ethereum.stackexchange.com/questions/91826/why-are-there-two-methods-encoding-arguments-abi-encode-and-abi-encodepacked)
+
+Extra credit:
+  - [Deconstructing Solidity](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-ii-creation-vs-runtime-6b9d60ecb44c/)
+  - [Knowing and controlling your Smart Contract Address](https://www.youtube.com/watch?v=RxL_1AfV7N4)
+  - [From Solidity to byte code](https://www.youtube.com/watch?v=RxL_1AfV7N4)
+  - 
 
 # Lesson 15: NextJS NFT Marketplace (If you finish this lesson, you are a full-stack MONSTER!)
 
@@ -428,8 +452,7 @@ More DeFi Learnings:
 
     1. Encode data
     2. Function selectors & signatures
-    3. abi.encodePacked, vs abi.encode etc
-    4. Challenge
+    3. Challenge
 
 # Lesson 18: Security & Auditing
 
