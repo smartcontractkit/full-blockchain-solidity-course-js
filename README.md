@@ -70,6 +70,7 @@ Testnet Faucets: https://faucets.chain.link
 - [Lesson 15: NextJS NFT Marketplace (If you finish this lesson, you are a full-stack MONSTER!)](#lesson-15-nextjs-nft-marketplace-if-you-finish-this-lesson-you-are-a-full-stack-monster)
     - [TheGraph](#thegraph)
 - [Lesson 16: Hardhat Upgrades](#lesson-16-hardhat-upgrades)
+  - [Types of Upgrades](#types-of-upgrades)
 - [Lesson 17: Hardhat DAOs](#lesson-17-hardhat-daos)
 - [Lesson 18: Security & Auditing](#lesson-18-security--auditing)
   - [Where do I go now?](#where-do-i-go-now)
@@ -459,23 +460,37 @@ Extra credit:
 
 💻 Code: https://github.com/PatrickAlphaC/hardhat-upgrades-fcc
 
-    1.  Parameter
-    2.  Social Migrate
-    3.  Proxy
-        1.  [Metamorphic Upgrades](https://github.com/PatrickAlphaC/hardhat-metamorphic-upgrades-fcc)
-            1. Collisions
-            2. [opcodes](https://etherscan.io/opcode-tool)
-        2.  Transparent
-        3.  UUPS
-        4.  Diamond
-    4.  Low level `delegatecall`
-    5.  Gas optimizations
+- [Optional Video](https://www.youtube.com/watch?v=bdXJmWajZRY)
+## Types of Upgrades
+1.  Parameter
+2.  Social Migrate
+3.  Proxy
+    1.  [Metamorphic Upgrades](https://github.com/PatrickAlphaC/hardhat-metamorphic-upgrades-fcc)
+        1. Collisions
+        2. [opcodes](https://etherscan.io/opcode-tool)
+    2.  Transparent
+    3.  UUPS
+    4.  Diamond
+- [delegatecall (solidity-by-example)](https://solidity-by-example.org/delegatecall)
+- [Yul](https://docs.soliditylang.org/en/latest/yul.html)
+- [EIP 1967](https://eips.ethereum.org/EIPS/eip-1967)
+- [Hardhat-deploy Proxies](https://github.com/wighawag/hardhat-deploy#deploying-and-upgrading-proxies)
+- [Openzeppelin Upgrades Plugin](https://docs.openzeppelin.com/upgrades-plugins/1.x/)
+  - [Openzeppelin upgrades tutorial](https://forum.openzeppelin.com/t/openzeppelin-upgrades-step-by-step-tutorial-for-hardhat/3580)
+- [hardhat deploy upgrades examples](https://github.com/wighawag/template-ethereum-contracts/tree/examples/openzeppelin-proxies/deploy)
+
 
 # Lesson 17: Hardhat DAOs
 
-💻 Code: https://github.com/PatrickAlphaC/hardhat-dao-fcc
+⬆️ Up-to-date code: https://github.com/PatrickAlphaC/dao-template
+💻 Code from video: https://github.com/PatrickAlphaC/hardhat-dao-fcc
 
-    1. Challenge
+- [PY Code](https://github.com/brownie-mix/dao-mix)
+- [Python Video](https://www.youtube.com/watch?v=rD8AxZ_wBA4)
+- [Openzeppelin Governance](https://docs.openzeppelin.com/contracts/4.x/api/governance)
+- [Compound Governance](https://compound.finance/governance)
+- [Contract Wizard](https://docs.openzeppelin.com/contracts/4.x/wizard)
+- [CastVoteBySig](https://forum.openzeppelin.com/t/what-is-votecastbysig/17069/2)
 
 # Lesson 18: Security & Auditing
 
