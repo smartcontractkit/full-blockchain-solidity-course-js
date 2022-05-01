@@ -483,6 +483,7 @@ Extra credit:
 # Lesson 17: Hardhat DAOs
 
 ⬆️ Up-to-date code: https://github.com/PatrickAlphaC/dao-template
+
 💻 Code from video: https://github.com/PatrickAlphaC/hardhat-dao-fcc
 
 - [PY Code](https://github.com/brownie-mix/dao-mix)
