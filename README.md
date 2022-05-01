@@ -444,12 +444,12 @@ Extra credit:
 - [Moralis Logging](https://docs.moralis.io/moralis-dapp/tools/moralis-admin-cli#get-logs)
 - [Hardhat Network Reference](https://hardhat.org/hardhat-network/reference/)
 - [Moralis Queries](https://docs.moralis.io/moralis-dapp/database/queries)
+
+### TheGraph
 - [GraphQL](https://graphql.org/)
 - [GraphQL Queries](https://www.tutorialspoint.com/graphql/graphql_query.htm)
 - [@apollo/client](https://www.npmjs.com/package/@apollo/client)
 - [Hosting on Moralis](https://moralis.io/how-to-host-a-dapp-dapp-hosting-explained/)
-
-### TheGraph
 - [TheGraph Docs](https://thegraph.com/docs/en/)
 
     1. Using Moralis
