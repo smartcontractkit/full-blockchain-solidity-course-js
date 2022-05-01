@@ -68,6 +68,7 @@ Testnet Faucets: https://faucets.chain.link
     - [Hardhat NFTs Part 1](#hardhat-nfts-part-1)
     - [Sublesson: EVM Opcodes, Encoding, and Calling](#sublesson-evm-opcodes-encoding-and-calling)
 - [Lesson 15: NextJS NFT Marketplace (If you finish this lesson, you are a full-stack MONSTER!)](#lesson-15-nextjs-nft-marketplace-if-you-finish-this-lesson-you-are-a-full-stack-monster)
+    - [TheGraph](#thegraph)
 - [Lesson 16: Hardhat Upgrades](#lesson-16-hardhat-upgrades)
 - [Lesson 17: Hardhat DAOs](#lesson-17-hardhat-daos)
 - [Lesson 18: Security & Auditing](#lesson-18-security--auditing)
@@ -417,7 +418,6 @@ Extra credit:
   - [Deconstructing Solidity](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-ii-creation-vs-runtime-6b9d60ecb44c/)
   - [Knowing and controlling your Smart Contract Address](https://www.youtube.com/watch?v=RxL_1AfV7N4)
   - [From Solidity to byte code](https://www.youtube.com/watch?v=RxL_1AfV7N4)
-  - 
 
 # Lesson 15: NextJS NFT Marketplace (If you finish this lesson, you are a full-stack MONSTER!)
 
@@ -426,6 +426,31 @@ Extra credit:
  - Frontend (Moralis Indexer): https://github.com/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc
  - Frontend (TheGraph Indexer): https://github.com/PatrickAlphaC/nextjs-nft-marketplace-thegraph-fcc    
    - The Graph: https://github.com/PatrickAlphaC/graph-nft-marketplace-fcc   
+
+- [Artion](https://github.com/Fantom-foundation/Artion-Contracts)
+- [Reentrancy](https://solidity-by-example.org/hacks/re-entrancy)
+- [Rekt.news](https://rekt.news/leaderboard/)
+- [Link NextJS](https://nextjs.org/docs/api-reference/next/link)
+- [Tailwind with NextJS](https://tailwindcss.com/docs/guides/nextjs)
+- [Moralis](https://moralis.io/)
+- [NextJS Environment Variables](https://nextjs.org/docs/basic-features/environment-variables)
+- [Reverse Proxy FRP](https://github.com/fatedier/frp/releases)
+  - [Docs](https://docs.moralis.io/moralis-dapp/web3/setting-up-ganache)
+  - [Trouble Shooting](https://docs.moralis.io/faq#frpc)
+- [Moralis Forum](https://forum.moralis.io/)
+- [Moralis Admin CLI](https://docs.moralis.io/moralis-dapp/tools/moralis-admin-cli)
+- [Moralis Add Event Sync From Code](https://docs.moralis.io/moralis-dapp/connect-the-sdk/connect-using-node#add-new-event-sync-from-code)
+- [Moralis Cloud Functions](https://docs.moralis.io/moralis-dapp/cloud-code/cloud-functions)
+- [Moralis Logging](https://docs.moralis.io/moralis-dapp/tools/moralis-admin-cli#get-logs)
+- [Hardhat Network Reference](https://hardhat.org/hardhat-network/reference/)
+- [Moralis Queries](https://docs.moralis.io/moralis-dapp/database/queries)
+- [GraphQL](https://graphql.org/)
+- [GraphQL Queries](https://www.tutorialspoint.com/graphql/graphql_query.htm)
+- [@apollo/client](https://www.npmjs.com/package/@apollo/client)
+- [Hosting on Moralis](https://moralis.io/how-to-host-a-dapp-dapp-hosting-explained/)
+
+### TheGraph
+- [TheGraph Docs](https://thegraph.com/docs/en/)
 
     1. Using Moralis
     2. Using Graph Protocol
@@ -450,9 +475,7 @@ Extra credit:
 
 💻 Code: https://github.com/PatrickAlphaC/hardhat-dao-fcc
 
-    1. Encode data
-    2. Function selectors & signatures
-    3. Challenge
+    1. Challenge
 
 # Lesson 18: Security & Auditing
 
@@ -461,7 +484,6 @@ Extra credit:
     1. Reentrancy
     2. Flash Loans Attacks
     3. Top Tools
-    4. Challenge
 
 -   [Best Practices](https://consensys.github.io/smart-contract-best-practices/)
 -   [Attacks](https://consensys.github.io/smart-contract-best-practices/known_attacks/)
