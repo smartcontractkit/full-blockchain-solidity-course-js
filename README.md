@@ -14,7 +14,8 @@ All code references have both a javascript and a typescript edition.
 
 Recommended Testnet: Rinkeby
 
-Testnet Faucets: https://faucets.chain.link
+# [Testnet Faucets](https://faucets.chain.link): https://faucets.chain.link
+Backup Faucet: https://rinkebyfaucet.com/
 
 # Resources For This Course
 
