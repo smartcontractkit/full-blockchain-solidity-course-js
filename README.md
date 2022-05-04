@@ -16,6 +16,7 @@ Recommended Testnet: Rinkeby
 
 # [Testnet Faucets](https://faucets.chain.link)
 Main Faucet: https://faucets.chain.link
+
 Backup Faucet: https://rinkebyfaucet.com/
 
 # Resources For This Course
