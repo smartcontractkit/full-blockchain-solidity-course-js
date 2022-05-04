@@ -8,7 +8,7 @@
 </p>
 <br/> -->
 
-Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Javascript Edition FreeCodeCamp course!
+Welcome to the repository for the Ultimate Web3, Full Stack Solidity, and Smart Contract - Beginner to Expert Full Course | Javascript Edition FreeCodeCamp course!
 
 All code references have both a javascript and a typescript edition.
 
