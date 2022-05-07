@@ -19,6 +19,8 @@ Main Faucet: https://faucets.chain.link
 
 Backup Faucet: https://rinkebyfaucet.com/
 
+> ⚠️ All code associated with this course is for demo purposes only. They have not been audited and should not be considered production ready. Please use at your own risk. 
+
 # Resources For This Course
 
 ### Questions
@@ -489,6 +491,8 @@ Extra credit:
 
 💻 Code from video: https://github.com/PatrickAlphaC/hardhat-dao-fcc
 
+- [What is a DAO?](https://www.youtube.com/watch?v=X_QKZzd68ro)
+- [How to build a DAO](https://www.youtube.com/watch?v=AhJtmUqhAqg)
 - [PY Code](https://github.com/brownie-mix/dao-mix)
 - [Python Video](https://www.youtube.com/watch?v=rD8AxZ_wBA4)
 - [Openzeppelin Governance](https://docs.openzeppelin.com/contracts/4.x/api/governance)
@@ -503,7 +507,14 @@ Extra credit:
     1. Reentrancy
     2. Flash Loans Attacks
     3. Top Tools
-
+- [Install python](https://www.python.org/downloads/)
+- [Slither](https://github.com/crytic/slither#how-to-install)
+- [solc-select](https://github.com/crytic/solc-select)
+- [Fuzz testing](https://en.wikipedia.org/wiki/Fuzzing)
+- [Echidna](https://github.com/crytic/echidna)
+- [Docker Install](https://docs.docker.com/get-docker/)
+- [Eth-Security-ToolBox](https://github.com/trailofbits/eth-security-toolbox)
+- [Readiness Guide](https://learn.openzeppelin.com/security-audits/readiness-guide)
 -   [Best Practices](https://consensys.github.io/smart-contract-best-practices/)
 -   [Attacks](https://consensys.github.io/smart-contract-best-practices/known_attacks/)
     -   [Oracle Attacks](https://hackernoon.com/how-dollar100m-got-stolen-from-defi-in-2021-price-oracle-manipulation-and-flash-loan-attacks-explained-3n6q33r1)
