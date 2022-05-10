@@ -34,6 +34,7 @@ Backup Faucet: https://rinkebyfaucet.com/
 
 # Table of Contents
 
+- [Testnet Faucets](#testnet-faucets)
 - [Resources For This Course](#resources-for-this-course)
     - [Questions](#questions)
 - [Table of Contents](#table-of-contents)
@@ -342,6 +343,7 @@ yarn create next-app .
 - [What is a react hook?](https://reactjs.org/docs/hooks-overview.html)
 - [useEffect Hook](https://reactjs.org/docs/hooks-effect.html)
 - [More on useEffect](https://blog.logrocket.com/guide-to-react-useeffect-hook/)
+  - [useEffect Firing Twice](https://stackoverflow.com/questions/60618844/react-hooks-useeffect-is-called-twice-even-if-an-empty-array-is-used-as-an-ar)
 - [useState Hook](https://reactjs.org/docs/hooks-state.html)
 - [Learn CSS](https://www.w3schools.com/css/)
 - [Tailwindcss](https://tailwindcss.com/)
