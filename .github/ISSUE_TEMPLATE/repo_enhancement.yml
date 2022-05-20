@@ -1,6 +1,6 @@
 name: Repo Enhancement
 description: If you have a suggestion on how to make this repository better, please let us know!
-labels: ["repo-enhancement"]
+labels: ["enhancement"]
 body:
   - type: textarea
     attributes:

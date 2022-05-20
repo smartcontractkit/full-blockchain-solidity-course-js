@@ -8,7 +8,15 @@
 </p>
 <br/> -->
 
+
 # Web3, Full Stack Solidity, Smart Contract & Blockchain - Beginner to Expert ULTIMATE Course | Javascript Edition
+
+<br/>
+<p align="center">
+<img src="./img/hh-fcc-background.png" width="350" alt="Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Javascript Tutorial">
+</a>
+</p>
+<br/>
 
 Welcome to the repository for the Ultimate Web3, Full Stack Solidity, and Smart Contract - Beginner to Expert Full Course | Javascript Edition FreeCodeCamp Course!
 
