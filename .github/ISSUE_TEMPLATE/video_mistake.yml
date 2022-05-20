@@ -1,0 +1,47 @@
+name: Video Mistake
+description: File an issue when Patrick made a mistake in the video.
+labels: ["video-bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please ensure that the bug has not already been filed in the issue tracker.
+
+        Thanks for taking the time to report this bug!
+  - type: dropdown
+    attributes:
+      label: Component
+      description: Which lesson is this an issue for?
+      multiple: false
+      options:
+        - Lesson 1
+        - Lesson 2
+        - Lesson 3
+        - Lesson 4
+        - Lesson 5
+        - Lesson 6
+        - Lesson 7
+        - Lesson 8
+        - Lesson 9
+        - Lesson 10
+        - Lesson 11
+        - Lesson 12
+        - Lesson 13
+        - Lesson 14
+        - Lesson 15
+        - Lesson 16
+        - Lesson 17
+        - Lesson 18
+        - Other (please describe)
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Could you please leave a link to the timestamp in the video where this error occurs? (You can right click a video and "copy video URL at current time")
+      placeholder: "https://www.youtube.com/watch?v=M576WGiDBdQ&t=21247s"
+  - type: textarea
+    attributes:
+      label: Describe the bug
+      description: Please include relevant code snippets as well if relevant. Remember to format!
+    validations:
+      required: true

@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Anything Else
+    url: https://github.com/smartcontractkit/full-blockchain-solidity-course-js/discussions
+    about: For anything else that is a question about the course, looking to show off something cool, connect with other developers, or looking for support, please head over to the discussions tab!

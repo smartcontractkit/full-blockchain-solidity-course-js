@@ -1,0 +1,10 @@
+name: Repo Enhancement
+description: If you have a suggestion on how to make this repository better, please let us know!
+labels: ["repo-enhancement"]
+body:
+  - type: textarea
+    attributes:
+      label: Describe the enhancement
+      description: The more information the better! Thanks for making this issue!
+    validations:
+      required: true
