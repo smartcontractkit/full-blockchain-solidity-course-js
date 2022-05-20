@@ -10,7 +10,7 @@ body:
         Thanks for taking the time to report this bug!
   - type: dropdown
     attributes:
-      label: Component
+      label: Lesson
       description: Which lesson is this an issue for?
       multiple: false
       options:
