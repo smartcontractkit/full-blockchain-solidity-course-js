@@ -1221,6 +1221,7 @@ yarn create next-app .
 ## Hosting on IPFS & Filecoin using Fleek
 - [Fleek](https://fleek.co/)
 ## Filecoin Overview
+- [Special Guest Ally Haire](https://twitter.com/DeveloperAlly)
 - [IPFS URL of Ally's Video](ipfs://bafybeiasd6oxqiefoxgtskrokomexnb4zcq3fhwlcbyplx2paw65zmq2du)
 ## Lesson 10 Recap
 
