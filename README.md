@@ -521,18 +521,6 @@ Backup Faucet: https://rinkebyfaucet.com/
 </ul>
 </details>
 
-
-
-<!-- TODO: Add timestamps for lessons and sections -->
-<!-- TODO: Add gitpod to all repos -->
-<!-- TODO: Make sure Typescript is all set for all repos -->
-<!-- TODO: Make sure all gitignores are looking good -->
-<!-- TODO: Add dropdowns for the main table of contents -->
-<!-- TODO: Add issues so that people know to go to discussions, and only make an issue if the class has an issue -->
-<!-- TODO: Make sure all tests don't use async functions in the describe block -->
-<!-- TODO: Make sure all tests use `async function(){}` syntax instead of anon functions -->
-<!-- TODO: Add `Special Guest: <name>` for all guests (and also Matt for his UI help!) -->
-
 # Lesson 0: The Edge of the Rabbit Hole
 ## Welcome to the course!
 *Timestamp here* <!-- Link to Timestamps for each section will go in italics under them -->
@@ -552,33 +540,33 @@ Backup Faucet: https://rinkebyfaucet.com/
 -   [What is a blockchain](https://www.investopedia.com/terms/b/blockchain.asp)
 
 ## The Purpose Of Smart Contracts
-- [Original Video](https://www.youtube.com/watch?v=_JeRq7Gwj5Y&feature=youtu.be)
-🦬 [My ETH Denver Talk](https://www.youtube.com/watch?v=06hXCX_jj2E)
-🍔 [McDonalds Scandal](https://www.chicagotribune.com/sns-mcdonalds-story.html)
-⛓ [More on the evolution of agreements](https://www.youtube.com/watch?v=ufVyX7JDCgg)
-✍️ [What is a Smart Contract?](https://www.youtube.com/watch?v=ZE2HxTmxfrI)
-🧱 [How does a blockchain work?](https://www.youtube.com/watch?v=SSo_EIwHSd4)
-🔮 [Chainlink & Oracles](https://www.youtube.com/watch?v=tIUHQ7sDoaU)
+- 🎥 [Original Video](https://www.youtube.com/watch?v=_JeRq7Gwj5Y&feature=youtu.be)
+- 🦬 [My ETH Denver Talk](https://www.youtube.com/watch?v=06hXCX_jj2E)
+- 🍔 [McDonalds Scandal](https://www.chicagotribune.com/sns-mcdonalds-story.html)
+- ⛓ [More on the evolution of agreements](https://www.youtube.com/watch?v=ufVyX7JDCgg)
+- ✍️ [What is a Smart Contract?](https://www.youtube.com/watch?v=ZE2HxTmxfrI)
+- 🧱 [How does a blockchain work?](https://www.youtube.com/watch?v=SSo_EIwHSd4)
+- 🔮 [Chainlink & Oracles](https://www.youtube.com/watch?v=tIUHQ7sDoaU)
 
 ## Other Blockchain Benefits
-- [Decentralized]()
-- [Transparency & Flexibility]()
-- [Speed & Efficiency]()
-- [Security & Immutability]()
-- [Counterparty Risk Removal]()
-- [Trust Minimized Agreements]()
+- Decentralized
+- Transparency & Flexibility
+- Speed & Efficiency
+- Security & Immutability
+- Counterparty Risk Removal
+- Trust Minimized Agreements
 
 ## What have Smart Contracts done so far? 
-- [DeFi]()
-  - [Defi Llama]()
-  - [Why DeFi is Important]()
-- [DAOs]()
-- [NFTs]()
+- [DeFi](https://chain.link/education/defi)
+  - [Defi Llama](https://defillama.com/)
+  - [Why DeFi is Important](https://medium.com/the-capital/why-defi-1519cc4d4bd3)
+- [DAOs](https://betterprogramming.pub/what-is-a-dao-what-is-the-architecture-of-a-dao-how-to-build-a-dao-high-level-d096a97162cc)
+- [NFTs](https://www.youtube.com/watch?v=9yuHz6g_P50)
 
 ## Making Your First Transaction
 -   [Metamask Download Link](https://metamask.io/)
-    -   [What is a Private Key?]()
-    -   [What is a Secret Phrase?]()
+    -   [What is a Private Key?](https://www.coinbase.com/learn/crypto-basics/what-is-a-private-key)
+    -   [What is a Secret Phrase?](https://metamask.zendesk.com/hc/en-us/articles/360060826432-What-is-a-Secret-Recovery-Phrase-and-how-to-keep-your-crypto-wallet-secure)
 -   [Etherscan](https://etherscan.io/)
 -   [Rinkeby Etherscan](https://rinkeby.etherscan.io/)
 -   [Kovan Etherscan](https://kovan.etherscan.io/)
@@ -592,9 +580,9 @@ Backup Faucet: https://rinkebyfaucet.com/
 -   [ETH Gas Station](https://ethgasstation.info/)
 
 ## How Do Blockchains Work?
-- [What is a hash?]()
+- [What is a hash?](https://techjury.net/blog/what-is-cryptographic-hash/)
 - [Blockchain Demo](https://andersbrownworth.com/blockchain/)
-- [Summary]()
+- [Summary](https://ethereum.org/en/developers/docs/intro-to-ethereum/)
 
 ## Signing Transactions
 -   [Public / Private Keys](https://andersbrownworth.com/blockchain/public-private-keys/keys)
@@ -607,7 +595,7 @@ Backup Faucet: https://rinkebyfaucet.com/
     -   [EIP 1559](https://www.youtube.com/watch?v=MGemhK9t44Q)
     -   GWEI, WEI, and ETH
         -   [ETH Converter](https://eth-converter.com/)
--   [Gas II Summary]()
+## Gas II Summary
 -   [Run Your Own Ethereum Node](https://geth.ethereum.org/docs/getting-started)
 
 ## High-Level Blockchain Fundamentals
@@ -675,7 +663,7 @@ Backup Faucet: https://rinkebyfaucet.com/
   - stack
 
 ## Mappings
-- [Mappings]()
+- [Mappings](https://solidity-by-example.org/mapping)
 
 ## Deploying your First Contract
 -   A testnet or mainnet
@@ -692,22 +680,20 @@ Backup Faucet: https://rinkebyfaucet.com/
 💻 Code: https://github.com/PatrickAlphaC/storage-factory-fcc
 
 ## Introduction
-- [Factory Pattern]()
+- [Factory Pattern](https://betterprogramming.pub/learn-solidity-the-factory-pattern-75d11c3e7d29)
 
 ## Basic Solidity: Importing Contracts into other Contracts
-- [Composibility]()
-- [Solidity new keyword]()
-- [Importing Code in solidity]()
+- [Composibility](https://chain.link/techtalks/defi-composability)
+- [Solidity new keyword](https://docs.soliditylang.org/en/v0.8.14/control-structures.html?highlight=new#creating-contracts-via-new)
+- [Importing Code in solidity](https://solidity-by-example.org/import)
 
 ## Basic Solidity: Interacting with other Contracts
 - To interact, you always need: ABI + Address
-- [ABI]()
-- [Compilation Details]()
+- [ABI](https://docs.soliditylang.org/en/v0.8.14/abi-spec.html?highlight=abi)
 
 ## Basic Solidity: Inheritance & Overrides
-- [Inheritance]() 
-- [Override Keyword]()
-- [Virtual Keyword]()
+- [Inheritance](https://solidity-by-example.org/inheritance) 
+- [Override & Virtual Keyword](https://docs.soliditylang.org/en/v0.8.14/contracts.html?highlight=override#function-overriding)
 
 ## Lesson 3 Recap
 
@@ -718,45 +704,44 @@ Backup Faucet: https://rinkebyfaucet.com/
 ## Introduction
 
 ## Sending ETH Through a Function & Reverts
-- [Value Field of a transaction]()
-- [Fields in a Transaction]()
-- [More on v,r,s]()
-- [payable]()
-- [msg.value]()
-  - [Other global keywords]()
-- [require]()
-- [revert]()
+- [Fields in a Transaction](https://ethereum.org/en/developers/docs/transactions/)
+- [More on v,r,s](https://ethereum.stackexchange.com/questions/15766/what-does-v-r-s-in-eth-gettransactionbyhash-mean)
+- [payable](https://solidity-by-example.org/payable)
+- [msg.valu & Other global keywords](https://docs.soliditylang.org/en/v0.8.14/cheatsheet.html?highlight=cheatsheet#global-variables)
+- [require](https://codedamn.com/news/solidity/what-is-require-in-solidity)
+- [revert](https://medium.com/blockchannel/the-use-of-revert-assert-and-require-in-solidity-and-the-new-revert-opcode-in-the-evm-1a3a7990e06e)
 
 ## Chainlink & Oracles
 - [What is a blockchain oracle?](https://chain.link/education/blockchain-oracles)
-- [What is the oracle problem?]()
+- [What is the oracle problem?](https://blog.chain.link/what-is-the-blockchain-oracle-problem/)
 - [Chainlink](https://chain.link/)
 - [Chainlink Price Feeds (Data Feeds)](https://docs.chain.link/docs/get-the-latest-price/)
   - [data.chain.link](https://data.chain.link/)
 - [Chainlink VRF](https://docs.chain.link/docs/chainlink-vrf/)
 - [Chainlink Keepers](https://docs.chain.link/docs/chainlink-keepers/introduction/)
 - [Chainlink API Calls](https://docs.chain.link/docs/request-and-receive-data/)
-- [Importing Tokens into your Metamask]()
-- [Request and Receive Chainlink Model]()
+- [Importing Tokens into your Metamask](https://consensys.net/blog/metamask/how-to-add-your-custom-tokens-in-metamask/)
+- [Request and Receive Chainlink Model](https://docs.chain.link/docs/architecture-request-model/)
 
 ## Review of Sending ETH and working with Chainlink 
 
 ## Interfaces & Price Feeds
 - [Chainlink Price Feeds (Data Feeds)](https://docs.chain.link/docs/get-the-latest-price/)
 - [Chainlink GitHub](https://github.com/smartcontractkit/chainlink) 
-- [Interface]()
+- [Interface](https://solidity-by-example.org/interface)
 
 ## Importing from GitHub & NPM
 - [Chainlink NPM Package](https://www.npmjs.com/package/@chainlink/contracts)
 
 ## Floating Point Math in Solidtiy
-- [tuple]()
-- [Floating Point Numbers in Solidity]()
-- [Type Casting]()
-- [Gas Estimation Failed]()
+- [tuple](https://docs.soliditylang.org/en/v0.8.14/abi-spec.html?highlight=tuple#handling-tuple-types)
+- [Floating Point Numbers in Solidity](https://stackoverflow.com/questions/58277234/does-solidity-supports-floating-point-number)
+- [Type Casting](https://ethereum.stackexchange.com/questions/6891/type-casting-in-solidity)
+- Gas Estimation Failed
+  - Someone should make an article explaining this error
 
 ## Basic Solidity: Arrays & Structs II
-- [msg.sender]()
+- [msg.sender](https://docs.soliditylang.org/en/v0.8.14/cheatsheet.html?highlight=msg.sender)
 
 ## Review of Interfacs, Importing from GitHub, & Math in Solidity
 
@@ -776,26 +761,26 @@ Backup Faucet: https://rinkebyfaucet.com/
 
 ## Sending ETH from a Contract
 - [Transfer, Send, Call](https://solidity-by-example.org/sending-ether/)
-- [this keyword]()
+- [this keyword](https://ethereum.stackexchange.com/questions/1781/what-is-the-this-keyword-in-solidity)
 
 ## Basic Solidity: Constructor
-- [Constructor]()
+- [Constructor](https://solidity-by-example.org/constructor)
 
 ## Basic Solidity: Modifiers
-- [Double equals]()
+- [Double equals](https://www.geeksforgeeks.org/solidity-operators/)
 - [Modifier](https://solidity-by-example.org/function-modifier)
 
 ## Testnet Demo
-- [Disconnecting Metamask]()
-- [Gas Estimation Failed]()
+- [Disconnecting Metamask](https://help.1inch.io/en/articles/4666771-metamask-how-to-connect-disconnect-and-switch-accounts-with-metamask-on-1inch-network)
 
 ## Advanced Solidity 
 ### Immutable & Constant
-- [Immutable]()
-- [Constant]()
-- [Current ETH Gas Prices]()
+- [Immutable](https://solidity-by-example.org/immutable)
+- [Constant](https://solidity-by-example.org/constants)
+- [Current ETH Gas Prices](https://etherscan.io/gastracker)
 - Don't stress about gas optimizations! (yet)
-- [Naming Conventions]()
+- Naming Conventions
+  - [Someone make this!](https://github.com/smartcontractkit/full-blockchain-solidity-course-js/issues/13)
 
 ### Custom Errors
 - [Custom Errors Introduction](https://blog.soliditylang.org/2021/04/21/custom-errors/)
@@ -822,10 +807,10 @@ Backup Faucet: https://rinkebyfaucet.com/
    1. Go to this GitHub Repo / Discussions
 3. Ask a question on a Forum like Stack Exchange Ethereum or Stack Overflow
    1. Format your questions!!
-   2. Use [Markdown]()
+   2. Use [Markdown](https://www.markdowntutorial.com/)
 
 ### How to Debug Anything Video
-- [Patrick's Original Video]()
+- [Patrick's Original Video](https://www.youtube.com/watch?v=XT8STflvwNo)
 
 ## Installation & Setup
 -   [Visual Studio Code](https://code.visualstudio.com/)
@@ -845,7 +830,7 @@ Backup Faucet: https://rinkebyfaucet.com/
 
 > ⚠️ Please use Gitpod as an absolute last resort
 ### Gitpod
-- [Gitpod]()
+- [Gitpod](https://www.gitpod.io/)
   - **If using this, NEVER share a private key with real money on Gitpod**
   - Ideally you figure out the MacOS, Linux, or Windows install though
 
@@ -857,7 +842,7 @@ Backup Faucet: https://rinkebyfaucet.com/
   - [NodeJS Course](https://www.youtube.com/watch?v=RLtyhwFtXQA)
   - [Javascript Course](https://www.youtube.com/watch?v=jS4aFq5-91M)
 - Import your `SimpleStorage.sol`
-- [Solidity + Hardhat VSCode Extension]()
+- [Solidity + Hardhat VSCode Extension](https://marketplace.visualstudio.com/items?itemName=NomicFoundation.hardhat-solidity)
 
 - Format your solidity code with: 
 ```
@@ -871,7 +856,7 @@ Backup Faucet: https://rinkebyfaucet.com/
 In your `.vscode/settings.json` file.
 - [Prettier Extension](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 ## Tiny Javascript Refresher
-- [Javascript Tips]()
+- [Javascript Tips](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)
 ## Asynchronous Programming in Javascript
 - [Asynchronous Programming](https://www.bmc.com/blogs/asynchronous-programming/)
 - [async keyword](https://www.w3schools.com/JS//js_async.asp)
@@ -881,11 +866,11 @@ In your `.vscode/settings.json` file.
 - [Yarn Install](https://yarnpkg.com/getting-started/install)
 - [solc-js](https://github.com/ethereum/solc-js)
   - `yarn add solc@0.8.7-fixed`
-- [yarn scripts]()
+- [yarn scripts](https://classic.yarnpkg.com/lang/en/docs/cli/run/)
 ## Ganache & Networks
 - [Ganache](https://trufflesuite.com/ganache/)
-- [Networks in Metamask]()
-- [RPC URL]()
+- Networks in Metamask
+- RPC URL
 - [Geth](https://github.com/ethereum/go-ethereum)
 - [JSON RPC Spec Playground](https://playground.open-rpc.org/?schemaUrl=https://raw.githubusercontent.com/ethereum/execution-apis/assembled-spec/openrpc.json&uiSchema%5BappBar%5D%5Bui:splitView%5D=false&uiSchema%5BappBar%5D%5Bui:input%5D=false&uiSchema%5BappBar%5D%5Bui:examplesDropdown%5D=false)
 ## Introduction to Ethers.js
@@ -897,10 +882,10 @@ In your `.vscode/settings.json` file.
 ## Sending a "raw" Transaction in Ethersjs
 ## Interacting with Contracts in Ethersjs
 - [EVM Decompiler](https://ethervm.io/decompile)
-- [BigNumber]()
+- [BigNumber](https://docs.ethers.io/v5/api/utils/bignumber/)
 ## Environment Variables
 - [dotenv](https://www.npmjs.com/package/dotenv)
-- [.gitignore]()
+- [.gitignore](https://www.atlassian.com/git/tutorials/saving-changes/gitignore)
 ## Better Private Key Management
 - [wallet.encrypt](https://docs.ethers.io/v5/api/signer/#Wallet-encrypt)
 - [THE .ENV PLEDGE](https://github.com/smartcontractkit/full-blockchain-solidity-course-js/discussions/5)
@@ -909,11 +894,11 @@ In your `.vscode/settings.json` file.
 - [Best README Template](https://github.com/othneildrew/Best-README-Template)
 ## Deploying to a Testnet or a Mainnet
 - [Alchemy](https://alchemy.com/?a=673c802981)
-- [Getting your private key from Metamask]()
+- [Getting your private key from Metamask](https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Account-Private-Key)
 - `CTRL + C` stops any terminal command
 ## Verifying on Block Explorers from the UI
 ## Alchemy Dashboard & The Mempool
-- [Special Guest Albert]()
+- [Special Guest Albert Hu](https://twitter.com/thatguyintech)
 - [Mempool](https://ethereum.org/en/developers/tutorials/sending-transactions-using-web3-and-alchemy/#see-your-transaction-in-the-mempool)
 ## Lesson 5 Recap
 ### Typescript Ethers Simple Storage
@@ -929,6 +914,7 @@ In your `.vscode/settings.json` file.
 - [@ Sign node modules](https://stackoverflow.com/questions/36667258/what-is-the-meaning-of-the-at-prefix-on-npm-packages)
 
 ### Troubleshooting Hardaht Setup
+- [Special Guest Cami Ramos Garzon](https://twitter.com/camiinthisthang)
 ## Hardhat Setup Continued
 ## Deploying SimpleStorage from Hardhat
 ## Networks in Hardhat
@@ -988,32 +974,33 @@ yarn add --dev @typechain/ethers-v5 @typechain/hardhat @types/chai @types/node @
 - [Mocking](https://stackoverflow.com/questions/2665812/what-is-mocking)
 - [Aave Github](https://github.com/aave/aave-v3-core)
 - [Chainlink Github](https://github.com/smartcontractkit/chainlink)
-- [Multiple Versions of Solidity]()
-- [Tags in hardhat]()
+- Multiple Versions of Solidity
+- Tags in hardhat
 ## Utils Folder
 ## Testnet Demo - Hardhat Fund Me
-- [Hardhat Deploy Block Confirmations]()
+- Hardhat Deploy Block Confirmations
 ## Solidity Style Guide
 - [Style Guide](https://docs.soliditylang.org/en/v0.8.13/style-guide.html)
 - [NatSpec](https://docs.soliditylang.org/en/v0.8.13/natspec-format.html#natspec)
 ## Testing Fund Me
 - [Unit Testing](https://en.wikipedia.org/wiki/Unit_testing)
-- [Hardhat Deploy Fixtures]()
-- [ethers.getContract]()
-- [expect]()
-- [ethers.utils.parseUnits]()
+- [Hardhat Deploy Fixtures](https://github.com/wighawag/hardhat-deploy#creating-fixtures)
+- [ethers.getContract](https://github.com/wighawag/hardhat-deploy-ethers)
+- [expect](https://ethereum-waffle.readthedocs.io/en/latest/matchers.html)
+- [ethers.utils.parseUnits](https://docs.ethers.io/v5/api/utils/display-logic/#utils-parseUnits)
 - [Waffle Chai Matchers](https://ethereum-waffle.readthedocs.io/en/latest/matchers.html)
 ## Breakpoints & Debugging
-- [VSCode Breakpoints]()
+- [VSCode Breakpoints](https://code.visualstudio.com/Docs/editor/debugging)
 ## Gas III: 
-- [Transaction Receipt]()
+- [Transaction Response](https://docs.ethers.io/v5/api/providers/types/#providers-TransactionResponse)
+- [Transaction Receipt](https://docs.ethers.io/v5/api/providers/types/#providers-TransactionReceipt)
 ## console.log & Debugging
 - [Hardhat console.log](https://hardhat.org/hardhat-network/reference/#console-log)
 ## Testing Fund Me II
 ## Storage in Solidity
 - [Storage Layout](https://docs.soliditylang.org/en/v0.8.13/internals/layout_in_storage.html)
 - [Purpose of the memory keyword](https://stackoverflow.com/questions/33839154/in-ethereum-solidity-what-is-the-purpose-of-the-memory-keyword)
-- [getStorageAt]()
+- [getStorageAt](https://docs.ethers.io/v5/api/providers/provider/#Provider-getStorageAt)
 ## Gas Optimizations using Storage Knowledge
 - [Opcodes](https://ethereum.org/en/developers/docs/evm/opcodes/)
 - [Opcodes by Gas](https://github.com/crytic/evm-opcodes)
@@ -1022,7 +1009,7 @@ yarn add --dev @typechain/ethers-v5 @typechain/hardhat @types/chai @types/node @
 - Append `i_` to immutable variables
 - Caps lock and underscore constant variables
 ## Solidity Chainlink Style Guide
-- [Chainlink Solidity Style Guide]()
+- [Chainlink Solidity Style Guide](https://github.com/smartcontractkit/full-blockchain-solidity-course-js/issues/13)
 ## Storage Review
 ## Staging Tests
 - [Ternary](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator)
@@ -1055,8 +1042,7 @@ yarn add --dev @typechain/ethers-v5 @typechain/hardhat @types/chai @types/node @
 - [module vs text/javascript](https://stackoverflow.com/questions/51418964/script-type-text-javascript-vs-script-type-module)
 ## Sending a transaction from a Website
 - [Web3Provider](https://docs.ethers.io/v5/api/providers/other/#Web3Provider)
-- [Adding a network to metamask]()
-- [Importing a private key to metamask]()
+- [Adding a network to metamask](https://metamask.zendesk.com/hc/en-us/articles/360043227612-How-to-add-a-custom-network-RPC)
 ## Resetting an Account in Metamask
 ```
 MetaMask - RPC Error:
@@ -1092,6 +1078,7 @@ yarn add --dev @nomiclabs/hardhat-ethers@npm:hardhat-deploy-ethers ethers @nomic
 - [Events & Logging in Hardhat](https://github.com/PatrickAlphaC/hardhat-events-logs)
 ## Events in Raffle.sol
 ## Introduction to Chainlink VRF
+- [Special Guest Stephen Fluin](https://twitter.com/stephenfluin)
 ### Sub-Lesson: Chainlink VRF
 > - [Chainlink VRFv2 Docs](https://docs.chain.link/docs/get-a-random-number/)
 > - [Chainlink VRFv2 Walkthrough](https://www.youtube.com/watch?v=rdJ5d8j1RCg)
@@ -1110,13 +1097,13 @@ yarn add --dev @nomiclabs/hardhat-ethers@npm:hardhat-deploy-ethers ethers @nomic
 ### Enums
 - [Enum](https://docs.soliditylang.org/en/v0.8.13/structure-of-a-contract.html?highlight=enum#enum-types)
 ## Implementing Chainlink Keepers - checkUpkeep continued
-- [block.timestamp]()
+- block.timestamp
 ## Implementing Chainlink Keepers - performUpkeep
 ## Code Cleanup
 ## Deploying Raffle.sol
 ### Mock Chainlink VRF Coordinator
 ### Continued
-- [LINK Token]()
+- [LINK Token](https://docs.chain.link/docs/link-token-contracts/)
 ## Raffle.sol Unit Tests
 - We use `async function` in the describe blocks at the start, but we correctly take them out later. 
 ### Testing Events & Chai Matchers
@@ -1127,7 +1114,7 @@ yarn add --dev @nomiclabs/hardhat-ethers@npm:hardhat-deploy-ethers ethers @nomic
 - [Special debugging hardhat methods](https://hardhat.org/hardhat-network/reference/#special-testing-debugging-methods)
 ### Continued II
 ## Callstatic
-- [Callstatic]()
+- [Callstatic](https://docs.ethers.io/v5/api/contract/contract/#contract-callStatic)
 ### Continued III
 ### Massive Promise Test
 ### Continued IV
@@ -1178,7 +1165,7 @@ yarn create next-app .
 ```
 ## Manual Header I
 - [What is a component?](https://www.w3schools.com/react/react_components.asp)
-- [jsx]()
+- [jsx](https://reactjs.org/docs/introducing-jsx.html)
 - [Moralis](https://moralis.io/)
 - [React Moralis](https://github.com/MoralisWeb3/react-moralis)
 ### React Hooks
@@ -1187,23 +1174,23 @@ yarn create next-app .
 ## useEffect Hook
 - [useEffect Hook](https://reactjs.org/docs/hooks-effect.html)
 - [More on useEffect](https://blog.logrocket.com/guide-to-react-useeffect-hook/)
-- [React Context]()
+- [React Context](https://www.freecodecamp.org/news/react-context-for-beginners/)
   - [useEffect Firing Twice](https://stackoverflow.com/questions/60618844/react-hooks-useeffect-is-called-twice-even-if-an-empty-array-is-used-as-an-ar)
 ## Local Storage
-- [Local Storage]()
+- [Local Storage](https://codinglead.co/javascript/what-is-localstorage)
 ## isWeb3EnabledLoading
 ## web3uikit
 - [web3uikit](https://github.com/web3ui/web3uikit)
 - [web3uikit interactive docs](https://web3ui.github.io/web3uikit/?path=/story/1-web3-blockie--custom-seed)
 - [web3uikit connect button](https://web3ui.github.io/web3uikit/?path=/story/1-web3-connectbutton--default)
 ## Introduction to Calling Functions in Nextjs
-- [useWeb3Contract]()
+- [useWeb3Contract](https://github.com/MoralisWeb3/react-moralis#useweb3contract)
 ### Automatic Constant Value UI Updater
-- [ethers.utils.FormatTypes]()
+- [ethers.utils.FormatTypes](https://docs.ethers.io/v5/api/utils/abi/fragments/#fragments--formats)
 ### runContractFunction
-- [Moralis Provider]()
-- [useMoralis]()
-- [parseInt]()
+- [Moralis Provider](https://github.com/MoralisWeb3/react-moralis#wrap-your-app-in-a-moralisprovider)
+- [useMoralis](https://github.com/MoralisWeb3/react-moralis#usemoralis)
+- [parseInt](https://www.w3schools.com/JSREF/jsref_parseint.asp)
 ## useState
 - [useState Hook](https://reactjs.org/docs/hooks-state.html)
 ## Calling Functions in NextJS
@@ -1220,9 +1207,9 @@ yarn create next-app .
 - [Tailwind Extension](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
 - [Install Tailwind into NextJS](https://tailwindcss.com/docs/guides/nextjs)
 ## Introduction to Hosting your Site
-- [Vercel]()
-- [Moralis]()
-- [Netilfy]()
+- [Vercel](https://vercel.com/)
+- [Moralis](https://moralis.io/)
+- [Netilfy](https://www.netlify.com/)
 - [IPFS](https://ipfs.io/)
 ## IPFS
 - [What is IPFS](https://www.youtube.com/watch?v=5Uj6uR3fp-U)
@@ -1290,7 +1277,7 @@ yarn create next-app .
 - [aTokens](https://docs.aave.com/developers/v/1.0/developing-on-aave/the-protocol/atokens)
 ## Lesson 13 Recap
 ## Happy Bow-Tie Friday with Austin Griffith
-- [Austin Griffith](https://twitter.com/austingriffith)!
+- [Special Guest Austin Griffith](https://twitter.com/austingriffith)!
 - [Speed Run Ethereum](https://speedrunethereum.com/) 
 ### More DeFi Learnings: 
 - [Speed Run Ethereum](https://speedrunethereum.com/)
@@ -1305,9 +1292,9 @@ yarn create next-app .
 ## What is an NFT? 
 - [Video](https://www.youtube.com/watch?v=9yuHz6g_P50)
 - [Optional: All on Chain SVG NFT](https://www.youtube.com/watch?v=9oERTH9Bkw0)
-- [EIP-721]()
+- [EIP-721](https://eips.ethereum.org/EIPS/eip-721)
 ## Code Overview
-- [Opensea Testnet]()
+- [Opensea Testnet](https://testnets.opensea.io/)
 ## Hardhat Setup
 ## Basic NFT
 ### Write Tests 
@@ -1321,13 +1308,13 @@ yarn create next-app .
 ### Uploading Token Images with Pinata
 - [Pinata](https://pinata.cloud)
 - [nft.storage](https://nft.storage)
-- [Pinata NPM]()
-- [Pinata Docs]()
+- [Pinata NPM](https://www.npmjs.com/package/@pinata/sdk)
+- [Pinata Docs](https://docs.pinata.cloud/)
 ### Uploading Token URIs (metadata) with Pinata
 ### Deploying
 ### Tests
 ## Dynamic SVG On-Chain NFT
-- [Patrick's Original Video]()
+- [Patrick's Original Video](https://www.youtube.com/watch?v=9oERTH9Bkw0)
 ### What is an SVG?
 - [SVG Tutorial](https://www.w3schools.com/graphics/svg_intro.asp)
   - [On-Chain SVG Example](https://opensea.io/assets/matic/0x291ff90b9c410f56e047599bfee6b585c0c484d7/2)
@@ -1335,11 +1322,11 @@ yarn create next-app .
 ### Base64 Encoding
 - [Base64 Encoding](https://en.wikipedia.org/wiki/Base64)
   - [Example Encoder](https://base64.guru/converter/encode/image/svg)
-- [base64-sol]()
+- [base64-sol](https://www.npmjs.com/package/base64-sol/v/1.0.1)
 ## Advanced: EVM Opcodes, Encoding, and Calling
 ### abi.encode & abi.encodePacked
-- [abi.encode]()
-- [abi.encodePacked]()
+- [abi.encode](https://docs.soliditylang.org/en/v0.8.14/cheatsheet.html?highlight=cheatsheet#global-variables)
+- [abi.encodePacked](https://docs.soliditylang.org/en/v0.8.14/cheatsheet.html?highlight=cheatsheet#global-variables)
 Thanks to [Alex Roan](https://twitter.com/alexroan) for his help on this session!
 - [Example Contract Creation Transaction](https://rinkeby.etherscan.io/tx/0x924f592458b0e37ee17024f9c826b97697455cd97f6946b802bc42296e77ae43)
 What REALLY is the ABI?
@@ -1350,8 +1337,8 @@ What REALLY is the ABI?
 ### Introduction to Encoding Function Calls Directly
 ### Introduction to Encoding Function Calls Recap
 ### Encoding Function Calls Directly
-- [Function Selector]()
-- [Function Signature]() 
+- [Function Selector](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-iii-the-function-selector-6a9b6886ea49/)
+- [Function Signature](https://twitter.com/PatrickAlphaC/status/1517156225670078465) 
 ### Creating an NFT TokenURI on-Chain
 ### Making the NFT Dynamic
 ### Deploy Script
@@ -1372,19 +1359,19 @@ Extra credit:
  - Frontend (TheGraph Indexer): https://github.com/PatrickAlphaC/nextjs-nft-marketplace-thegraph-fcc    
    - The Graph: https://github.com/PatrickAlphaC/graph-nft-marketplace-fcc  
 
-Special thanks to [Matt]() for help with this section. 
+Special thanks to [Matt Durkin](https://twitter.com/mdurkin92) for help with this section. 
 
 ## Introduction
-- [Opensea]()
+- [Opensea](https://opensea.io/)
 - [Artion](https://github.com/Fantom-foundation/Artion-Contracts)
 ## Part I: NFT Marketplace Contracts
 ### Hardhat Setup
 ### NftMarketplace.sol
-- [Pull Over Push]()
+- [Pull Over Push](https://fravoll.github.io/solidity-patterns/pull_over_push.html)
 ## Reentrancy
 - [Reentrancy](https://solidity-by-example.org/hacks/re-entrancy)
 - [Rekt.news](https://rekt.news/leaderboard/)
-- [Openzeppelin NonReentrant]()
+- [Openzeppelin NonReentrant](https://docs.openzeppelin.com/contracts/4.x/api/security#ReentrancyGuard)
 ### NftMarketplace.sol - Continued
 ### NftMarketplace.sol - Deploy Script
 ### NftMarketplace.sol - Tests
@@ -1392,13 +1379,13 @@ Special thanks to [Matt]() for help with this section.
 
 ## Part II: Moralis Front End
 ### What is Moralis?
-- [Special Guest Ivan]()
+- [Special Guest Ivan Liljeqvist](https://twitter.com/IvanOnTech)
 ### NextJS Setup
 - [Link NextJS](https://nextjs.org/docs/api-reference/next/link)
 ### Adding Tailwind
 - [Tailwind with NextJS](https://tailwindcss.com/docs/guides/nextjs)
 ### Introduction to Indexing in Web3
-- [TheGraph]()
+- [TheGraph](https://thegraph.com/en/)
 - [Moralis](https://moralis.io/)
 ### Connecting Moralis to our Local Hardhat Node
 - [NextJS Environment Variables](https://nextjs.org/docs/basic-features/environment-variables)
@@ -1415,39 +1402,36 @@ Special thanks to [Matt]() for help with this section.
 - [Moralis Logging](https://docs.moralis.io/moralis-dapp/tools/moralis-admin-cli#get-logs)
 - [Hardhat Network Reference](https://hardhat.org/hardhat-network/reference/)
 - Moralis Database only confirms a transaction with a block confirmation - so we need to move blocks on our hardhat local node. 
-- [Moralis Triggers]()
+- [Moralis Triggers](https://docs.moralis.io/moralis-dapp/cloud-code/triggers)
 #### Practice Resetting the Local Chain
 ### Moralis Cloud Functions II
 ### Querying the Moralis Database
 - [Moralis Queries](https://docs.moralis.io/moralis-dapp/database/queries)
 ### Rendering the NFT Images
-- [useNFTBalance]()
-- [fetch]()
-- [next/image]()
+- [useNFTBalance](https://github.com/MoralisWeb3/react-moralis#usenftbalances)
+- [fetch](https://www.npmjs.com/package/node-fetch)
+- [next/image](https://nextjs.org/docs/api-reference/next/image#loader-configuration)
 ### Update Listing Modal
 ### Buy NFT Listing
 ### Listing NFTs for Sale
-- [web3uikit Form]()
+- [web3uikit Form](https://web3uikit.com/)
 
 ## Part III: TheGraph Front End
 ### Introduction
 ### What is The Graph? 
-- [Special Guest Nader Dabit]()
+- [Special Guest Nader Dabit](https://twitter.com/dabit3)
 ### Building a Subgraph
-- [Example Subgraphs]()
-- [The Graph Studio]()
-- [GraphQL VSCode Extension]()
+- [Example Subgraphs](https://thegraph.com/explorer/)
+- [The Graph Studio](https://thegraph.com/studio/)
+- [GraphQL VSCode Extension](https://marketplace.visualstudio.com/items?itemName=GraphQL.vscode-graphql)
 - [GraphQL](https://graphql.org/)
 ### Deploying our Subgraph
 - [GraphQL Queries](https://www.tutorialspoint.com/graphql/graphql_query.htm)
 ### Reading from The Graph
 - [@apollo/client](https://www.npmjs.com/package/@apollo/client)
-- [gql]()
+- [gql](https://www.npmjs.com/package/gql)
 - [The Graph Docs](https://thegraph.com/docs/en/)
 ### Hosting our Dapp
-- [Hosting on Moralis](https://moralis.io/how-to-host-a-dapp-dapp-hosting-explained/)
-- [Vercel]()
-- [Netilfy]()
 
 🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊 Completed Front End Basics! 🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊 
 
@@ -1463,12 +1447,12 @@ Special thanks to [Matt]() for help with this section.
 2.  Social Migrate
 3.  Proxy
     1.  Proxy Gotchas
-        1. [Function Collisions]()
-        2. [Storage Collisions]()
+        1. [Function Collisions](https://blog.openzeppelin.com/the-state-of-smart-contract-upgrades/#diamonds)
+        2. [Storage Collisions](https://blog.openzeppelin.com/the-state-of-smart-contract-upgrades/#diamonds)
     2.  [Metamorphic Upgrades](https://github.com/PatrickAlphaC/hardhat-metamorphic-upgrades-fcc)
-    3.  [Transparent]()
-    4.  [UUPS]()
-    5.  [Diamond]()
+    3.  [Transparent](https://blog.openzeppelin.com/the-transparent-proxy-pattern/)
+    4.  [UUPS](https://forum.openzeppelin.com/t/uups-proxies-tutorial-solidity-javascript/7786)
+    5.  [Diamond](https://eips.ethereum.org/EIPS/eip-2535)
 ## Delegatecall
 - [delegatecall (solidity-by-example)](https://solidity-by-example.org/delegatecall)
 - [Yul](https://docs.soliditylang.org/en/latest/yul.html)
@@ -1492,7 +1476,7 @@ Special thanks to [Matt]() for help with this section.
 - [What is a DAO?](https://www.youtube.com/watch?v=X_QKZzd68ro)
 ## How to build a DAO
 - [How to build a DAO](https://www.youtube.com/watch?v=AhJtmUqhAqg)
-- [That's Patrick]()
+- That's Patrick
 - [PY Code](https://github.com/brownie-mix/dao-mix)
 - [Python Video](https://www.youtube.com/watch?v=rD8AxZ_wBA4)
 - [Openzeppelin Governance](https://docs.openzeppelin.com/contracts/4.x/api/governance)
@@ -1539,10 +1523,11 @@ Special thanks to [Matt]() for help with this section.
 -   [Patrick Collins](https://www.youtube.com/channel/UCn-3f8tw_E1jZvhuHatROwA)
 -   [Dapp University](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ)
 -   [ChainShot](https://www.chainshot.com/courses)
--   [Ivan on Tech](https://academy.ivanontech.com/)
--   [Cami]()
--   [Albert]()
--   [Ally]()
+-   [Cami Ramos Garzon](https://twitter.com/camiinthisthang)
+-   [Albert Hu](https://twitter.com/thatguyintech)
+-   [Ivan Liljeqvist](https://twitter.com/IvanOnTech)
+-   [Ally Haire](https://twitter.com/DeveloperAlly)
+-   [Stephen Fluin](https://twitter.com/stephenfluin)
 -   [Eat the Blocks](https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA)
 -   [Austin Griffith](https://www.youtube.com/channel/UC_HI2i2peo1A-STdG22GFsA)
 -   [Nader Dabit](https://www.youtube.com/user/boyindasouth)
@@ -1566,4 +1551,7 @@ Be sure to check out project grant programs!
 
 And make today an amazing day!
 
+# Thank you
+
+Thanks to everyone who is taking, participaint in, and working with this course. It's been a passion project and data dump of everything I've learnt in the web3 space to get you up to speed quickly. Also a big thank you to Chainlink Labs for encouraging this course to come to light. 
 
