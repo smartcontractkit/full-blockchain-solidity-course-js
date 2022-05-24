@@ -931,7 +931,7 @@ In your `.vscode/settings.json` file.
 ## Artifacts Troubleshooting
 ## Custom Hardhat Tasks
 - [Hardhat Tasks](https://hardhat.org/guides/create-task.html)
-- [Javascript Arrow Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_funct ions)
+- [Javascript Arrow Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
 ## Hardhat Localhost Node
 ## The Hardhat Console
 - [Hardhat Console](https://hardhat.org/guides/hardhat-console.html)
