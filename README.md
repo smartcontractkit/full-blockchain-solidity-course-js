@@ -13,12 +13,15 @@
 
 <br/>
 <p align="center">
+<a href="https://www.youtube.com/watch?v=gyMwXuJrbJQ" target="_blank">
 <img src="./img/hh-fcc-background.png" width="350" alt="Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Javascript Tutorial">
 </a>
 </p>
 <br/>
 
 Welcome to the repository for the Ultimate Web3, Full Stack Solidity, and Smart Contract - Beginner to Expert Full Course | Javascript Edition FreeCodeCamp Course!
+
+# Link to video: https://www.youtube.com/watch?v=gyMwXuJrbJQ
 
 All code references have both a javascript and a typescript edition.
 
