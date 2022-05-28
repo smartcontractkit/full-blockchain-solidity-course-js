@@ -526,9 +526,10 @@ Backup Faucet: https://rinkebyfaucet.com/
 
 # Lesson 0: The Edge of the Rabbit Hole
 ## Welcome to the course!
-*Timestamp here* <!-- Link to Timestamps for each section will go in italics under them -->
+*[⌨️ (00:00:00) Lesson 0: Welcome To Blockchain](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=0s)*
 ## Best Practices 
 # Lesson 1: Blockchain Basics
+*[⌨️ (00:09:05) Lesson 1: Blockchain Basics](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=545s)*
 ## What is a Blockchain? What does a blockchain do? 
 -   [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
     -   [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto)
@@ -612,6 +613,8 @@ Backup Faucet: https://rinkebyfaucet.com/
 
 # Lesson 2: [Welcome to Remix! Simple Storage](https://github.com/PatrickAlphaC/simple-storage-fcc)
 
+*[⌨️ (02:01:16) Lesson 2: Welcome to Remix! Simple Storage](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=7276s)*
+
 💻 Code: https://github.com/PatrickAlphaC/simple-storage-fcc
 
 ## Introduction
@@ -680,6 +683,8 @@ Backup Faucet: https://rinkebyfaucet.com/
 
 # Lesson 3: Remix Storage Factory
 
+*[⌨️ (03:05:34) Lesson 3: Remix Storage Factory](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=11134s)*
+
 💻 Code: https://github.com/PatrickAlphaC/storage-factory-fcc
 
 ## Introduction
@@ -701,6 +706,8 @@ Backup Faucet: https://rinkebyfaucet.com/
 ## Lesson 3 Recap
 
 # Lesson 4: Remix Fund Me
+
+*[⌨️ (03:31:55) Lesson 4: Remix Fund Me](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=12715s)*
 
 💻 Code: https://github.com/PatrickAlphaC/fund-me-fcc
 
@@ -798,6 +805,8 @@ Backup Faucet: https://rinkebyfaucet.com/
 🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊 Completed Solidity Basics! 🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊 
 
 # Lesson 5: Ethers.js Simple Storage
+
+*[⌨️ (05:30:42) Lesson 5: Ethers.js Simple Storage](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=19842s)*
 
 💻 Code: https://github.com/PatrickAlphaC/ethers-simple-storage-fcc
 
@@ -908,6 +917,8 @@ In your `.vscode/settings.json` file.
 
 # Lesson 6: Hardhat Simple Storage
 
+*[⌨️ (08:20:17) Lesson 6: Hardhat Simple Storage](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=30017s)*
+
 💻 Code: https://github.com/PatrickAlphaC/hardhat-simple-storage-fcc
 
 ## Introduction
@@ -959,6 +970,8 @@ yarn add --dev @typechain/ethers-v5 @typechain/hardhat @types/chai @types/node @
 ```
 
 # Lesson 7: Hardhat Fund Me
+
+*[⌨️ (10:00:48) Lesson 7: Hardhat Fund Me](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=36048s)*
 
 💻 Code: https://github.com/PatrickAlphaC/hardhat-fund-me-fcc
 
@@ -1027,6 +1040,8 @@ yarn add --dev @typechain/ethers-v5 @typechain/hardhat @types/chai @types/node @
 
 # Lesson 8: HTML / Javascript Fund Me (Full Stack / Front End)
 
+*[⌨️ (12:32:57) Lesson 8: HTML / Javascript Fund Me (Full Stack / Front End)](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=45177s)*
+
 💻 Code: https://github.com/PatrickAlphaC/html-fund-me-fcc
 
 ## Introduction
@@ -1064,6 +1079,8 @@ MetaMask - RPC Error:
 - [Watchify](https://www.npmjs.com/package/watchify)
 
 # Lesson 9: Hardhat Smart Contract Lottery
+
+*[⌨️ (13:41:02) Lesson 9: Hardhat Smart Contract Lottery](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=49262s)*
 
 💻 Code: https://github.com/PatrickAlphaC/hardhat-smartcontract-lottery-fcc
 
@@ -1132,6 +1149,8 @@ yarn add --dev @nomiclabs/hardhat-ethers@npm:hardhat-deploy-ethers ethers @nomic
 🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊 Completed Hardhat Basics! 🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊 
 
 # Lesson 10: NextJS Smart Contract Lottery (Full Stack / Front End)
+
+*[⌨️ (16:34:07) Lesson 10: NextJS Smart Contract Lottery (Full Stack / Front End)](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=59647s)*
 
 💻 Code: https://github.com/PatrickAlphaC/nextjs-smartcontract-lottery-fcc
 
@@ -1230,9 +1249,13 @@ yarn create next-app .
 
 # Lesson 11: Hardhat Starter Kit
 
+*[⌨️ (18:51:36) Lesson 11: Hardhat Starter Kit](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=67896s)*
+
 💻 Code: https://github.com/smartcontractkit/hardhat-starter-kit
 
 # Lesson 12: Hardhat ERC20s
+
+*[⌨️ (18:59:24) Lesson 12: Hardhat ERC20s](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=68364s)*
 
 💻 Code: https://github.com/PatrickAlphaC/hardhat-erc20-fcc
 
@@ -1252,6 +1275,8 @@ yarn create next-app .
 ## Lesson 12 Recap
 
 # Lesson 13: Hardhat DeFi & Aave
+
+*[⌨️ (19:16:13) Lesson 13: Hardhat DeFi & Aave](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=69373s)*
 
 💻 Code: https://github.com/PatrickAlphaC/hardhat-defi-fcc
 
@@ -1290,6 +1315,8 @@ yarn create next-app .
 
 
 # Lesson 14: Hardhat NFTs (EVERYTHING you need to know about NFTs)
+
+*[⌨️ (20:28:51) Lesson 14: Hardhat NFTs ](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=73731s)*
 
 💻 Code: https://github.com/PatrickAlphaC/hardhat-nft-fcc
 
@@ -1356,6 +1383,8 @@ Extra credit:
   - [From Solidity to byte code](https://www.youtube.com/watch?v=RxL_1AfV7N4)
 
 # Lesson 15: NextJS NFT Marketplace (If you finish this lesson, you are a full-stack MONSTER!)
+
+*[⌨️ (23:37:03) Lesson 15: NextJS NFT Marketplace (Full Stack / Front End)](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=85023s)*
 
 💻 Code: 
  - Backend (Contracts): https://github.com/PatrickAlphaC/hardhat-nft-marketplace-fcc
@@ -1441,6 +1470,8 @@ Special thanks to [Matt Durkin](https://twitter.com/mdurkin92) for help with thi
 
 # Lesson 16: Hardhat Upgrades
 
+*[⌨️ (28:53:11) Lesson 16: Hardhat Upgrades](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=103991s)*
+
 💻 Code: https://github.com/PatrickAlphaC/hardhat-upgrades-fcc
 
 ## Upgradeable Smart Contracts Overview
@@ -1471,6 +1502,8 @@ Special thanks to [Matt Durkin](https://twitter.com/mdurkin92) for help with thi
 
 # Lesson 17: Hardhat DAOs
 
+*[⌨️ (29:45:24) Lesson 17: Hardhat DAOs](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=107124s)*
+
 ⬆️ Up-to-date code: https://github.com/PatrickAlphaC/dao-template
 
 💻 Code from video: https://github.com/PatrickAlphaC/hardhat-dao-fcc
@@ -1489,6 +1522,8 @@ Special thanks to [Matt Durkin](https://twitter.com/mdurkin92) for help with thi
 - [CastVoteBySig](https://forum.openzeppelin.com/t/what-is-votecastbysig/17069/2)
 
 # Lesson 18: Security & Auditing
+
+*[⌨️ (31:28:32) Lesson 18: Security & Auditing ](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=113312s)*
 
 💻 Code: https://github.com/PatrickAlphaC/hardhat-security-fcc
 
