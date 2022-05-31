@@ -10,4 +10,6 @@ On the Ganache UI, you can select a different hostname and connect to whatever I
 
 ![img](./img/ganache-windows.png)
 
+Or, optionally, you can install `ganache-cli` [as this user did](https://github.com/smartcontractkit/full-blockchain-solidity-course-js/discussions/39#discussioncomment-2854165).
+
 --------
