@@ -38,7 +38,7 @@ Backup Faucet: https://rinkebyfaucet.com/
 
 ### Questions
 
--   [Github Discussions](https://github.com/smartcontractkit/full-blockchain-solidity-course-py/discussions)
+-   [Github Discussions](https://github.com/smartcontractkit/full-blockchain-solidity-course-js/discussions)
     -   Ask questions and chat about the course here!
 -   [Stack Exchange Ethereum](https://ethereum.stackexchange.com/)
     -   Great place for asking technical questions about Ethereum
