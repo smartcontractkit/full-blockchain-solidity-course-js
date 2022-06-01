@@ -121,7 +121,7 @@ Backup Faucet: https://rinkebyfaucet.com/
 <li><a href="#review-of-sending-eth-and-working-with-chainlink">Review of Sending ETH and working with Chainlink</a></li>
 <li><a href="#interfaces--price-feeds">Interfaces &amp; Price Feeds</a></li>
 <li><a href="#importing-from-github--npm">Importing from GitHub &amp; NPM</a></li>
-<li><a href="#floating-point-math-in-solidtiy">Floating Point Math in Solidtiy</a></li>
+<li><a href="#floating-point-math-in-solidtiy">Floating Point Math in Solidity</a></li>
 <li><a href="#basic-solidity-arrays--structs-ii">Basic Solidity: Arrays &amp; Structs II</a></li>
 <li><a href="#review-of-interfacs-importing-from-github--math-in-solidity">Review of Interfacs, Importing from GitHub, &amp; Math in Solidity</a></li>
 <li><a href="#libraries">Libraries</a></li>
