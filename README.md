@@ -922,47 +922,65 @@ In your `.vscode/settings.json` file.
 💻 Code: https://github.com/PatrickAlphaC/hardhat-simple-storage-fcc
 
 ## Introduction
+*[⌨️ (08:20:19) Introduction](https://youtu.be/gyMwXuJrbJQ?t=30019)*
 ## Hardhat Setup
+*[⌨️ (08:22:47) Hardhat Setup](https://youtu.be/gyMwXuJrbJQ?t=30167)*
 - [Hardhat Documentation](https://hardhat.org/)
 - [DevDependencies vs Dependencies](https://stackoverflow.com/questions/18875674/whats-the-difference-between-dependencies-devdependencies-and-peerdependencies)
 - [@ Sign node modules](https://stackoverflow.com/questions/36667258/what-is-the-meaning-of-the-at-prefix-on-npm-packages)
 
-### Troubleshooting Hardaht Setup
+### Troubleshooting Hardhat Setup
+*[⌨️ (08:29:43) Troubleshooting Hardhat Setup](https://youtu.be/gyMwXuJrbJQ?t=30583)*
 - [Special Guest Cami Ramos Garzon](https://twitter.com/camiinthisthang)
 ## Hardhat Setup Continued
+*[⌨️ (08:31:48) Hardhat Setup Continued](https://youtu.be/gyMwXuJrbJQ?t=30708)*
 ## Deploying SimpleStorage from Hardhat
+*[⌨️ (08:33:10) Deploying SimpleStorage from Hardhat](https://youtu.be/gyMwXuJrbJQ?t=30790)*
 ## Networks in Hardhat
+*[⌨️ (08:41:44) Networks in Hardhat](https://youtu.be/gyMwXuJrbJQ?t=31304)*
 - [The Hardhat Network](https://hardhat.org/hardhat-network/)
 - [Hardhat configuration](https://hardhat.org/config/#configuration)
 - [Chain ID List](https://chainlist.org/)
-## Programatic Verification
+## Programmatic Verification
+*[⌨️ (08:51:16) Programmatic Verification](https://youtu.be/gyMwXuJrbJQ?t=31876)*
 - [Etherscan Verify Tutorial](https://docs.etherscan.io/tutorials/verifying-contracts-programmatically)
 - [Etherscan Docs](https://docs.etherscan.io/)
 - [Hardhat-Etherscan](https://hardhat.org/plugins/nomiclabs-hardhat-etherscan.html)
 - [Etherscan API Keys](https://info.etherscan.com/api-keys/)
 - [Javascript == vs ===](https://stackoverflow.com/questions/359494/which-equals-operator-vs-should-be-used-in-javascript-comparisons)
 ## Interacting with Contracts in Hardhat
+*[⌨️ (09:06:37) Interacting with Contracts in Hardhat](https://youtu.be/gyMwXuJrbJQ?t=32797)*
 ## Artifacts Troubleshooting
+*[⌨️ (09:09:42) Artifacts Troubleshooting](https://youtu.be/gyMwXuJrbJQ?t=32982)*
 ## Custom Hardhat Tasks
+*[⌨️ (09:10:52) Custom Hardhat Tasks](https://youtu.be/gyMwXuJrbJQ?t=33052)*
 - [Hardhat Tasks](https://hardhat.org/guides/create-task.html)
 - [Javascript Arrow Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
 ## Hardhat Localhost Node
+*[⌨️ (09:18:12) Hardhat Localhost Node](https://youtu.be/gyMwXuJrbJQ?t=33492)*
 ## The Hardhat Console
+*[⌨️ (09:23:11) The Hardhat Console](https://youtu.be/gyMwXuJrbJQ?t=33791)*
 - [Hardhat Console](https://hardhat.org/guides/hardhat-console.html)
 ## Hardhat Tests
+*[⌨️ (09:26:13) Hardhat Tests](https://youtu.be/gyMwXuJrbJQ?t=33973)*
 - [Hardhat Tests](https://hardhat.org/tutorial/testing-contracts.html#_5-testing-contracts)
 - [Mocha Style Tests](https://mochajs.org/)
 - [Chai](https://www.npmjs.com/package/chai)
 - [Waffle Tests](https://ethereum-waffle.readthedocs.io/en/latest/)
 ## Hardhat Gas Reporter
+*[⌨️ (09:38:10) Hardhat Gas Reporter](https://youtu.be/gyMwXuJrbJQ?t=34690)*
 - [Hardhat Gas Reporter](https://www.npmjs.com/package/hardhat-gas-reporter)
 - [Coinmarketcap API](https://coinmarketcap.com/api/)
 ## Solidity Coverage
+*[⌨️ (09:44:40) Solidity Coverage](https://youtu.be/gyMwXuJrbJQ?t=35080)*
 - [Solidity Coverage](https://github.com/sc-forks/solidity-coverage)
 ## Hardhat Waffle
+*[⌨️ (09:47:02) Hardhat Waffle](https://youtu.be/gyMwXuJrbJQ?t=35222)*
 - [Hardhat-Waffle](https://npm.io/package/@nomiclabs/hardhat-waffle)
 ## Lesson 6 Recap
+*[⌨️ (09:47:37) Lesson 6 Recap](https://youtu.be/gyMwXuJrbJQ?t=35257)*
 ### Typescript Hardhat Simple Storage
+*[⌨️ (09:52:15) Typescript Hardhat Simple Storage](https://youtu.be/gyMwXuJrbJQ?t=35535)*
 - [Typechain](https://github.com/dethcrypto/TypeChain)
 
 ```
