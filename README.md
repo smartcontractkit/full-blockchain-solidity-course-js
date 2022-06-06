@@ -995,29 +995,40 @@ yarn add --dev @typechain/ethers-v5 @typechain/hardhat @types/chai @types/node @
 💻 Code: https://github.com/PatrickAlphaC/hardhat-fund-me-fcc
 
 ## Introduction
+*[⌨️ (10:00:50) Introduction](https://youtu.be/gyMwXuJrbJQ?t=36050)*
 ## Hardhat Setup - Fund Me
+*[⌨️ (10:03:41) Hardhat Setup - Fund Me](https://youtu.be/gyMwXuJrbJQ?t=36221)*
 ## Linting
+*[⌨️ (10:06:20) Linting](https://youtu.be/gyMwXuJrbJQ?t=36380)*
 - [Eslint](https://eslint.org/)
 - [Solhint](https://github.com/protofire/solhint)
 - [Linting Code](https://www.perforce.com/blog/qac/what-lint-code-and-why-linting-important)
 ## Hardhat Setup - Fund Me - Continued
+*[⌨️ (10:07:47) Hardhat Setup - Fund Me - Continued](https://youtu.be/gyMwXuJrbJQ?t=36467)*
 ## Importing from NPM
+*[⌨️ (10:09:38) Importing from NPM](https://youtu.be/gyMwXuJrbJQ?t=36578)*
 - [@chainlink/contracts](https://www.npmjs.com/package/@chainlink/contracts)
 ## Hardhat Deploy
+*[⌨️ (10:10:43) Hardhat Deploy](https://youtu.be/gyMwXuJrbJQ?t=36643)*
 - [Hardhat Deploy](https://github.com/wighawag/hardhat-deploy)
 ## Mocking
+*[⌨️ (10:21:05) Mocking](https://youtu.be/gyMwXuJrbJQ?t=37265)*
 - [Mocking](https://stackoverflow.com/questions/2665812/what-is-mocking)
 - [Aave Github](https://github.com/aave/aave-v3-core)
 - [Chainlink Github](https://github.com/smartcontractkit/chainlink)
 - Multiple Versions of Solidity
 - Tags in hardhat
 ## Utils Folder
+*[⌨️ (10:52:51) Utils Folder](https://youtu.be/gyMwXuJrbJQ?t=39171)*
 ## Testnet Demo - Hardhat Fund Me
+*[⌨️ (10:55:45) Testnet Demo - Hardhat Fund Me](https://youtu.be/gyMwXuJrbJQ?t=39345)*
 - Hardhat Deploy Block Confirmations
 ## Solidity Style Guide
+*[⌨️ (11:00:10) Solidity Style Guide](https://youtu.be/gyMwXuJrbJQ?t=39610)*
 - [Style Guide](https://docs.soliditylang.org/en/v0.8.13/style-guide.html)
 - [NatSpec](https://docs.soliditylang.org/en/v0.8.13/natspec-format.html#natspec)
 ## Testing Fund Me
+*[⌨️ (11:08:36) Testing Fund Me](https://youtu.be/gyMwXuJrbJQ?t=40116)*
 - [Unit Testing](https://en.wikipedia.org/wiki/Unit_testing)
 - [Hardhat Deploy Fixtures](https://github.com/wighawag/hardhat-deploy#creating-fixtures)
 - [ethers.getContract](https://github.com/wighawag/hardhat-deploy-ethers)
@@ -1025,18 +1036,24 @@ yarn add --dev @typechain/ethers-v5 @typechain/hardhat @types/chai @types/node @
 - [ethers.utils.parseUnits](https://docs.ethers.io/v5/api/utils/display-logic/#utils-parseUnits)
 - [Waffle Chai Matchers](https://ethereum-waffle.readthedocs.io/en/latest/matchers.html)
 ## Breakpoints & Debugging
+*[⌨️ (11:30:39) Breakpoints & Debugging](https://youtu.be/gyMwXuJrbJQ?t=41439)*
 - [VSCode Breakpoints](https://code.visualstudio.com/Docs/editor/debugging)
-## Gas III: 
+## Gas III 
+*[⌨️ (11:33:40) Gas III](https://youtu.be/gyMwXuJrbJQ?t=41620)*
 - [Transaction Response](https://docs.ethers.io/v5/api/providers/types/#providers-TransactionResponse)
 - [Transaction Receipt](https://docs.ethers.io/v5/api/providers/types/#providers-TransactionReceipt)
 ## console.log & Debugging
+*[⌨️ (11:36:35) console.log & Debugging](https://youtu.be/gyMwXuJrbJQ?t=41795)*
 - [Hardhat console.log](https://hardhat.org/hardhat-network/reference/#console-log)
 ## Testing Fund Me II
+*[⌨️ (11:37:31) Testing Fund Me II](https://youtu.be/gyMwXuJrbJQ?t=41851)*
 ## Storage in Solidity
+*[⌨️ (11:44:34) Storage in Solidity](https://youtu.be/gyMwXuJrbJQ?t=42274)*
 - [Storage Layout](https://docs.soliditylang.org/en/v0.8.13/internals/layout_in_storage.html)
 - [Purpose of the memory keyword](https://stackoverflow.com/questions/33839154/in-ethereum-solidity-what-is-the-purpose-of-the-memory-keyword)
 - [getStorageAt](https://docs.ethers.io/v5/api/providers/provider/#Provider-getStorageAt)
 ## Gas Optimizations using Storage Knowledge
+*[⌨️ (11:52:38) Gas Optimizations using Storage Knowledge](https://youtu.be/gyMwXuJrbJQ?t=42758)*
 - [Opcodes](https://ethereum.org/en/developers/docs/evm/opcodes/)
 - [Opcodes by Gas](https://github.com/crytic/evm-opcodes)
 - [Opcodes by Gas](https://evm.codes/)
@@ -1044,13 +1061,19 @@ yarn add --dev @typechain/ethers-v5 @typechain/hardhat @types/chai @types/node @
 - Append `i_` to immutable variables
 - Caps lock and underscore constant variables
 ## Solidity Chainlink Style Guide
+*[⌨️ (12:05:29) Solidity Chainlink Style Guide](https://youtu.be/gyMwXuJrbJQ?t=43529)*
 - [Chainlink Solidity Style Guide](https://github.com/smartcontractkit/full-blockchain-solidity-course-js/issues/13)
 ## Storage Review
+*[⌨️ (12:09:59) Storage Review](https://youtu.be/gyMwXuJrbJQ?t=43799)*
 ## Staging Tests
+*[⌨️ (12:11:43) Staging Tests](https://youtu.be/gyMwXuJrbJQ?t=43903)*
 - [Ternary](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator)
 ## Running Scripts on a Local Node
+*[⌨️ (12:17:58) Running Scripts on a Local Node](https://youtu.be/gyMwXuJrbJQ?t=44278)*
 ## Adding Scripts to your package.json
+*[⌨️ (12:22:00) Adding Scripts to your package.json](https://youtu.be/gyMwXuJrbJQ?t=44520)*
 ## Pushing to GitHub
+*[⌨️ (12:25:17) Pushing to GitHub](https://youtu.be/gyMwXuJrbJQ?t=44717)*
 - [Github Quickstart](https://docs.github.com/en/get-started/quickstart)
 - [What is Git?](https://www.git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
 - [The quickstart that we follow in the video](https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github#adding-a-local-repository-to-github-using-git)
