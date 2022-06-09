@@ -59,3 +59,14 @@ Keep this running in it's own terminal, and use the endpoint it gives you. To ki
 
 
 --------
+
+# Lesson 9
+
+## Keepers Not Kicking Off Troubleshooting
+
+If your keepers are not kicking off, run through this checklist to find out why. 
+
+1. Double check the subscription ID in your contract
+2. Double check the subscription is funded with enough LINK 
+3. Is `checkUpkeep` returning true?  
+4. Can you call `performUpkeep` yourself? (If you can't the keeper can't!)
