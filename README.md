@@ -1135,7 +1135,6 @@ yarn add --dev @nomiclabs/hardhat-ethers@npm:hardhat-deploy-ethers ethers @nomic
 ## Raffle.sol Setup
 - [Custom Errors in Solidity](https://blog.soliditylang.org/2021/04/21/custom-errors/)
 ## Introduction to Events
-- [Events and Logging](https://www.youtube.com/watch?v=KDYJC85eS5M)
 - [Events & Logging Video](https://www.youtube.com/watch?v=KDYJC85eS5M)
 - [Events & Logging in Hardhat](https://github.com/PatrickAlphaC/hardhat-events-logs)
 ## Events in Raffle.sol
