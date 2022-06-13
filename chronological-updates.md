@@ -17,6 +17,12 @@ On the Ganache UI, you can select a different hostname and connect to whatever I
 
 ![img](./img/ganache-windows.png)
 
+You can also try to edit it by:
+
+1. Inside Ganache in the top-right corner tap on the gear icon (settings).
+2. Then in the server tab, change the HOSTNAME and select 0.0.0.0 - All Interfaces.
+3. Now replace your RPC Server URL inside the code with this latest URL that will be something like: HTTP://0.0.0.0.7545. Recheck this from Ganache.
+
 ### Using `ganache`
 
 ```
