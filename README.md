@@ -529,7 +529,7 @@ Backup Faucet: https://rinkebyfaucet.com/
 *[⌨️ (00:00:00) Lesson 0: Welcome To Blockchain](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=0s)*
 ## Best Practices 
 - **Follow the repository:** While going through the course be 100% certain to follow along with the github repository, If you run into in an issue check the chronological-updates in the repo.
-- **Be Active in the community:**Ask questions and engage with other developers going through the course in the discussions tab, be sure to go and say hello or gm! This space is different from the other industries, you don't have to be secretive, communicate, network and learn with others :)
+- **Be Active in the community: **Ask questions and engage with other developers going through the course in the discussions tab, be sure to go and say hello or gm! This space is different from the other industries, you don't have to be secretive, communicate, network and learn with others :)
 - **Learn at your own pace:** It doesnt matter if it takes you a day, a week, a month or even a year. Progress >>> Perfection
 - **Take Breaks:** You will exhaust your mind and recall less if you go all out and watch the entire course in one siting.**Suggested Strategy:** every 25 minutes take a 5 min break, and every 2 hours take a longer 30 min break
 - **Refer to Documentation:** Things are contantly being updated, so whenever Patrick opens up some documentation, open it your end and maybe even have the code sample next to you.
