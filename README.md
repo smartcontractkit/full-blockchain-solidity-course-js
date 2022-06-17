@@ -1633,7 +1633,7 @@ And make today an amazing day!
 
 # Thank you
 
-Thanks to everyone who is taking, participaint in, and working with this course. It's been a passion project and data dump of everything I've learnt in the web3 space to get you up to speed quickly. Also a big thank you to Chainlink Labs for encouraging this course to come to light - and many Chainlink Labs teammembers who helped with various assets!
+Thanks to everyone who is taking, participating in, and working on this course. It's been a passion project and a data dump of everything I've learnt in the web3 space to get you up to speed quickly. Also, a big thank you to Chainlink Labs for encouraging this course to come to light-and to the many Chainlink Labs team members who helped with various assets!
 
 [![Patrick Collins Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PatrickAlphaC)
 [![Patrick Collins YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCn-3f8tw_E1jZvhuHatROwA)
