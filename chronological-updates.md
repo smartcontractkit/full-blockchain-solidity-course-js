@@ -76,3 +76,9 @@ If your keepers are not kicking off, run through this checklist to find out why.
 2. Double check the subscription is funded with enough LINK 
 3. Is `checkUpkeep` returning true?  
 4. Can you call `performUpkeep` yourself? (If you can't the keeper can't!)
+
+# Lesson 15
+
+## Metamask Troubleshooting while using Gitpod
+
+- Remember if you are using gitpod then you cannot connect your local hardhat node with metamask. To resolve this you can use vs code or testnets instead of local node.
