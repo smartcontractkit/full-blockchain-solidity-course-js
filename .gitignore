@@ -1,1 +1,4 @@
 script.md
+node_modules
+.env
+.encryptedKey.json
