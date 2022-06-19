@@ -528,6 +528,13 @@ Backup Faucet: https://rinkebyfaucet.com/
 ## Welcome to the course!
 *[⌨️ (00:00:00) Lesson 0: Welcome To Blockchain](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=0s)*
 ## Best Practices 
+- **Follow the repository:** While going through the course be 100% certain to follow along with the github repository. If you run into in an issue check the chronological-updates in the repo.
+- **Be Active in the community:** Ask questions and engage with other developers going through the course in the discussions tab, be sure to go and say hello or gm! This space is different from the other industries, you don't have to be secretive; communicate, network and learn with others :)
+- **Learn at your own pace:** It doesn't matter if it takes you a day, a week, a month or even a year. Progress >>> Perfection
+- **Take Breaks:** You will exhaust your mind and recall less if you go all out and watch the entire course in one siting. 
+  **Suggested Strategy** every 25 minutes take a 5 min break, and every 2 hours take a longer 30 min break
+- **Refer to Documentation:** Things are constantly being updated, so whenever Patrick opens up some documentation, open it your end and maybe even have the code sample next to you.
+
 # Lesson 1: Blockchain Basics
 *[⌨️ (00:09:05) Lesson 1: Blockchain Basics](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=545s)*
 ## What is a Blockchain? What does a blockchain do? 
@@ -1128,23 +1135,29 @@ MetaMask - RPC Error:
 
 ## Introduction
 ## Hardhat Setup - Smart Contract Lottery
+*[⌨️ (13:43:43) Hardhat Setup](https://youtu.be/gyMwXuJrbJQ?t=49423)*
 - Install dependencies:
 ```bash
 yarn add --dev @nomiclabs/hardhat-ethers@npm:hardhat-deploy-ethers ethers @nomiclabs/hardhat-etherscan @nomiclabs/hardhat-waffle chai ethereum-waffle hardhat hardhat-contract-sizer hardhat-deploy hardhat-gas-reporter prettier prettier-plugin-solidity solhint solidity-coverage dotenv
 ```
 ## Raffle.sol Setup
+*[⌨️ (13:46:55) Raffle.sol Setup](https://youtu.be/gyMwXuJrbJQ?t=49615)*
 - [Custom Errors in Solidity](https://blog.soliditylang.org/2021/04/21/custom-errors/)
 ## Introduction to Events
+*[⌨️ (13:54:02) Introduction to Events](https://youtu.be/gyMwXuJrbJQ?t=50042)*
 - [Events & Logging Video](https://www.youtube.com/watch?v=KDYJC85eS5M)
 - [Events & Logging in Hardhat](https://github.com/PatrickAlphaC/hardhat-events-logs)
 ## Events in Raffle.sol
+*[⌨️ (14:00:47) Events in Raffle.sol](https://youtu.be/gyMwXuJrbJQ?t=50447)*
 ## Introduction to Chainlink VRF
+*[⌨️ (14:02:30) Introduction to Chainlink VRF](https://youtu.be/gyMwXuJrbJQ?t=50550)*
 - [Special Guest Stephen Fluin](https://twitter.com/stephenfluin)
 ### Sub-Lesson: Chainlink VRF
 > - [Chainlink VRFv2 Docs](https://docs.chain.link/docs/get-a-random-number/)
 > - [Chainlink VRFv2 Walkthrough](https://www.youtube.com/watch?v=rdJ5d8j1RCg)
 > - [Chainlink Contracts](https://github.com/smartcontractkit/chainlink/blob/develop/contracts/src/v0.8/VRFConsumerBase.sol)
 ## Implementing Chainlink VRF - Introduction
+*[⌨️ (14:09:53) Implementing Chainlink VRF](https://youtu.be/gyMwXuJrbJQ?t=50993)*
 ### Hardhat Shorthand
 - [Hardhat Shorthand](https://hardhat.org/guides/shorthand.html)
 ## Implementing Chainlink VRF - The Request
@@ -1633,7 +1646,7 @@ And make today an amazing day!
 
 # Thank you
 
-Thanks to everyone who is taking, participaint in, and working with this course. It's been a passion project and data dump of everything I've learnt in the web3 space to get you up to speed quickly. Also a big thank you to Chainlink Labs for encouraging this course to come to light - and many Chainlink Labs teammembers who helped with various assets!
+Thanks to everyone who is taking, participating in, and working on this course. It's been a passion project and a data dump of everything I've learnt in the web3 space to get you up to speed quickly. Also, a big thank you to Chainlink Labs for encouraging this course to come to light-and to the many Chainlink Labs team members who helped with various assets!
 
 [![Patrick Collins Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PatrickAlphaC)
 [![Patrick Collins YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCn-3f8tw_E1jZvhuHatROwA)
