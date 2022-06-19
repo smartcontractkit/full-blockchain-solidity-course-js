@@ -698,7 +698,7 @@ Backup Faucet: https://rinkebyfaucet.com/
 - [Factory Pattern](https://betterprogramming.pub/learn-solidity-the-factory-pattern-75d11c3e7d29)
 
 ## Basic Solidity: Importing Contracts into other Contracts
-- [Composibility](https://chain.link/techtalks/defi-composability)
+- [Composability](https://chain.link/techtalks/defi-composability)
 - [Solidity new keyword](https://docs.soliditylang.org/en/v0.8.14/control-structures.html?highlight=new#creating-contracts-via-new)
 - [Importing Code in solidity](https://solidity-by-example.org/import)
 
