@@ -1095,7 +1095,7 @@ yarn add --dev @typechain/ethers-v5 @typechain/hardhat @types/chai @types/node @
 
 ## Introduction
 ## How Websites work with Web3 Wallets
-- [OHow to Connect your Smart Contracts to Metamask](https://www.youtube.com/watch?v=pdsYCkUWrgQ)
+- [How to Connect your Smart Contracts to Metamask](https://www.youtube.com/watch?v=pdsYCkUWrgQ)
   - 💻 Code from Video: https://github.com/PatrickAlphaC/full-stack-web3-metamask-connectors
   - ✍️ Article from Video: https://betterprogramming.pub/everything-you-need-to-know-about-fullstack-web3-94c0f1b18019?sk=a2764bcbdae98bf05e1052931de77982
 ## HTML Setup
