@@ -1319,7 +1319,5 @@ TODOs
 
 Tasks left to do are better kept track of in [our Tracker project](https://www.pivotaltracker.com/n/projects/2129823), where they can be viewed in the context of the other work to do. However, sometimes it can be helpful to note future work or optimizations in the code. In this case, please open a Tracker story, tag it `todo`, and then leave a two line comment. With the first line being "TODO" followed by a short description, and the second line being a link to the Tracker story.
 
-``
-TODO: re-enable SA presence check when it does not exhaust the stack
-https://www.pivotaltracker.com/story/show/171662440
-``
+``TODO: re-enable SA presence check when it does not exhaust the stack
+https://www.pivotaltracker.com/story/show/171662440``
