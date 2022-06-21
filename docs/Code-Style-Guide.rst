@@ -8,13 +8,13 @@ Introduction
 
 This guide is intended to provide coding conventions for writing Solidity code and working on Chainlink.
 
-The structure and many of the recommendations for Solidity within this style guide were
-taken from python's
-`pep8 style guide <https://www.python.org/dev/peps/pep-0008/>`_.
+Recommendations for Solidity within this style guide were
+taken from Ethereum's own `Style Guide <https://github.com/ethereum/solidity/blob/v0.8.15/docs/style-guide.rst>`_. Like the original Ethereum guide this one is based in part on 
+`pep8 style guide <https://www.python.org/dev/peps/pep-0008/>`_ as well.
 
-Recommendations for Chainlink are directly taken from Chainlink's own [guide](https://github.com/smartcontractkit/chainlink/wiki/Code-Style-Guide#golang)
+Recommendations for Chainlink are directly taken from Chainlink's own `guide <https://github.com/smartcontractkit/chainlink/wiki/Code-Style-Guide#golang>`_.
 
-You'll find the section for Solidity conventions at the beginning of this guide and after that the [Chainlink Style Guide](# golang)
+You'll find the section for Solidity conventions at the beginning of this guide and after that the Chainlink Style Guide.
 
 ************
 Solidity
@@ -1297,14 +1297,14 @@ Chainlink
 Golang
 ======
 
-Try to folow idiomatic Golang style. For a brief overview, see the [Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments) and [Effective Go](https://golang.org/doc/effective_go.html) for a more in depth review.
+Try to follow an idiomatic Golang style. For a brief overview, see the `Code Review Comments <https://github.com/golang/go/wiki/CodeReviewComments>`_ and `Effective Go <https://golang.org/doc/effective_go.html>`_ for a more in depth review.
 
 Use `gofmt` to format your code before checking it in.
 
 TypeScript / TSX
 ================
 
-We use [Prettier](https://github.com/prettier/prettier) and [ESLint](https://eslint.org/). If you are having trouble with linting on CI, try running `yarn lint --fix`.
+We use `Prettier <https://github.com/prettier/prettier>`_ and `ESLint <https://eslint.org/>`_. If you are having trouble with linting on CI, try running `yarn lint --fix`.
 
 General
 =======
@@ -1317,7 +1317,7 @@ In general, we try to minimize comments in the code base, in favor of tests and 
 TODOs
 =====
 
-Tasks left to do are better kept track of in [our Tracker project](https://www.pivotaltracker.com/n/projects/2129823), where they can be viewed in the context of the other work to do. However, sometimes it can be helpful to note future work or optimizations in the code. In this case, please open a Tracker story, tag it `todo`, and then leave a two line comment. With the first line being "TODO" followed by a short description, and the second line being a link to the Tracker story.
+Tasks left to do are better kept track of in `our Tracker project <https://www.pivotaltracker.com/n/projects/2129823>`_, where they can be viewed in the context of the other work to do. However, sometimes it can be helpful to note future work or optimizations in the code. In this case, please open a Tracker story, tag it `todo`, and then leave a two line comment. With the first line being "TODO" followed by a short description, and the second line being a link to the Tracker story.
 
 ``TODO: re-enable SA presence check when it does not exhaust the stack
 https://www.pivotaltracker.com/story/show/171662440``
