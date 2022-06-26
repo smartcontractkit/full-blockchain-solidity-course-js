@@ -1287,20 +1287,25 @@ yarn create next-app .
 - [Tailwind Extension](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
 - [Install Tailwind into NextJS](https://tailwindcss.com/docs/guides/nextjs)
 ## Introduction to Hosting your Site
+*[⌨️ (18:12:50) Introdunction to Hosting your Site](https://youtu.be/gyMwXuJrbJQ?t=65570)*
 - [Vercel](https://vercel.com/)
 - [Moralis](https://moralis.io/)
 - [Netilfy](https://www.netlify.com/)
 - [IPFS](https://ipfs.io/)
 ## IPFS
+*[⌨️ (18:15:14) IPFS](https://youtu.be/gyMwXuJrbJQ?t=65714)*
 - [What is IPFS](https://www.youtube.com/watch?v=5Uj6uR3fp-U)
 - [IPFS](https://ipfs.io/)
 ## Hosting on IPFS
+*[⌨️ (18:18:51) Hosting on IPFS](https://youtu.be/gyMwXuJrbJQ?t=65931)*
 - [IPFS Companion](https://chrome.google.com/webstore/detail/ipfs-companion/nibjojkomfdiaoajekhjakgkdhaomnch)
 - [Brave Browser](https://brave.com/)
 - `yarn build && yarn next export`
 ## Hosting on IPFS & Filecoin using Fleek
+*[⌨️ (18:25:45) Hosting on IPFS & Filecoin using Fleek](https://youtu.be/gyMwXuJrbJQ?t=66345)*
 - [Fleek](https://fleek.co/)
 ## Filecoin Overview
+*[⌨️ (18:31:28) Filecoin Overview](https://youtu.be/gyMwXuJrbJQ?t=66688)*
 - [Special Guest Ally Haire](https://twitter.com/DeveloperAlly)
 - [IPFS URL of Ally's Video](ipfs://bafybeiasd6oxqiefoxgtskrokomexnb4zcq3fhwlcbyplx2paw65zmq2du)
 ## Lesson 10 Recap
