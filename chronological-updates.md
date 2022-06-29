@@ -88,3 +88,45 @@ If your keepers are not kicking off, run through this checklist to find out why.
 ## Metamask Troubleshooting while using Gitpod
 
 - Remember if you are using gitpod then you cannot connect your local hardhat node with metamask. To resolve this you can use vs code or testnets instead of local node.
+
+
+--------
+
+# Lesson 14
+
+## Math on NFT Chance Array
+
+The ```getBreedFromModdedRng()``` function in RandomIpfsNft.sol gets the math wrong.
+
+line 104,
+```solidity
+if (moddedRng >= cumulativeSum && moddedRng < cumulativeSum + chanceArray[i]) {
+    return Breed(i);
+}
+cumulativeSum = cumulativeSum + chanceArray[i];
+```
+needs to be changed to 
+```solidity
+if (moddedRng >= cumulativeSum && moddedRng < chanceArray[i]) {
+    return Breed(i);
+}
+cumulativeSum = chanceArray[i];
+```
+
+The chanceArray[] array already has a cumulative probability distribution, no need to keep adding cumulativeSum to it.
+
+According to the current algorithm:
+```
+moddedRng produced is between 0 and 99
+chanceArray=[10,30,100]
+```
+```
+PUG is produced if moddedRng is between [0,10)  = span of 10
+SHIBA is produce if moddedRng is between [10,40) = span of 30
+BERNARD is produced if moddedRng is between [40,140] = span of 60 (since moddedRng<100)
+```
+So the actual probabilities according to the current algo is
+``` [10%,30%,60%] ```
+and not
+``` [10%,20%,70%]```
+ as would be expected from a proper cumulative probability distribution function.
