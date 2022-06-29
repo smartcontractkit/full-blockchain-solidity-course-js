@@ -68,6 +68,12 @@ Keep this running in it's own terminal, and use the endpoint it gives you. To ki
 
 # Lesson 9
 
+## Keepers new UI
+
+Per [this conversation](https://github.com/smartcontractkit/full-blockchain-solidity-course-js/discussions/606#discussioncomment-3037792), when you get to the new Keepers UI, select "Custom Logic"
+
+More information: https://github.com/smartcontractkit/full-blockchain-solidity-course-js/discussions/606#discussioncomment-3037792
+
 ## Keepers Not Kicking Off Troubleshooting
 
 If your keepers are not kicking off, run through this checklist to find out why. 
