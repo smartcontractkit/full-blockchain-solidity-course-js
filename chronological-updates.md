@@ -83,15 +83,8 @@ If your keepers are not kicking off, run through this checklist to find out why.
 3. Is `checkUpkeep` returning true?  
 4. Can you call `performUpkeep` yourself? (If you can't the keeper can't!)
 
-# Lesson 15
 
-## Metamask Troubleshooting while using Gitpod
-
-- Remember if you are using gitpod then you cannot connect your local hardhat node with metamask. To resolve this you can use vs code or testnets instead of local node.
-
-
---------
-
+-------
 # Lesson 14
 
 ## Math on NFT Chance Array
@@ -130,3 +123,16 @@ So the actual probabilities according to the current algo is
 and not
 ``` [10%,20%,70%]```
  as would be expected from a proper cumulative probability distribution function.
+ 
+-------
+
+# Lesson 15
+
+## Metamask Troubleshooting while using Gitpod
+
+- Remember if you are using gitpod then you cannot connect your local hardhat node with metamask. To resolve this you can use vs code or testnets instead of local node.
+
+
+--------
+
+
