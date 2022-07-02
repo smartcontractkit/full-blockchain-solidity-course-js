@@ -531,7 +531,7 @@ Backup Faucet: https://rinkebyfaucet.com/
 - **Follow the repository:** While going through the course be 100% certain to follow along with the github repository. If you run into in an issue check the chronological-updates in the repo.
 - **Be Active in the community:** Ask questions and engage with other developers going through the course in the discussions tab, be sure to go and say hello or gm! This space is different from the other industries, you don't have to be secretive; communicate, network and learn with others :)
 - **Learn at your own pace:** It doesn't matter if it takes you a day, a week, a month or even a year. Progress >>> Perfection
-- **Take Breaks:** You will exhaust your mind and recall less if you go all out and watch the entire course in one siting. 
+- **Take Breaks:** You will exhaust your mind and recall less if you go all out and watch the entire course in one sitting. 
   **Suggested Strategy** every 25 minutes take a 5 min break, and every 2 hours take a longer 30 min break
 - **Refer to Documentation:** Things are constantly being updated, so whenever Patrick opens up some documentation, open it your end and maybe even have the code sample next to you.
 
@@ -760,13 +760,13 @@ Backup Faucet: https://rinkebyfaucet.com/
 ## Basic Solidity: Arrays & Structs II
 - [msg.sender](https://docs.soliditylang.org/en/v0.8.14/cheatsheet.html?highlight=msg.sender)
 
-## Review of Interfacs, Importing from GitHub, & Math in Solidity
+## Review of Interfaces, Importing from GitHub, & Math in Solidity
 
 ## Libraries
 - [Library](https://docs.soliditylang.org/en/v0.8.14/contracts.html?highlight=library#libraries)
 - [Solidity-by-example Library](https://solidity-by-example.org/library)
 
-## SafeMath, Overflow Checking, and the "unchecked" keywork
+## SafeMath, Overflow Checking, and the "unchecked" keyword
 - [Openzeppelin Safemath](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/utils/math/SafeMath.sol)
 - [unchecked vs. checked](https://docs.soliditylang.org/en/v0.8.0/control-structures.html#checked-or-unchecked-arithmetic)
 
@@ -899,8 +899,8 @@ In your `.vscode/settings.json` file.
 ### A Note on the await Keyword
 ## Adding Transaction Overrides
 ## Transaction Receipts
-## Sending a "raw" Transaction in Ethersjs
-## Interacting with Contracts in Ethersjs
+## Sending a "raw" Transaction in Ethers.js
+## Interacting with Contracts in Ethers.js
 - [EVM Decompiler](https://ethervm.io/decompile)
 - [BigNumber](https://docs.ethers.io/v5/api/utils/bignumber/)
 ## Environment Variables
@@ -1349,7 +1349,7 @@ yarn create next-app .
 ## What is Aave?
 - [Aave](https://aave.com/)
 - [My Previous Aave Video on Shorting Assets](https://www.youtube.com/watch?v=TmNGAvI-RUA)
-## Programatic Borrowing & Lending
+## Programmatic Borrowing & Lending
 - [DAI](https://makerdao.com/en/)
 - [Uniswap](https://app.uniswap.org/)
 ## WETH - Wrapped ETH
@@ -1537,7 +1537,7 @@ Special thanks to [Matt Durkin](https://twitter.com/mdurkin92) for help with thi
 
 💻 Code: https://github.com/PatrickAlphaC/hardhat-upgrades-fcc
 
-## Upgradeable Smart Contracts Overview
+## Upgradable Smart Contracts Overview
 - [Optional Video](https://www.youtube.com/watch?v=bdXJmWajZRY)
 - [Links from Video]
 ## Types of Upgrades
@@ -1556,7 +1556,7 @@ Special thanks to [Matt Durkin](https://twitter.com/mdurkin92) for help with thi
 - [Yul](https://docs.soliditylang.org/en/latest/yul.html)
 ## Small Proxy Example
 - [EIP 1967](https://eips.ethereum.org/EIPS/eip-1967)
-## Transparent Upgradeable Smart Contract 
+## Transparent Upgradable Smart Contract 
 - [Hardhat-deploy Proxies](https://github.com/wighawag/hardhat-deploy#deploying-and-upgrading-proxies)
 - [Openzeppelin Upgrades Plugin](https://docs.openzeppelin.com/upgrades-plugins/1.x/)
   - [Openzeppelin upgrades tutorial](https://forum.openzeppelin.com/t/openzeppelin-upgrades-step-by-step-tutorial-for-hardhat/3580)
