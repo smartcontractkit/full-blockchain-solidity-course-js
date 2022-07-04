@@ -1032,8 +1032,8 @@ yarn add --dev @typechain/ethers-v5 @typechain/hardhat @types/chai @types/node @
 - Hardhat Deploy Block Confirmations
 ## Solidity Style Guide
 *[⌨️ (11:00:10) Solidity Style Guide](https://youtu.be/gyMwXuJrbJQ?t=39610)*
-- [Style Guide](https://docs.soliditylang.org/en/v0.8.13/style-guide.html)
-- [NatSpec](https://docs.soliditylang.org/en/v0.8.13/natspec-format.html#natspec)
+- [Style Guide](https://docs.soliditylang.org/en/v0.8.15/style-guide.html)
+- [NatSpec](https://docs.soliditylang.org/en/v0.8.15/natspec-format.html)
 ## Testing Fund Me
 *[⌨️ (11:08:36) Testing Fund Me](https://youtu.be/gyMwXuJrbJQ?t=40116)*
 - [Unit Testing](https://en.wikipedia.org/wiki/Unit_testing)
