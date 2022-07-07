@@ -93,6 +93,8 @@ As of `2.10.0` version of hardhat, when you first run `yarn hardhat` you'll get 
 
 It's _roughly_ similar to the options in our video, but you can just pick the `JavaScript project` whenever we don't pick the `empty hardhat.config.js`.
 
+[You can read more about the changes here.](https://twitter.com/HardhatHQ/status/1545124474470760449)
+
 # Lesson 9
 
 ## Keepers new UI
