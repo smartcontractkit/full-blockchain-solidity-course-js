@@ -66,6 +66,35 @@ Keep this running in it's own terminal, and use the endpoint it gives you. To ki
 
 --------
 
+# Lesson 6
+
+## New Hardhat Setup
+
+As of `2.10.0` version of hardhat, when you first run `yarn hardhat` you'll get something like this instead:
+
+```bash
+888    888                      888 888               888
+888    888                      888 888               888
+888    888                      888 888               888
+8888888888  8888b.  888d888 .d88888 88888b.   8888b.  888888
+888    888     "88b 888P"  d88" 888 888 "88b     "88b 888
+888    888 .d888888 888    888  888 888  888 .d888888 888
+888    888 888  888 888    Y88b 888 888  888 888  888 Y88b.
+888    888 "Y888888 888     "Y88888 888  888 "Y888888  "Y888
+
+👷 Welcome to Hardhat v2.10.0 👷‍
+
+? What do you want to do? … 
+❯ Create a JavaScript project
+  Create a TypeScript project
+  Create an empty hardhat.config.js
+  Quit
+```
+
+It's _roughly_ similar to the options in our video, but you can just pick the `JavaScript project` whenever we don't pick the `empty hardhat.config.js`.
+
+[You can read more about the changes here.](https://twitter.com/HardhatHQ/status/1545124474470760449)
+
 # Lesson 9
 
 ## Keepers new UI
