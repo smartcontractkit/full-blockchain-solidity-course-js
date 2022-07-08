@@ -1372,7 +1372,6 @@ yarn create next-app .
 - [Special Guest Austin Griffith](https://twitter.com/austingriffith)!
 - [Speed Run Ethereum](https://speedrunethereum.com/) 
 ### More DeFi Learnings: 
-- [Speed Run Ethereum](https://speedrunethereum.com/)
 - [Defi-Minimal](https://github.com/smartcontractkit/defi-minimal/tree/main/contracts)
 - [Defi Dad](https://www.youtube.com/channel/UCatItl6C7wJp9txFMbXbSTg)
 
