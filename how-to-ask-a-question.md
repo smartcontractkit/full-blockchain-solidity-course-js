@@ -96,20 +96,13 @@ Bad:
 Good:
 - TypeError: Cannot read property 'length' of undefined - when deploying contract
 
-Bad:
-- hardhat error
-
-Good:
-- TypeError: Cannot read property 'length' of undefined - when deploying contract
-
-
-4. Introduce the problem before writing any code
+# 4. Introduce the problem before writing any code
 
 In the body of the question, say what you're trying to do, what you've done, and give a summary of your problem.
 
 With this course in the discussions tab, you may also give a timestamp of where you're getting the issue (in fact, please give a timestamp with a link to the location in the video).
 
-5. Make sure you format code using backticks (```) and a language tag
+# 5. Make sure you format code using backticks (```) and a language tag
 
 You'll want to format your question so it's as easy as possible to read! Especially with your code snippets.
 
@@ -129,12 +122,12 @@ In your question, you'll type it like this:
 
 If it doesn't get formatted, you can edit your question (usually, you can click the three little dots at the top right of your question) to make it formatted nicely. 
 
-6. Make sure you copy paste your code instead of using screenshots
+# 6. Make sure you copy paste your code instead of using screenshots
 
 We want web crawlers to index every word you write, so even copy paste errors (and format them with 3 backticks!)
 
 
-7. Make sure your code is a minimal example
+# 7. Make sure your code is a minimal example
 
 There are two types of code questions:
 
