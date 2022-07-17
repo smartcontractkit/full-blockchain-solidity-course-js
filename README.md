@@ -538,6 +538,7 @@ Backup Faucet: https://rinkebyfaucet.com/
 # Lesson 1: Blockchain Basics
 *[⌨️ (00:09:05) Lesson 1: Blockchain Basics](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=545s)*
 ## What is a Blockchain? What does a blockchain do? 
+*[⌨️ (00:09:08) What is a Blockchain?](https://youtu.be/gyMwXuJrbJQ&t=547s)*
 -   [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
     -   [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto)
 -   [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
@@ -551,6 +552,7 @@ Backup Faucet: https://rinkebyfaucet.com/
 -   [What is a blockchain](https://www.investopedia.com/terms/b/blockchain.asp)
 
 ## The Purpose Of Smart Contracts
+*[⌨️ (00:18:28) The Purpose Of Smart Contracts](https://youtu.be/gyMwXuJrbJQ&t=1106s)*
 - 🎥 [Original Video](https://www.youtube.com/watch?v=_JeRq7Gwj5Y&feature=youtu.be)
 - 🦬 [My ETH Denver Talk](https://www.youtube.com/watch?v=06hXCX_jj2E)
 - 🍔 [McDonalds Scandal](https://www.chicagotribune.com/sns-mcdonalds-story.html)
@@ -560,6 +562,7 @@ Backup Faucet: https://rinkebyfaucet.com/
 - 🔮 [Chainlink & Oracles](https://www.youtube.com/watch?v=tIUHQ7sDoaU)
 
 ## Other Blockchain Benefits
+*[⌨️ (00:30:40) Other Blockchain Benefits](https://youtu.be/gyMwXuJrbJQ&t=1840s)*
 - Decentralized
 - Transparency & Flexibility
 - Speed & Efficiency
@@ -568,6 +571,7 @@ Backup Faucet: https://rinkebyfaucet.com/
 - Trust Minimized Agreements
 
 ## What have Smart Contracts done so far? 
+*[⌨️ (00:36:36) Smart Contracts so far?](https://youtu.be/gyMwXuJrbJQ&t=2196s)*
 - [DeFi](https://chain.link/education/defi)
   - [Defi Llama](https://defillama.com/)
   - [Why DeFi is Important](https://medium.com/the-capital/why-defi-1519cc4d4bd3)
@@ -575,6 +579,7 @@ Backup Faucet: https://rinkebyfaucet.com/
 - [NFTs](https://www.youtube.com/watch?v=9yuHz6g_P50)
 
 ## Making Your First Transaction
+*[⌨️ (00:39:18) Making Your First Transaction](https://youtu.be/gyMwXuJrbJQ&t=2358s)*
 -   [Metamask Download Link](https://metamask.io/)
     -   [What is a Private Key?](https://www.coinbase.com/learn/crypto-basics/what-is-a-private-key)
     -   [What is a Secret Phrase?](https://metamask.zendesk.com/hc/en-us/articles/360060826432-What-is-a-Secret-Recovery-Phrase-and-how-to-keep-your-crypto-wallet-secure)
@@ -586,21 +591,25 @@ Backup Faucet: https://rinkebyfaucet.com/
 -   OR, use the [Kovan ETH Faucet](https://faucets.chain.link/), just be sure to swap your metamask to kovan!
 
 ## Gas I: Introduction to Gas
+*[⌨️ (00:59:00) Gas I](https://youtu.be/gyMwXuJrbJQ&t=3540s)*
 -   [Gas and Gas Fees](https://ethereum.org/en/developers/docs/gas/)
 -   [Wei, Gwei, and Ether Converter](https://eth-converter.com/)
 -   [ETH Gas Station](https://ethgasstation.info/)
 
 ## How Do Blockchains Work?
+*[⌨️ (01:05:33) How Do Blockchains Work?](https://youtu.be/gyMwXuJrbJQ&t=3933s)*
 - [What is a hash?](https://techjury.net/blog/what-is-cryptographic-hash/)
 - [Blockchain Demo](https://andersbrownworth.com/blockchain/)
 - [Summary](https://ethereum.org/en/developers/docs/intro-to-ethereum/)
 
 ## Signing Transactions
+*[⌨️ (01:22:56) Signing Transactions](https://youtu.be/gyMwXuJrbJQ&t=4976s)*
 -   [Public / Private Keys](https://andersbrownworth.com/blockchain/public-private-keys/keys)
 -   [Layer 2 and Rollups](https://ethereum.org/en/developers/docs/scaling/layer-2-rollups/)
 -   [Decentralized Blockchain Oracles](https://blog.chain.link/what-is-the-blockchain-oracle-problem/)
 
 ## Gas II
+*[⌨️ (01:30:22) Gas II](https://youtu.be/gyMwXuJrbJQ&t=5422s)*
 -   [Block Rewards](https://www.investopedia.com/terms/b/block-reward.asp)
 -   Advanced Gas
     -   [EIP 1559](https://www.youtube.com/watch?v=MGemhK9t44Q)
@@ -610,6 +619,7 @@ Backup Faucet: https://rinkebyfaucet.com/
 -   [Run Your Own Ethereum Node](https://geth.ethereum.org/docs/getting-started)
 
 ## High-Level Blockchain Fundamentals
+*[⌨️ (01:39:34) High-Level Blockchain Fundamentals](https://youtu.be/gyMwXuJrbJQ&t=5974s)*
 -   [Consensus](https://wiki.polkadot.network/docs/learn-consensus)
 -   [Proof of Stake](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
 -   [Proof of Work](https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/)
