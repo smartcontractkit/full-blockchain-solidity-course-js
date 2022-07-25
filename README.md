@@ -750,7 +750,7 @@ Backup Faucet: https://rinkebyfaucet.com/
 ## Importing from GitHub & NPM
 - [Chainlink NPM Package](https://www.npmjs.com/package/@chainlink/contracts)
 
-## Floating Point Math in Solidtiy
+## Floating Point Math in Solidity
 - [tuple](https://docs.soliditylang.org/en/v0.8.14/abi-spec.html?highlight=tuple#handling-tuple-types)
 - [Floating Point Numbers in Solidity](https://stackoverflow.com/questions/58277234/does-solidity-supports-floating-point-number)
 - [Type Casting](https://ethereum.stackexchange.com/questions/6891/type-casting-in-solidity)
