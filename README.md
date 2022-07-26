@@ -25,16 +25,20 @@ Welcome to the repository for the Ultimate Web3, Full Stack Solidity, and Smart 
 
 All code references have both a javascript and a typescript edition.
 
-Recommended Testnet: Rinkeby
+## Recommended Testnet: Rinkeby (Soon to be deprecated)
 
-# [Testnet Faucets](https://faucets.chain.link)
+### [Rinkeby Faucets](https://faucets.chain.link)
 Main Faucet: https://faucets.chain.link
 
 Backup Faucet: https://rinkebyfaucet.com/
 
-> ⚠️ All code associated with this course is for demo purposes only. They have not been audited and should not be considered production ready. Please use at your own risk. 
+## Backup Testnet: Goerli
+
+### [Goerli Faucets](https://goerlifaucet.com)
+Faucet: https://goerlifaucet.com
 
 # Resources For This Course
+> ⚠️ All code associated with this course is for demo purposes only. They have not been audited and should not be considered production ready. Please use at your own risk. 
 
 ### Questions
 
