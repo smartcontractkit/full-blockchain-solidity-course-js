@@ -13,7 +13,7 @@
 
 <br/>
 <p align="center">
-<a href="https://www.youtube.com/watch?v=gyMwXuJrbJQ" target="_blank">
+<a href="https://www.youtube.com/watch?v=gyMwXuJrbJQ" target="_blank" rel="noopener noreferrer">
 <img src="./img/blockchain1.png" width="500" alt="Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Javascript Tutorial">
 </a>
 </p>
