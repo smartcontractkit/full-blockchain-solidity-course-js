@@ -1030,6 +1030,9 @@ yarn add --dev @typechain/ethers-v5 @typechain/hardhat @types/chai @types/node @
 ## Testnet Demo - Hardhat Fund Me
 *[⌨️ (10:55:45) Testnet Demo - Hardhat Fund Me](https://youtu.be/gyMwXuJrbJQ?t=39345)*
 - Hardhat Deploy Block Confirmations
+### TypeScript
+- [Code file](https://github.com/PatrickAlphaC/hardhat-fund-me-fcc/blob/84271e7002e55d86c90b26466ff27bc067f25de0/deploy/01-deploy-fund-me.ts#L29) (TypeScript edition)
+- Define blockConfirmations in the `helper-hardhat-config.ts` file instead of `hardhat-config.js`. 
 ## Solidity Style Guide
 *[⌨️ (11:00:10) Solidity Style Guide](https://youtu.be/gyMwXuJrbJQ?t=39610)*
 - [Style Guide](https://docs.soliditylang.org/en/v0.8.15/style-guide.html)
