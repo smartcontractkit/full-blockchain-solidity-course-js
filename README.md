@@ -626,7 +626,7 @@ Backup Faucet: https://rinkebyfaucet.com/
 
 ## Introduction
 - [Remix](https://remix.ethereum.org/)
-- [Solidity Documentation](https://docs.soliditylang.org/en/v0.8.6/index.html)
+- [Solidity Documentation](https://docs.soliditylang.org/en/latest/index.html)
 
 ## Setting Up Your First Contract
 -   Versioning
@@ -637,7 +637,7 @@ Backup Faucet: https://rinkebyfaucet.com/
 -   Contract Declaration
 
 ## Basic Solidity: Types
--   [Types & Declaring Variables](https://docs.soliditylang.org/en/v0.8.13/)
+-   [Types & Declaring Variables](https://docs.soliditylang.org/en/latest/)
     -   `uint256`, `int256`, `bool`, `string`, `address`, `bytes32`
     -   [Solidity Types](https://docs.soliditylang.org/en/latest/types.html)
     -   [Bits and Bytes](https://www.youtube.com/watch?v=Dnd28lQHquU)
@@ -649,7 +649,7 @@ Backup Faucet: https://rinkebyfaucet.com/
 -   Deploying a Contract
     -   Smart Contracts have addresses just like our wallets
 -   Calling a public state-changing Function
--   [Visibility](https://docs.soliditylang.org/en/v0.7.3/contracts.html#visibility-and-getters)
+-   [Visibility](https://docs.soliditylang.org/en/latest/contracts.html#visibility-and-getters)
 -   Gas III | An example
 -   Scope
 -   View & Pure Functions
@@ -699,16 +699,16 @@ Backup Faucet: https://rinkebyfaucet.com/
 
 ## Basic Solidity: Importing Contracts into other Contracts
 - [Composibility](https://chain.link/techtalks/defi-composability)
-- [Solidity new keyword](https://docs.soliditylang.org/en/v0.8.14/control-structures.html?highlight=new#creating-contracts-via-new)
+- [Solidity new keyword](https://docs.soliditylang.org/en/latest/control-structures.html?highlight=new#creating-contracts-via-new)
 - [Importing Code in solidity](https://solidity-by-example.org/import)
 
 ## Basic Solidity: Interacting with other Contracts
 - To interact, you always need: ABI + Address
-- [ABI](https://docs.soliditylang.org/en/v0.8.14/abi-spec.html?highlight=abi)
+- [ABI](https://docs.soliditylang.org/en/latest/abi-spec.html?highlight=abi)
 
 ## Basic Solidity: Inheritance & Overrides
 - [Inheritance](https://solidity-by-example.org/inheritance) 
-- [Override & Virtual Keyword](https://docs.soliditylang.org/en/v0.8.14/contracts.html?highlight=override#function-overriding)
+- [Override & Virtual Keyword](https://docs.soliditylang.org/en/latest/contracts.html?highlight=override#function-overriding)
 
 ## Lesson 3 Recap
 
@@ -724,7 +724,7 @@ Backup Faucet: https://rinkebyfaucet.com/
 - [Fields in a Transaction](https://ethereum.org/en/developers/docs/transactions/)
 - [More on v,r,s](https://ethereum.stackexchange.com/questions/15766/what-does-v-r-s-in-eth-gettransactionbyhash-mean)
 - [payable](https://solidity-by-example.org/payable)
-- [msg.value & Other global keywords](https://docs.soliditylang.org/en/v0.8.14/cheatsheet.html?highlight=cheatsheet#global-variables)
+- [msg.value & Other global keywords](https://docs.soliditylang.org/en/latest/cheatsheet.html?highlight=cheatsheet#global-variables)
 - [require](https://codedamn.com/news/solidity/what-is-require-in-solidity)
 - [revert](https://medium.com/blockchannel/the-use-of-revert-assert-and-require-in-solidity-and-the-new-revert-opcode-in-the-evm-1a3a7990e06e)
 
@@ -751,14 +751,14 @@ Backup Faucet: https://rinkebyfaucet.com/
 - [Chainlink NPM Package](https://www.npmjs.com/package/@chainlink/contracts)
 
 ## Floating Point Math in Solidity
-- [tuple](https://docs.soliditylang.org/en/v0.8.14/abi-spec.html?highlight=tuple#handling-tuple-types)
+- [tuple](https://docs.soliditylang.org/en/latest/abi-spec.html?highlight=tuple#handling-tuple-types)
 - [Floating Point Numbers in Solidity](https://stackoverflow.com/questions/58277234/does-solidity-supports-floating-point-number)
 - [Type Casting](https://ethereum.stackexchange.com/questions/6891/type-casting-in-solidity)
 - Gas Estimation Failed
   - Someone should make an article explaining this error
 
 ## Basic Solidity: Arrays & Structs II
-- [msg.sender](https://docs.soliditylang.org/en/v0.8.14/cheatsheet.html?highlight=msg.sender)
+- [msg.sender](https://docs.soliditylang.org/en/latest/cheatsheet.html?highlight=msg.sender)
 
 ## Review of Interfaces, Importing from GitHub, & Math in Solidity
 
@@ -768,7 +768,7 @@ Backup Faucet: https://rinkebyfaucet.com/
 
 ## SafeMath, Overflow Checking, and the "unchecked" keyword
 - [Openzeppelin Safemath](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/utils/math/SafeMath.sol)
-- [unchecked vs. checked](https://docs.soliditylang.org/en/v0.8.0/control-structures.html#checked-or-unchecked-arithmetic)
+- [unchecked vs. checked](https://docs.soliditylang.org/en/latest/control-structures.html#checked-or-unchecked-arithmetic)
 
 ## Basic Solidity: For Loop
 - [For Loop](https://solidity-by-example.org/loop)
@@ -803,9 +803,9 @@ Backup Faucet: https://rinkebyfaucet.com/
 - [Custom Errors Introduction](https://blog.soliditylang.org/2021/04/21/custom-errors/)
 
 ### Receive & Fallback Functions
-- [Solidity Docs Special Functions](https://docs.soliditylang.org/en/v0.8.14/contracts.html?highlight=fallback#special-functions)
+- [Solidity Docs Special Functions](https://docs.soliditylang.org/en/latest/contracts.html?highlight=fallback#special-functions)
 - [Fallback](https://solidity-by-example.org/fallback)
-- [Receive](https://docs.soliditylang.org/en/v0.8.14/contracts.html?highlight=fallback#receive-ether-function)
+- [Receive](https://docs.soliditylang.org/en/latest/contracts.html?highlight=fallback#receive-ether-function)
 
 ## Lesson 4 Recap
 
@@ -1032,8 +1032,8 @@ yarn add --dev @typechain/ethers-v5 @typechain/hardhat @types/chai @types/node @
 - Hardhat Deploy Block Confirmations
 ## Solidity Style Guide
 *[⌨️ (11:00:10) Solidity Style Guide](https://youtu.be/gyMwXuJrbJQ?t=39610)*
-- [Style Guide](https://docs.soliditylang.org/en/v0.8.15/style-guide.html)
-- [NatSpec](https://docs.soliditylang.org/en/v0.8.15/natspec-format.html)
+- [Style Guide](https://docs.soliditylang.org/en/latest/style-guide.html)
+- [NatSpec](https://docs.soliditylang.org/en/latest/natspec-format.html)
 ## Testing Fund Me
 *[⌨️ (11:08:36) Testing Fund Me](https://youtu.be/gyMwXuJrbJQ?t=40116)*
 - [Unit Testing](https://en.wikipedia.org/wiki/Unit_testing)
@@ -1056,7 +1056,7 @@ yarn add --dev @typechain/ethers-v5 @typechain/hardhat @types/chai @types/node @
 *[⌨️ (11:37:31) Testing Fund Me II](https://youtu.be/gyMwXuJrbJQ?t=41851)*
 ## Storage in Solidity
 *[⌨️ (11:44:34) Storage in Solidity](https://youtu.be/gyMwXuJrbJQ?t=42274)*
-- [Storage Layout](https://docs.soliditylang.org/en/v0.8.13/internals/layout_in_storage.html)
+- [Storage Layout](https://docs.soliditylang.org/en/latest/internals/layout_in_storage.html)
 - [Purpose of the memory keyword](https://stackoverflow.com/questions/33839154/in-ethereum-solidity-what-is-the-purpose-of-the-memory-keyword)
 - [getStorageAt](https://docs.ethers.io/v5/api/providers/provider/#Provider-getStorageAt)
 ## Gas Optimizations using Storage Knowledge
@@ -1167,13 +1167,13 @@ yarn add --dev @nomiclabs/hardhat-ethers@npm:hardhat-deploy-ethers ethers @nomic
 ## Implementing Chainlink VRF - The Request
 ## Implementing Chainlink VRF - The FulFill
 ### Modulo
-- [Modulo](https://docs.soliditylang.org/en/v0.8.13/types.html?highlight=modulo#modulo)
+- [Modulo](https://docs.soliditylang.org/en/latest/types.html?highlight=modulo#modulo)
 ## Introduction to Chainlink Keepers
 - [Chainlink Keepers Docs](https://docs.chain.link/docs/chainlink-keepers/introduction/)
 - [Chainlink Keepers Walkthrough](https://www.youtube.com/watch?v=-Wkw5JVQGUo)
 ## Implementing Chainlink Keepers - checkUpkeep
 ### Enums
-- [Enum](https://docs.soliditylang.org/en/v0.8.13/structure-of-a-contract.html?highlight=enum#enum-types)
+- [Enum](https://docs.soliditylang.org/en/latest/structure-of-a-contract.html?highlight=enum#enum-types)
 ## Implementing Chainlink Keepers - checkUpkeep continued
 - block.timestamp
 ## Implementing Chainlink Keepers - performUpkeep
@@ -1418,14 +1418,14 @@ yarn create next-app .
 - [base64-sol](https://www.npmjs.com/package/base64-sol/v/1.0.1)
 ## Advanced: EVM Opcodes, Encoding, and Calling
 ### abi.encode & abi.encodePacked
-- [abi.encode](https://docs.soliditylang.org/en/v0.8.14/cheatsheet.html?highlight=cheatsheet#global-variables)
-- [abi.encodePacked](https://docs.soliditylang.org/en/v0.8.14/cheatsheet.html?highlight=cheatsheet#global-variables)
+- [abi.encode](https://docs.soliditylang.org/en/latest/cheatsheet.html?highlight=cheatsheet#global-variables)
+- [abi.encodePacked](https://docs.soliditylang.org/en/latest/cheatsheet.html?highlight=cheatsheet#global-variables)
 Thanks to [Alex Roan](https://twitter.com/alexroan) for his help on this session!
 - [Example Contract Creation Transaction](https://rinkeby.etherscan.io/tx/0x924f592458b0e37ee17024f9c826b97697455cd97f6946b802bc42296e77ae43)
 What REALLY is the ABI?
 - [EVM Opcodes](https://www.evm.codes/)
 - [More EVM Opcodes](https://github.com/crytic/evm-opcodes)
-- [Solidity Cheatsheet](https://docs.soliditylang.org/en/v0.8.13/cheatsheet.html?highlight=encodewithsignature)
+- [Solidity Cheatsheet](https://docs.soliditylang.org/en/latest/cheatsheet.html?highlight=encodewithsignature)
 - [abi.encode vs abi.encodePacked](https://ethereum.stackexchange.com/questions/91826/why-are-there-two-methods-encoding-arguments-abi-encode-and-abi-encodepacked)
 ### Introduction to Encoding Function Calls Directly
 ### Introduction to Encoding Function Calls Recap
