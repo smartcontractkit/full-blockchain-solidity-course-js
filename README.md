@@ -641,6 +641,8 @@ _[⌨️ (00:09:05) Lesson 1: Blockchain Basics](https://www.youtube.com/watch?v
 
 _[⌨️ (02:01:16) Lesson 2: Welcome to Remix! Simple Storage](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=7276s)_
 
+# Lesson 2: Table of Contents:
+
 💻 Code: https://github.com/PatrickAlphaC/simple-storage-fcc
 
 ## Introduction
@@ -648,7 +650,7 @@ _[⌨️ (02:01:16) Lesson 2: Welcome to Remix! Simple Storage](https://www.yout
 - [Remix](https://remix.ethereum.org/)
 - [Solidity Documentation](https://docs.soliditylang.org/en/v0.8.6/index.html)
 
-## Setting Up Your First Contract
+## Setting Up Your First Contract [Timestamp: 02:05:18](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=2h5m18s&ab_channel=freeCodeCamp.org)
 
 - Versioning
 - Take notes in your code!
@@ -657,7 +659,7 @@ _[⌨️ (02:01:16) Lesson 2: Welcome to Remix! Simple Storage](https://www.yout
 - Compiling
 - Contract Declaration
 
-## Basic Solidity: Types
+## Basic Solidity: Types [Timestamp: 02:12:28](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=2h12m28s&ab_channel=freeCodeCamp.org)
 
 - [Types & Declaring Variables](https://docs.soliditylang.org/en/v0.8.13/)
   - `uint256`, `int256`, `bool`, `string`, `address`, `bytes32`
@@ -666,7 +668,7 @@ _[⌨️ (02:01:16) Lesson 2: Welcome to Remix! Simple Storage](https://www.yout
 - Default Initializations
 - Comments
 
-## Basic Solidity: Functions
+## Basic Solidity: Functions [Timestamp: 02:18:41](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=2h18m41s&ab_channel=freeCodeCamp.org)
 
 - Functions
 - Deploying a Contract
@@ -677,7 +679,7 @@ _[⌨️ (02:01:16) Lesson 2: Welcome to Remix! Simple Storage](https://www.yout
 - Scope
 - View & Pure Functions
 
-## Basic Solidity: Arrays & Structs
+## Basic Solidity: Arrays & Structs [Timestamp: 02:35:29](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=2h35m29s&ab_channel=freeCodeCamp.org)
 
 - Structs
 - Intro to Storage
@@ -685,12 +687,12 @@ _[⌨️ (02:01:16) Lesson 2: Welcome to Remix! Simple Storage](https://www.yout
 - Dynamic & Fixed Sized
 - `push` array function
 
-## Basic Solidity: Compiler Errors and Warnings
+## Basic Solidity: Compiler Errors and Warnings [Timestamp: 02:45:34](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=2h45m34s&ab_channel=freeCodeCamp.org)
 
 - Yellow: Warnings are Ok
 - Red: Errors are not Ok
 
-## Memory, Storage, Calldata (Intro)
+## Basic Solidity: Memory, Storage & Calldata (Intro) [Timestamp: 02:46:33](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=2h46m33s&ab_channel=freeCodeCamp.org)
 
 - 6 Places you can store and access data
   - calldata
@@ -700,11 +702,11 @@ _[⌨️ (02:01:16) Lesson 2: Welcome to Remix! Simple Storage](https://www.yout
   - logs
   - stack
 
-## Mappings
+### Mappings
 
 - [Mappings](https://solidity-by-example.org/mapping)
 
-## Deploying your First Contract
+## Deploying your First Contract [Timestamp: 02:53:38](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=2h53m38s&ab_channel=freeCodeCamp.org)
 
 - A testnet or mainnet
 - Connecting Metamask
@@ -712,7 +714,7 @@ _[⌨️ (02:01:16) Lesson 2: Welcome to Remix! Simple Storage](https://www.yout
 - See the faucets at the top of this readme!
 - Interacting with Deployed Contracts
 
-## The EVM & A Recap of Lesson 2
+## The EVM & A Recap of Lesson 2 [Timestamp: 03:03:07](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=3h3m7s&ab_channel=freeCodeCamp.org)
 
 - The EVM
 
