@@ -724,27 +724,29 @@ _[⌨️ (03:05:34) Lesson 3: Remix Storage Factory](https://www.youtube.com/wat
 
 💻 Code: https://github.com/PatrickAlphaC/storage-factory-fcc
 
+# Lesson 3: Table of Contents:
+
 ## Introduction
 
 - [Factory Pattern](https://betterprogramming.pub/learn-solidity-the-factory-pattern-75d11c3e7d29)
 
-## Basic Solidity: Importing Contracts into other Contracts
+## Importing Contracts into other Contracts [Timestamp: 03:07:30](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=3h7m30s&ab_channel=freeCodeCamp.org)
 
 - [Composibility](https://chain.link/techtalks/defi-composability)
 - [Solidity new keyword](https://docs.soliditylang.org/en/v0.8.14/control-structures.html?highlight=new#creating-contracts-via-new)
 - [Importing Code in solidity](https://solidity-by-example.org/import)
 
-## Basic Solidity: Interacting with other Contracts
+## Interacting with other Contracts [Timestamp: 03:16:36](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=3h16m36s&ab_channel=freeCodeCamp.org)
 
 - To interact, you always need: ABI + Address
 - [ABI](https://docs.soliditylang.org/en/v0.8.14/abi-spec.html?highlight=abi)
 
-## Basic Solidity: Inheritance & Overrides
+## Inheritance & Overrides [Timestamp: 03:25:23](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=3h25m23s&ab_channel=freeCodeCamp.org)
 
 - [Inheritance](https://solidity-by-example.org/inheritance)
 - [Override & Virtual Keyword](https://docs.soliditylang.org/en/v0.8.14/contracts.html?highlight=override#function-overriding)
 
-## Lesson 3 Recap
+## Lesson 3 Recap [Timestamp: 03:30:29](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=3h30m29s&ab_channel=freeCodeCamp.org)
 
 # Lesson 4: Remix Fund Me
 
