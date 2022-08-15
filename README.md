@@ -754,9 +754,11 @@ _[⌨️ (03:31:55) Lesson 4: Remix Fund Me](https://www.youtube.com/watch?v=gyM
 
 💻 Code: https://github.com/PatrickAlphaC/fund-me-fcc
 
+# Lesson 4: Table of Contents:
+
 ## Introduction
 
-## Sending ETH Through a Function & Reverts
+## Sending ETH Through a Function & Reverts [Timestamp: 03:34:12](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=3h34m12s&ab_channel=freeCodeCamp.org)
 
 - [Fields in a Transaction](https://ethereum.org/en/developers/docs/transactions/)
 - [More on v,r,s](https://ethereum.stackexchange.com/questions/15766/what-does-v-r-s-in-eth-gettransactionbyhash-mean)
@@ -765,7 +767,7 @@ _[⌨️ (03:31:55) Lesson 4: Remix Fund Me](https://www.youtube.com/watch?v=gyM
 - [require](https://codedamn.com/news/solidity/what-is-require-in-solidity)
 - [revert](https://medium.com/blockchannel/the-use-of-revert-assert-and-require-in-solidity-and-the-new-revert-opcode-in-the-evm-1a3a7990e06e)
 
-## Chainlink & Oracles
+## Chainlink & Oracles [Timestamp: 03:42:34](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=3h42m34s&ab_channel=freeCodeCamp.org)
 
 - [What is a blockchain oracle?](https://chain.link/education/blockchain-oracles)
 - [What is the oracle problem?](https://blog.chain.link/what-is-the-blockchain-oracle-problem/)
@@ -778,19 +780,19 @@ _[⌨️ (03:31:55) Lesson 4: Remix Fund Me](https://www.youtube.com/watch?v=gyM
 - [Importing Tokens into your Metamask](https://consensys.net/blog/metamask/how-to-add-your-custom-tokens-in-metamask/)
 - [Request and Receive Chainlink Model](https://docs.chain.link/docs/architecture-request-model/)
 
-## Review of Sending ETH and working with Chainlink
+## Review of Sending ETH and working with Chainlink [Timestamp: 04:00:31](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=4h31s&ab_channel=freeCodeCamp.org)
 
-## Interfaces & Price Feeds
+## Interfaces & Price Feeds [Timestamp: 04:01:53](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=4h1m53s&ab_channel=freeCodeCamp.org)
 
 - [Chainlink Price Feeds (Data Feeds)](https://docs.chain.link/docs/get-the-latest-price/)
 - [Chainlink GitHub](https://github.com/smartcontractkit/chainlink)
 - [Interface](https://solidity-by-example.org/interface)
 
-## Importing from GitHub & NPM
+## Importing from GitHub & NPM [Timestamp: 04:09:10](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=4h9m10s&ab_channel=freeCodeCamp.org)
 
 - [Chainlink NPM Package](https://www.npmjs.com/package/@chainlink/contracts)
 
-## Floating Point Math in Solidity
+## Floating Point Math in Solidity [Timestamp: 04:11:08](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=4h11m8s&ab_channel=freeCodeCamp.org)
 
 - [tuple](https://docs.soliditylang.org/en/v0.8.14/abi-spec.html?highlight=tuple#handling-tuple-types)
 - [Floating Point Numbers in Solidity](https://stackoverflow.com/questions/58277234/does-solidity-supports-floating-point-number)
@@ -798,48 +800,48 @@ _[⌨️ (03:31:55) Lesson 4: Remix Fund Me](https://www.youtube.com/watch?v=gyM
 - Gas Estimation Failed
   - Someone should make an article explaining this error
 
-## Basic Solidity: Arrays & Structs II
+## Basic Solidity: Arrays & Structs II [Timestamp: 04:21:58](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=4h21m58s&ab_channel=freeCodeCamp.org)
 
 - [msg.sender](https://docs.soliditylang.org/en/v0.8.14/cheatsheet.html?highlight=msg.sender)
 
-## Review of Interfaces, Importing from GitHub, & Math in Solidity
+## Review of Interfaces, Importing from GitHub, & Math in Solidity [Timestamp: 04:23:50](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=4h23m50s&ab_channel=freeCodeCamp.org)
 
-## Libraries
+## Libraries [Timestamp: 04:25:03](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=4h25m3s&ab_channel=freeCodeCamp.org)
 
 - [Library](https://docs.soliditylang.org/en/v0.8.14/contracts.html?highlight=library#libraries)
 - [Solidity-by-example Library](https://solidity-by-example.org/library)
 
-## SafeMath, Overflow Checking, and the "unchecked" keyword
+## SafeMath, Overflow Checking, and the "unchecked" keyword [Timestamp: 04:29:53](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=4h29m53s&ab_channel=freeCodeCamp.org)
 
 - [Openzeppelin Safemath](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/utils/math/SafeMath.sol)
 - [unchecked vs. checked](https://docs.soliditylang.org/en/v0.8.0/control-structures.html#checked-or-unchecked-arithmetic)
 
-## Basic Solidity: For Loop
+## Basic Solidity: For Loop [Timestamp: 04:34:30](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=4h34m30s&ab_channel=freeCodeCamp.org)
 
 - [For Loop](https://solidity-by-example.org/loop)
 - `/* */` is another way to make comments
 
-## Basic Solidity: Resetting an Array
+## Basic Solidity: Resetting an Array [Timestamp: 04:42:01](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=4h42m1s&ab_channel=freeCodeCamp.org)
 
-## Sending ETH from a Contract
+## Sending ETH from a Contract [Timestamp: 04:42:36](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=4h42m36s&ab_channel=freeCodeCamp.org)
 
 - [Transfer, Send, Call](https://solidity-by-example.org/sending-ether/)
 - [this keyword](https://ethereum.stackexchange.com/questions/1781/what-is-the-this-keyword-in-solidity)
 
-## Basic Solidity: Constructor
+## Basic Solidity: Constructor [Timestamp: 04:50:26](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=4h50m26s&ab_channel=freeCodeCamp.org)
 
 - [Constructor](https://solidity-by-example.org/constructor)
 
-## Basic Solidity: Modifiers
+## Basic Solidity: Modifiers [Timestamp: 04:53:19](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=4h53m19s&ab_channel=freeCodeCamp.org)
 
 - [Double equals](https://www.geeksforgeeks.org/solidity-operators/)
 - [Modifier](https://solidity-by-example.org/function-modifier)
 
-## Testnet Demo
+## Testnet Demo [Timestamp: 04:56:34](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=4h56m34s&ab_channel=freeCodeCamp.org)
 
 - [Disconnecting Metamask](https://help.1inch.io/en/articles/4666771-metamask-how-to-connect-disconnect-and-switch-accounts-with-metamask-on-1inch-network)
 
-## Advanced Solidity
+## Advanced Solidity Concepts [Timestamp: 05:04:32](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=5h4m32s&ab_channel=freeCodeCamp.org)
 
 ### Immutable & Constant
 
@@ -860,7 +862,7 @@ _[⌨️ (03:31:55) Lesson 4: Remix Fund Me](https://www.youtube.com/watch?v=gyM
 - [Fallback](https://solidity-by-example.org/fallback)
 - [Receive](https://docs.soliditylang.org/en/v0.8.14/contracts.html?highlight=fallback#receive-ether-function)
 
-## Lesson 4 Recap
+## Lesson 4 Recap [Timestamp: 05:27:58](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=5h27m58s&ab_channel=freeCodeCamp.org)
 
 🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊 Completed Solidity Basics! 🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊
 
