@@ -641,9 +641,9 @@ _[⌨️ (00:09:05) Lesson 1: Blockchain Basics](https://www.youtube.com/watch?v
 
 _[⌨️ (02:01:16) Lesson 2: Welcome to Remix! Simple Storage](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=7276s)_
 
-# Lesson 2: Table of Contents:
-
 💻 Code: https://github.com/PatrickAlphaC/simple-storage-fcc
+
+# Lesson 2: Table of Contents:
 
 ## Introduction
 
