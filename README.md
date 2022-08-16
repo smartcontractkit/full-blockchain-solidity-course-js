@@ -762,23 +762,31 @@ _[⌨️ (03:05:34) Lesson 3: Remix Storage Factory](https://www.youtube.com/wat
 
 - [Factory Pattern](https://betterprogramming.pub/learn-solidity-the-factory-pattern-75d11c3e7d29)
 
-## Importing Contracts into other Contracts [Timestamp: 03:07:30](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=3h7m30s&ab_channel=freeCodeCamp.org)
+## Importing Contracts into other Contracts
+
+_[⌨️ (03:07:30) Importing Contracts into other Contracts](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=3h7m30s&ab_channel=freeCodeCamp.org)_
 
 - [Composibility](https://chain.link/techtalks/defi-composability)
 - [Solidity new keyword](https://docs.soliditylang.org/en/v0.8.14/control-structures.html?highlight=new#creating-contracts-via-new)
 - [Importing Code in solidity](https://solidity-by-example.org/import)
 
-## Interacting with other Contracts [Timestamp: 03:16:36](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=3h16m36s&ab_channel=freeCodeCamp.org)
+## Interacting with other Contracts
+
+_[⌨️ (03:16:36) Interacting with other Contracts](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=3h16m36s&ab_channel=freeCodeCamp.org)_
 
 - To interact, you always need: ABI + Address
 - [ABI](https://docs.soliditylang.org/en/v0.8.14/abi-spec.html?highlight=abi)
 
-## Inheritance & Overrides [Timestamp: 03:25:23](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=3h25m23s&ab_channel=freeCodeCamp.org)
+## Inheritance & Overrides
+
+_[⌨️ (03:25:23) Inheritance & Overrides](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=3h25m23s&ab_channel=freeCodeCamp.org)_
 
 - [Inheritance](https://solidity-by-example.org/inheritance)
 - [Override & Virtual Keyword](https://docs.soliditylang.org/en/v0.8.14/contracts.html?highlight=override#function-overriding)
 
-## Lesson 3 Recap [Timestamp: 03:30:29](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=3h30m29s&ab_channel=freeCodeCamp.org)
+## Lesson 3 Recap
+
+_[⌨️ (03:30:29) Lesson 3 Recap](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=3h30m29s&ab_channel=freeCodeCamp.org)_
 
 # Lesson 4: Remix Fund Me
 
