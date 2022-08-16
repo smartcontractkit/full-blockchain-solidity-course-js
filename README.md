@@ -542,8 +542,6 @@ _[⌨️ (00:00:00) Lesson 0: Welcome To Blockchain](https://www.youtube.com/wat
 
 _[⌨️ (00:09:05) Lesson 1: Blockchain Basics](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=545s)_
 
-# Lessson 1: Table of Contents:
-
 ## What is a Blockchain? What does a blockchain do?
 
 _[⌨️ (00:09:06) What is a Blockchain? What does a blockchain do? ](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=9m6s&ab_channel=freeCodeCamp.org)_
@@ -663,14 +661,14 @@ _[⌨️ (02:01:16) Lesson 2: Welcome to Remix! Simple Storage](https://www.yout
 
 💻 Code: https://github.com/PatrickAlphaC/simple-storage-fcc
 
-# Lesson 2: Table of Contents:
-
 ## Introduction
 
 - [Remix](https://remix.ethereum.org/)
 - [Solidity Documentation](https://docs.soliditylang.org/en/v0.8.6/index.html)
 
-## Setting Up Your First Contract [Timestamp: 02:05:18](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=2h5m18s&ab_channel=freeCodeCamp.org)
+## Setting Up Your First Contract
+
+_[⌨️ (02:05:18) Setting Up Your First Contract](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=2h5m18s&ab_channel=freeCodeCamp.org)_
 
 - Versioning
 - Take notes in your code!
@@ -679,7 +677,9 @@ _[⌨️ (02:01:16) Lesson 2: Welcome to Remix! Simple Storage](https://www.yout
 - Compiling
 - Contract Declaration
 
-## Basic Solidity: Types [Timestamp: 02:12:28](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=2h12m28s&ab_channel=freeCodeCamp.org)
+## Basic Solidity: Types
+
+_[⌨️ (02:12:28) Basic Solidity: Types](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=2h12m28s&ab_channel=freeCodeCamp.org)_
 
 - [Types & Declaring Variables](https://docs.soliditylang.org/en/v0.8.13/)
   - `uint256`, `int256`, `bool`, `string`, `address`, `bytes32`
@@ -688,7 +688,9 @@ _[⌨️ (02:01:16) Lesson 2: Welcome to Remix! Simple Storage](https://www.yout
 - Default Initializations
 - Comments
 
-## Basic Solidity: Functions [Timestamp: 02:18:41](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=2h18m41s&ab_channel=freeCodeCamp.org)
+## Basic Solidity: Functions
+
+_[⌨️ (02:18:41) Basic Solidity: Functions](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=2h18m41s&ab_channel=freeCodeCamp.org)_
 
 - Functions
 - Deploying a Contract
@@ -699,7 +701,9 @@ _[⌨️ (02:01:16) Lesson 2: Welcome to Remix! Simple Storage](https://www.yout
 - Scope
 - View & Pure Functions
 
-## Basic Solidity: Arrays & Structs [Timestamp: 02:35:29](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=2h35m29s&ab_channel=freeCodeCamp.org)
+## Basic Solidity: Arrays & Structs
+
+_[⌨️ (02:35:29) Basic Solidity: Arrays & Structs](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=2h35m29s&ab_channel=freeCodeCamp.org)_
 
 - Structs
 - Intro to Storage
@@ -707,12 +711,16 @@ _[⌨️ (02:01:16) Lesson 2: Welcome to Remix! Simple Storage](https://www.yout
 - Dynamic & Fixed Sized
 - `push` array function
 
-## Basic Solidity: Compiler Errors and Warnings [Timestamp: 02:45:34](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=2h45m34s&ab_channel=freeCodeCamp.org)
+## Basic Solidity: Compiler Errors and Warnings
+
+_[⌨️ (02:45:34) Basic Solidity: Compiler Errors and Warnings](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=2h45m34s&ab_channel=freeCodeCamp.org)_
 
 - Yellow: Warnings are Ok
 - Red: Errors are not Ok
 
-## Basic Solidity: Memory, Storage & Calldata (Intro) [Timestamp: 02:46:33](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=2h46m33s&ab_channel=freeCodeCamp.org)
+## Basic Solidity: Memory, Storage & Calldata (Intro)
+
+_[⌨️ (02:46:34) Basic Solidity: Memory, Storage & Calldata (Intro)](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=2h46m34s&ab_channel=freeCodeCamp.org)_
 
 - 6 Places you can store and access data
   - calldata
@@ -726,7 +734,9 @@ _[⌨️ (02:01:16) Lesson 2: Welcome to Remix! Simple Storage](https://www.yout
 
 - [Mappings](https://solidity-by-example.org/mapping)
 
-## Deploying your First Contract [Timestamp: 02:53:38](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=2h53m38s&ab_channel=freeCodeCamp.org)
+## Deploying your First Contract
+
+_[⌨️ (02:53:38) Deploying your First Contract](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=2h53m38s&ab_channel=freeCodeCamp.org)_
 
 - A testnet or mainnet
 - Connecting Metamask
@@ -734,7 +744,9 @@ _[⌨️ (02:01:16) Lesson 2: Welcome to Remix! Simple Storage](https://www.yout
 - See the faucets at the top of this readme!
 - Interacting with Deployed Contracts
 
-## The EVM & A Recap of Lesson 2 [Timestamp: 03:03:07](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=3h3m7s&ab_channel=freeCodeCamp.org)
+## The EVM & A Recap of Lesson 2
+
+_[⌨️ (03:03:07) The EVM & A Recap of Lesson 2](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=3h3m7s&ab_channel=freeCodeCamp.org)_
 
 - The EVM
 
