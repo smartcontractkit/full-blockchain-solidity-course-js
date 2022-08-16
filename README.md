@@ -544,7 +544,9 @@ _[⌨️ (00:09:05) Lesson 1: Blockchain Basics](https://www.youtube.com/watch?v
 
 # Lessson 1: Table of Contents:
 
-## What is a Blockchain? What does a blockchain do? [Timestamp: 00:09:06](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=9m6s&ab_channel=freeCodeCamp.org)
+## What is a Blockchain? What does a blockchain do?
+
+_[⌨️ (00:09:06) What is a Blockchain? What does a blockchain do? ](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=9m6s&ab_channel=freeCodeCamp.org)_
 
 - [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
   - [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto)
@@ -558,7 +560,9 @@ _[⌨️ (00:09:05) Lesson 1: Blockchain Basics](https://www.youtube.com/watch?v
 - [Web3](https://en.wikipedia.org/wiki/Web3)
 - [What is a blockchain](https://www.investopedia.com/terms/b/blockchain.asp)
 
-## The Purpose Of Smart Contracts [Timestamp: 00:18:27](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=18m27s&ab_channel=freeCodeCamp.org)
+## The Purpose Of Smart Contracts
+
+_[⌨️ (00:18:27) The Purpose Of Smart Contracts](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=18m27s&ab_channel=freeCodeCamp.org)_
 
 - 🎥 [Original Video](https://www.youtube.com/watch?v=_JeRq7Gwj5Y&feature=youtu.be)
 - 🦬 [My ETH Denver Talk](https://www.youtube.com/watch?v=06hXCX_jj2E)
@@ -568,7 +572,9 @@ _[⌨️ (00:09:05) Lesson 1: Blockchain Basics](https://www.youtube.com/watch?v
 - 🧱 [How does a blockchain work?](https://www.youtube.com/watch?v=SSo_EIwHSd4)
 - 🔮 [Chainlink & Oracles](https://www.youtube.com/watch?v=tIUHQ7sDoaU)
 
-## Other Blockchain Benefits [Timestamp: 00:30:41](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=30m41s&ab_channel=freeCodeCamp.org)
+## Other Blockchain Benefits
+
+_[⌨️ (00:30:41) Other Blockchain Benefits](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=30m41s&ab_channel=freeCodeCamp.org)_
 
 - Decentralized
 - Transparency & Flexibility
@@ -577,7 +583,9 @@ _[⌨️ (00:09:05) Lesson 1: Blockchain Basics](https://www.youtube.com/watch?v
 - Counterparty Risk Removal
 - Trust Minimized Agreements
 
-## What have Smart Contracts done so far? [Timestamp: 00:36:36](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=36m36s&ab_channel=freeCodeCamp.org)
+## What have Smart Contracts done so far?
+
+_[⌨️ (00:36:36) What have Smart Contracts done so far?](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=36m36s&ab_channel=freeCodeCamp.org)_
 
 - [DeFi](https://chain.link/education/defi)
   - [Defi Llama](https://defillama.com/)
@@ -585,7 +593,9 @@ _[⌨️ (00:09:05) Lesson 1: Blockchain Basics](https://www.youtube.com/watch?v
 - [DAOs](https://betterprogramming.pub/what-is-a-dao-what-is-the-architecture-of-a-dao-how-to-build-a-dao-high-level-d096a97162cc)
 - [NFTs](https://www.youtube.com/watch?v=9yuHz6g_P50)
 
-## Your First Transaction [Timestamp: 00:39:17](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=39m17s&ab_channel=freeCodeCamp.org)
+## Your First Transaction
+
+_[⌨️ (00:39:17) Your First Transaction](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=39m17s&ab_channel=freeCodeCamp.org)_
 
 - [Metamask Download Link](https://metamask.io/)
   - [What is a Private Key?](https://www.coinbase.com/learn/crypto-basics/what-is-a-private-key)
@@ -597,25 +607,33 @@ _[⌨️ (00:09:05) Lesson 1: Blockchain Basics](https://www.youtube.com/watch?v
   - NOTE: The Chainlink documentation always has the most up to date faucets on their [link token contracts page](https://docs.chain.link/docs/link-token-contracts/#rinkeby). If the faucet above is broken, check the chainlink documentation for the most up to date faucet.
 - OR, use the [Kovan ETH Faucet](https://faucets.chain.link/), just be sure to swap your metamask to kovan!
 
-## Gas I: Introduction to Gas [Timestamp: 00:59:00](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=59m&ab_channel=freeCodeCamp.org)
+## Gas I: Introduction to Gas
+
+_[⌨️ (00:59:00) Gas I: Introduction to Gas](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=59m&ab_channel=freeCodeCamp.org)_
 
 - [Gas and Gas Fees](https://ethereum.org/en/developers/docs/gas/)
 - [Wei, Gwei, and Ether Converter](https://eth-converter.com/)
 - [ETH Gas Station](https://ethgasstation.info/)
 
-## How Do Blockchains Work? [Timestamp: 01:05:31](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=1h5m31s&ab_channel=freeCodeCamp.org)
+## How Do Blockchains Work?
+
+_[⌨️ (01:05:31) How Do Blockchains Work?](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=1h5m31s&ab_channel=freeCodeCamp.org)_
 
 - [What is a hash?](https://techjury.net/blog/what-is-cryptographic-hash/)
 - [Blockchain Demo](https://andersbrownworth.com/blockchain/)
 - [Summary](https://ethereum.org/en/developers/docs/intro-to-ethereum/)
 
-## Signing Transactions [Timestamp: 01:22:55](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=1h22m55s&ab_channel=freeCodeCamp.org)
+## Signing Transactions
+
+_[⌨️ (01:22:55) Signing Transactions](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=1h22m55s&ab_channel=freeCodeCamp.org)_
 
 - [Public / Private Keys](https://andersbrownworth.com/blockchain/public-private-keys/keys)
 - [Layer 2 and Rollups](https://ethereum.org/en/developers/docs/scaling/layer-2-rollups/)
 - [Decentralized Blockchain Oracles](https://blog.chain.link/what-is-the-blockchain-oracle-problem/)
 
-## Gas II: Block Rewards & EIP 1559 [Timestamp: 01:30:22](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=1h30m22s&ab_channel=freeCodeCamp.org)
+## Gas II: Block Rewards & EIP 1559
+
+_[⌨️ (01:30:22) Gas II: Block Rewards & EIP 1559](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=1h30m22s&ab_channel=freeCodeCamp.org)_
 
 - [Block Rewards](https://www.investopedia.com/terms/b/block-reward.asp)
 - Advanced Gas
@@ -627,7 +645,9 @@ _[⌨️ (00:09:05) Lesson 1: Blockchain Basics](https://www.youtube.com/watch?v
 
 - [Run Your Own Ethereum Node](https://geth.ethereum.org/docs/getting-started)
 
-## High-Level Blockchain Fundamentals [Timestamp: 01:39:33](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=1h39m33s&ab_channel=freeCodeCamp.org)
+## High-Level Blockchain Fundamentals
+
+_[⌨️ (01:39:33) High-Level Blockchain Fundamentals](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=1h39m33s&ab_channel=freeCodeCamp.org)_
 
 - [Consensus](https://wiki.polkadot.network/docs/learn-consensus)
 - [Proof of Stake](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
