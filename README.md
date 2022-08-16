@@ -1136,7 +1136,6 @@ _[⌨️ (08:07:25) Alchemy Dashboard & The Mempool](https://youtu.be/gyMwXuJrbJ
 
 _[⌨️ (08:14:18) Lesson 5 Recap](https://youtu.be/gyMwXuJrbJQ?t=8h14m18s)_
 
-
 ## Optional: TypeScript
 
 _[⌨️ (08:17:08) Optional: TypeScript](https://youtu.be/gyMwXuJrbJQ?t=8h17m8s)_
@@ -1421,21 +1420,31 @@ _[⌨️ (12:32:57) Lesson 8: HTML / Javascript Fund Me (Full Stack / Front End)
 
 ## How Websites work with Web3 Wallets
 
+_[⌨️ (12:40:02) How Websites work with Web3 Wallets](https://youtu.be/gyMwXuJrbJQ?t=12h40m2s)_
+
 - [How to Connect your Smart Contracts to Metamask](https://www.youtube.com/watch?v=pdsYCkUWrgQ)
   - 💻 Code from Video: https://github.com/PatrickAlphaC/full-stack-web3-metamask-connectors
   - ✍️ Article from Video: https://betterprogramming.pub/everything-you-need-to-know-about-fullstack-web3-94c0f1b18019?sk=a2764bcbdae98bf05e1052931de77982
 
 ## HTML Setup
 
+_[⌨️ (12:45:33) HTML Setup](https://youtu.be/gyMwXuJrbJQ?t=12h45m33s)_
+
 - Live Server: ExtensionID: ritwickdey.LiveServer
 
 ## Connecting HTML to Metamask
+
+_[⌨️ (12:50:11) Connecting HTML to Metamask](https://youtu.be/gyMwXuJrbJQ?t=12h50m11s)_
 
 - [Metamask Docs](https://docs.metamask.io/guide/)
 
 ## Javascript in it's own file
 
-## ES6 vs Nodejs
+_[⌨️ (12:57:08) Javascript in it's own file](https://youtu.be/gyMwXuJrbJQ?t=12h57m8s)_
+
+## ES6 (Frontend Js) vs Nodejs
+
+_[⌨️ (12:59:12) ES6 (Frontend Js) vs Nodejs](https://youtu.be/gyMwXuJrbJQ?t=12h59m12s)_
 
 - [ES6 vs Nodesjs](https://stackoverflow.com/questions/31354559/using-node-js-require-vs-es6-import-export#31367852)
 - [Ethers docs for web browser](https://docs.ethers.io/v5/getting-started/#getting-started--importing--web-browser)
@@ -1443,10 +1452,14 @@ _[⌨️ (12:32:57) Lesson 8: HTML / Javascript Fund Me (Full Stack / Front End)
 
 ## Sending a transaction from a Website
 
+_[⌨️ (13:07:58) Sending a transaction from a Website](https://youtu.be/gyMwXuJrbJQ?t=13h7m58s)_
+
 - [Web3Provider](https://docs.ethers.io/v5/api/providers/other/#Web3Provider)
 - [Adding a network to metamask](https://metamask.zendesk.com/hc/en-us/articles/360043227612-How-to-add-a-custom-network-RPC)
 
 ## Resetting an Account in Metamask
+
+_[⌨️ (13:19:01) Resetting an Account in Metamask](https://youtu.be/gyMwXuJrbJQ?t=13h19m1s)_
 
 ```
 MetaMask - RPC Error:
@@ -1455,17 +1468,27 @@ MetaMask - RPC Error:
 
 ## Listening for Events and Completed Transactions
 
+_[⌨️ (13:20:06) Listening for Events and Completed Transactions](https://youtu.be/gyMwXuJrbJQ?t=13h20m6s)_
+
 - [provider.once](https://docs.ethers.io/v5/api/providers/provider/#Provider-once)
 - [Anonymous function](https://www.geeksforgeeks.org/javascript-anonymous-functions/)
 - [Javascript Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 
 ## Input Forms
 
+_[⌨️ (13:30:42) Input Forms](https://youtu.be/gyMwXuJrbJQ?t=13h30m42s)_
+
 ## Reading from the Blockchain
+
+_[⌨️ (13:33:34) Reading from the Blockchain](https://youtu.be/gyMwXuJrbJQ?t=13h33m34s)_
 
 ## Withdraw Function
 
+_[⌨️ (13:35:50) Withdraw Function](https://youtu.be/gyMwXuJrbJQ?t=13h35m50s)_
+
 ## Lesson 8 Recap
+
+_[⌨️ (13:38:51) Lesson 8 Recap](https://youtu.be/gyMwXuJrbJQ?t=13h38m51s)_
 
 ### Optional Links:
 
