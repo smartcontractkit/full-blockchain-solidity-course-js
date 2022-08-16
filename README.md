@@ -1136,6 +1136,7 @@ _[⌨️ (08:07:25) Alchemy Dashboard & The Mempool](https://youtu.be/gyMwXuJrbJ
 
 _[⌨️ (08:14:18) Lesson 5 Recap](https://youtu.be/gyMwXuJrbJQ?t=8h14m18s)_
 
+
 ## Optional: TypeScript
 
 _[⌨️ (08:17:08) Optional: TypeScript](https://youtu.be/gyMwXuJrbJQ?t=8h17m8s)_
@@ -1295,9 +1296,9 @@ _[⌨️ (10:10:43) Hardhat Deploy](https://youtu.be/gyMwXuJrbJQ?t=36643)_
 
 - [Hardhat Deploy](https://github.com/wighawag/hardhat-deploy)
 
-## Mocking
+## Mocking and helper-hardhat-config
 
-_[⌨️ (10:21:05) Mocking](https://youtu.be/gyMwXuJrbJQ?t=37265)_
+_[⌨️ (10:21:05) Mocking and helper-hardhat-config](https://youtu.be/gyMwXuJrbJQ?t=37265)_
 
 - [Mocking](https://stackoverflow.com/questions/2665812/what-is-mocking)
 - [Aave Github](https://github.com/aave/aave-v3-core)
