@@ -948,7 +948,7 @@ _[⌨️ (05:30:42) Lesson 5: Ethers.js Simple Storage](https://www.youtube.com/
 
 ## Effective Debugging Strategies & Getting Help
 
-_[⌨️ (5:30:46) Effective Debugging Stategies & Getting Help](https://youtu.be/gyMwXuJrbJQ?t=19846)_
+_[⌨️ (05:30:46) Effective Debugging Stategies & Getting Help](https://youtu.be/gyMwXuJrbJQ?t=19846)_
 
 1. Tinker and isolate problem
    1. For this course, take at LEAST 15 minutes to figure out a bug.
@@ -958,11 +958,15 @@ _[⌨️ (5:30:46) Effective Debugging Stategies & Getting Help](https://youtu.b
    1. Format your questions!!
    2. Use [Markdown](https://www.markdowntutorial.com/)
 
-### How to Debug Anything Video
+## How to Debug Anything
+
+_[⌨️ (05:41:54) How to Debug Anything](https://youtu.be/gyMwXuJrbJQ?t=5h41m54s)_
 
 - [Patrick's Original Video](https://www.youtube.com/watch?v=XT8STflvwNo)
 
 ## Installation & Setup
+
+_[⌨️ (05:53:47) Installation & Setup](https://youtu.be/gyMwXuJrbJQ?t=5h53m47s)_
 
 - [Visual Studio Code](https://code.visualstudio.com/)
   - [Crash Course](https://www.youtube.com/watch?v=WPqXP_kLzpo)
@@ -971,9 +975,13 @@ _[⌨️ (5:30:46) Effective Debugging Stategies & Getting Help](https://youtu.b
 - [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 - [What is a terminal?](https://code.visualstudio.com/docs/editor/integrated-terminal)
 
-### Mac & Linux Setup
+## Mac & Linux Install
 
-### Windows Setup
+_[⌨️ (05:58:54) Mac & Linux Install](https://youtu.be/gyMwXuJrbJQ?t=5h58m54s)_
+
+## Windows Install
+
+_[⌨️ (06:02:41) Windows Install](https://youtu.be/gyMwXuJrbJQ?t=6h2m41s)_
 
 - [WSL](https://docs.microsoft.com/en-us/windows/wsl/install)
   - When working in WSL, use Linux commands instead of Windows commands
@@ -982,13 +990,17 @@ _[⌨️ (5:30:46) Effective Debugging Stategies & Getting Help](https://youtu.b
 
 > ⚠️ Please use Gitpod as an absolute last resort
 
-### Gitpod
+### Working with Gitpod
+
+_[⌨️ (06:12:50) Working with Gitpod](https://youtu.be/gyMwXuJrbJQ?t=6h12m50s)_
 
 - [Gitpod](https://www.gitpod.io/)
   - **If using this, NEVER share a private key with real money on Gitpod**
   - Ideally you figure out the MacOS, Linux, or Windows install though
 
 ## Local Development Introduction
+
+_[⌨️ (06:17:00) Local Development Introduction](https://youtu.be/gyMwXuJrbJQ?t=6h17m0s)_
 
 - `CMD + K` or `CTRL + K` clears the terminal
 - `mkdir ethers-simple-storage-fcc`
@@ -1018,9 +1030,13 @@ In your `.vscode/settings.json` file.
 
 ## Tiny Javascript Refresher
 
+_[⌨️ (06:34:07) Tiny Javascript Refresher](https://youtu.be/gyMwXuJrbJQ?t=6h34m7s)_
+
 - [Javascript Tips](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)
 
 ## Asynchronous Programming in Javascript
+
+_[⌨️ (06:38:07) Asynchronous Programming in Javascript](https://youtu.be/gyMwXuJrbJQ?t=6h38m07s)_
 
 - [Asynchronous Programming](https://www.bmc.com/blogs/asynchronous-programming/)
 - [async keyword](https://www.w3schools.com/JS//js_async.asp)
@@ -1029,12 +1045,16 @@ In your `.vscode/settings.json` file.
 
 ## Compiling our Solidity
 
+_[⌨️ (06:46:17) Compiling our Solidity](https://youtu.be/gyMwXuJrbJQ?t=6h46m17s)_
+
 - [Yarn Install](https://yarnpkg.com/getting-started/install)
 - [solc-js](https://github.com/ethereum/solc-js)
   - `yarn add solc@0.8.7-fixed`
 - [yarn scripts](https://classic.yarnpkg.com/lang/en/docs/cli/run/)
 
 ## Ganache & Networks
+
+_[⌨️ (06:55:13) Ganache & Networks](https://youtu.be/gyMwXuJrbJQ?t=6h55m13s)_
 
 - [Ganache](https://trufflesuite.com/ganache/)
 - Networks in Metamask
@@ -1044,38 +1064,58 @@ In your `.vscode/settings.json` file.
 
 ## Introduction to Ethers.js
 
+_[⌨️ (07:00:10) Introduction to Ethers.js](https://youtu.be/gyMwXuJrbJQ?t=7h10s)_
+
 - [Ethers.js](https://docs.ethers.io/v5/getting-started/)
 - [prettier-plugin-solidity](https://github.com/prettier-solidity/prettier-plugin-solidity)
 
-### A Note on the await Keyword
+## A Note on the await Keyword
+
+_[⌨️ (07:08:39) A Note on the await Keyword](https://youtu.be/gyMwXuJrbJQ?t=7h8m39s)_
 
 ## Adding Transaction Overrides
 
+_[⌨️ (07:10:24) Adding Transaction Overrides](https://youtu.be/gyMwXuJrbJQ?t=7h10m24s)_
+
 ## Transaction Receipts
+
+_[⌨️ (07:12:18) Transaction Receipts](https://youtu.be/gyMwXuJrbJQ?t=7h12m18s)_
 
 ## Sending a "raw" Transaction in Ethers.js
 
+_[⌨️ (07:14:56) Sending a "raw" Transaction in Ethers.js](https://youtu.be/gyMwXuJrbJQ?t=7h14m56s)_
+
 ## Interacting with Contracts in Ethers.js
+
+_[⌨️ (07:24:58) Interacting with Contracts in Ethers.js](https://youtu.be/gyMwXuJrbJQ?t=7h24m58s)_
 
 - [EVM Decompiler](https://ethervm.io/decompile)
 - [BigNumber](https://docs.ethers.io/v5/api/utils/bignumber/)
 
 ## Environment Variables
 
+_[⌨️ (07:34:08) Environment Variables](https://youtu.be/gyMwXuJrbJQ?t=7h34m8s)_
+
 - [dotenv](https://www.npmjs.com/package/dotenv)
 - [.gitignore](https://www.atlassian.com/git/tutorials/saving-changes/gitignore)
 
 ## Better Private Key Management
+
+_[⌨️ (07:40:01) Better Private Key Management](https://youtu.be/gyMwXuJrbJQ?t=7h40m1s)_
 
 - [wallet.encrypt](https://docs.ethers.io/v5/api/signer/#Wallet-encrypt)
 - [THE .ENV PLEDGE](https://github.com/smartcontractkit/full-blockchain-solidity-course-js/discussions/5)
 
 ## Optional Prettier Formatting
 
+_[⌨️ (07:54:00) Optional Prettier Formatting](https://youtu.be/gyMwXuJrbJQ?t=7h54m)_
+
 - [Prettier](https://prettier.io/docs/en/index.html)
 - [Best README Template](https://github.com/othneildrew/Best-README-Template)
 
 ## Deploying to a Testnet or a Mainnet
+
+_[⌨️ (07:57:52) Deploying to a Testnet or a Mainnet](https://youtu.be/gyMwXuJrbJQ?t=7h57m52s)_
 
 - [Alchemy](https://alchemy.com/?a=673c802981)
 - [Getting your private key from Metamask](https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Account-Private-Key)
@@ -1083,14 +1123,22 @@ In your `.vscode/settings.json` file.
 
 ## Verifying on Block Explorers from the UI
 
+_[⌨️ (08:04:29) Verifying on Block Explorers from the UI](https://youtu.be/gyMwXuJrbJQ?t=8h4m29s)_
+
 ## Alchemy Dashboard & The Mempool
+
+_[⌨️ (08:07:25) Alchemy Dashboard & The Mempool](https://youtu.be/gyMwXuJrbJQ?t=8h7m25s)_
 
 - [Special Guest Albert Hu](https://twitter.com/thatguyintech)
 - [Mempool](https://ethereum.org/en/developers/tutorials/sending-transactions-using-web3-and-alchemy/#see-your-transaction-in-the-mempool)
 
 ## Lesson 5 Recap
 
-### Typescript Ethers Simple Storage
+_[⌨️ (08:14:18) Lesson 5 Recap](https://youtu.be/gyMwXuJrbJQ?t=8h14m18s)_
+
+## Optional: TypeScript
+
+_[⌨️ (08:17:08) Optional: TypeScript](https://youtu.be/gyMwXuJrbJQ?t=8h17m8s)_
 
 # Lesson 6: Hardhat Simple Storage
 
