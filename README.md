@@ -1536,9 +1536,9 @@ _[⌨️ (13:54:02) Introduction to Events](https://youtu.be/gyMwXuJrbJQ?t=50042
 
 _[⌨️ (14:00:47) Events in Raffle.sol](https://youtu.be/gyMwXuJrbJQ?t=50447)_
 
-## Introduction to Chainlink VRF
+## Introduction to Chainlink VRF (Randomness in Web3)
 
-_[⌨️ (14:02:30) Introduction to Chainlink VRF](https://youtu.be/gyMwXuJrbJQ?t=50550)_
+_[⌨️ (14:02:30) Introduction to Chainlink VRF (Randomness in Web3)](https://youtu.be/gyMwXuJrbJQ?t=50550)_
 
 - [Special Guest Stephen Fluin](https://twitter.com/stephenfluin)
 
@@ -1548,88 +1548,140 @@ _[⌨️ (14:02:30) Introduction to Chainlink VRF](https://youtu.be/gyMwXuJrbJQ?
 > - [Chainlink VRFv2 Walkthrough](https://www.youtube.com/watch?v=rdJ5d8j1RCg)
 > - [Chainlink Contracts](https://github.com/smartcontractkit/chainlink/blob/develop/contracts/src/v0.8/VRFConsumerBase.sol)
 
-## Implementing Chainlink VRF - Introduction
+## Implementing Chainlink VRF (Introduction)
 
-_[⌨️ (14:09:53) Implementing Chainlink VRF](https://youtu.be/gyMwXuJrbJQ?t=50993)_
+_[⌨️ (14:09:53) Implementing Chainlink VRF (Introduction)](https://youtu.be/gyMwXuJrbJQ?t=50993)_
 
 ### Hardhat Shorthand
 
+_[⌨️ (14:14:31) Hardhat Shorthand](https://youtu.be/gyMwXuJrbJQ?t=14h14m31s)_
+
 - [Hardhat Shorthand](https://hardhat.org/guides/shorthand.html)
 
-## Implementing Chainlink VRF - The Request
+## Implementing Chainlink VRF (The Request)
 
-## Implementing Chainlink VRF - The FulFill
+_[⌨️ (14:15:31) Implementing Chainlink VRF (The Request)](https://youtu.be/gyMwXuJrbJQ?t=14h15m31s)_
 
-### Modulo
+## Implementing Chainlink VRF (The FulFill)
+
+_[⌨️ (14:22:57) Implementing Chainlink VRF (The FulFill)](https://youtu.be/gyMwXuJrbJQ?t=14h22m57s)_
+
+## Modulo
+
+_[⌨️ (14:23:00) Modulo](https://youtu.be/gyMwXuJrbJQ?t=14h23m)_
 
 - [Modulo](https://docs.soliditylang.org/en/v0.8.13/types.html?highlight=modulo#modulo)
 
 ## Introduction to Chainlink Keepers
 
+_[⌨️ (14:28:27) Introduction to Chainlink Keepers](https://youtu.be/gyMwXuJrbJQ?t=14h28m27s)_
+
 - [Chainlink Keepers Docs](https://docs.chain.link/docs/chainlink-keepers/introduction/)
 - [Chainlink Keepers Walkthrough](https://www.youtube.com/watch?v=-Wkw5JVQGUo)
 
-## Implementing Chainlink Keepers - checkUpkeep
+## Implementing Chainlink Keepers (checkUpkeep)
+
+_[⌨️ (14:34:45) Implementing Chainlink Keepers (checkUpkeep)](https://youtu.be/gyMwXuJrbJQ?t=14h34m45s)_
 
 ### Enums
 
+_[⌨️ (14:38:51) Enums](https://youtu.be/gyMwXuJrbJQ?t=14h38m51s)_
+
 - [Enum](https://docs.soliditylang.org/en/v0.8.13/structure-of-a-contract.html?highlight=enum#enum-types)
 
-## Implementing Chainlink Keepers - checkUpkeep continued
+## Implementing Chainlink Keepers (checkUpkeep continued)
+
+_[⌨️ (14:42:05) Implementing Chainlink Keepers - checkUpkeep continued](https://youtu.be/gyMwXuJrbJQ?t=14h42m5s)_
 
 - block.timestamp
 
-## Implementing Chainlink Keepers - performUpkeep
+## Implementing Chainlink Keepers (performUpkeep)
+
+_[⌨️ (14:47:15) Implementing Chainlink Keepers (performUpkeep)](https://youtu.be/gyMwXuJrbJQ?t=14h47m15s)_
 
 ## Code Cleanup
 
+_[⌨️ (14:50:37) Code Cleanup](https://youtu.be/gyMwXuJrbJQ?t=14h50m37s)_
+
 ## Deploying Raffle.sol
+
+_[⌨️ (14:56:00) Deploying Raffle.sol](https://youtu.be/gyMwXuJrbJQ?t=14h56m)_
 
 ### Mock Chainlink VRF Coordinator
 
+_[⌨️ (15:04:28) Mock Chainlink VRF Coordinator](https://youtu.be/gyMwXuJrbJQ?t=15h4m28s)_
+
 ### Continued
+
+_[⌨️ (15:10:46) Continued](https://youtu.be/gyMwXuJrbJQ?t=15h10m46s)_
 
 - [LINK Token](https://docs.chain.link/docs/link-token-contracts/)
 
 ## Raffle.sol Unit Tests
 
+_[⌨️ (15:20:08) Raffle.sol Unit Tests](https://youtu.be/gyMwXuJrbJQ?t=15h20m8s)_
+
 - We use `async function` in the describe blocks at the start, but we correctly take them out later.
 
-### Testing Events & Chai Matchers
+## Testing Events & Chai Matchers
+
+_[⌨️ (15:30:20) Testing Events & Chai Matchers](https://youtu.be/gyMwXuJrbJQ?t=15h30m20s)_
 
 - [Emit Chai Matcher](https://ethereum-waffle.readthedocs.io/en/latest/matchers.html#emitting-events)
 
-### Continued I
+## Raffle.sol Unit Tests Continued I
+
+_[⌨️ (15:31:30) Raffle.sol Unit Tests Continued I](https://youtu.be/gyMwXuJrbJQ?t=15h31m30s)_
 
 ## Hardhat Methods & Time Travel
+
+_[⌨️ (15:32:46) Hardhat Methods & Time Travel](https://youtu.be/gyMwXuJrbJQ?t=15h32m46s)_
 
 - [Make Hardhat do whatever you want it to](https://hardhat.org/hardhat-network/reference/)
 - [Special debugging hardhat methods](https://hardhat.org/hardhat-network/reference/#special-testing-debugging-methods)
 
-### Continued II
+## Raffle.sol Unit Tests Continued II
+
+_[⌨️ (15:37:11) Raffle.sol Unit Tests Continued II](https://youtu.be/gyMwXuJrbJQ?t=15h37m11s)_
 
 ## Callstatic
 
+_[⌨️ (15:38:23) Callstatic](https://youtu.be/gyMwXuJrbJQ?t=15h38m23s)_
+
 - [Callstatic](https://docs.ethers.io/v5/api/contract/contract/#contract-callStatic)
 
-### Continued III
+## Raffle.sol Unit Tests Continued III
 
-### Massive Promise Test
+_[⌨️ (15:40:00) Raffle.sol Unit Tests Continued III](https://youtu.be/gyMwXuJrbJQ?t=15h40m)_
 
-### Continued IV
+## Massive Promise Test
+
+_[⌨️ (15:52:12) Massive Promise Test](https://youtu.be/gyMwXuJrbJQ?t=15h52m12s)_
+
+## Raffle.sol Unit Tests Continued IV
+
+_[⌨️ (16:07:26) Raffle.sol Unit Tests Continued IV](https://youtu.be/gyMwXuJrbJQ?t=16h7m26s)_
 
 ## Raffle.sol Staging Tests
 
+_[⌨️ (16:07:44) Raffle.sol Staging Tests](https://youtu.be/gyMwXuJrbJQ?t=16h7m44s)_
+
 ## Testing on a Testnet
+
+_[⌨️ (16:18:18) Testing on a Testnet](https://youtu.be/gyMwXuJrbJQ?t=16h18m18s)_
 
 ### Recommended LINK amounts for Rinkeby Staging Test:
 
 - Chainlink VRF: 2 LINK
-- Chainlink Keepers: 8 LINK
+- Chainlink Keepers: 13 LINK
 
-## Conclusion
+## Smart Contract Lottery Conclusion
+
+_[⌨️ (16:30:57) Smart Contract Lottery Conclusion](https://youtu.be/gyMwXuJrbJQ?t=16h30m57s)_
 
 ## Typescript - Smart Contract Lottery
+
+_[⌨️ (16:32:39) Typescript - Smart Contract Lottery](https://youtu.be/gyMwXuJrbJQ?t=16h32m39s)_
 
 🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊 Completed Hardhat Basics! 🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊
 
