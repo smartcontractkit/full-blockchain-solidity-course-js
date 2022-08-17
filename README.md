@@ -2388,14 +2388,20 @@ _[⌨️ (28:53:11) Lesson 16: Hardhat Upgrades](https://www.youtube.com/watch?v
 
 ## Delegatecall
 
+_[⌨️ (29:07:37) Delegatecall](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=29h7m37s)_
+
 - [delegatecall (solidity-by-example)](https://solidity-by-example.org/delegatecall)
 - [Yul](https://docs.soliditylang.org/en/latest/yul.html)
 
 ## Small Proxy Example
 
+_[⌨️ (29:16:00) Small Proxy Example](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=29h16m)_
+
 - [EIP 1967](https://eips.ethereum.org/EIPS/eip-1967)
 
 ## Transparent Upgradable Smart Contract
+
+_[⌨️ (29:27:21) Transparent Upgradable Smart Contract](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=29h27m21s)_
 
 - [Hardhat-deploy Proxies](https://github.com/wighawag/hardhat-deploy#deploying-and-upgrading-proxies)
 - [Openzeppelin Upgrades Plugin](https://docs.openzeppelin.com/upgrades-plugins/1.x/)
