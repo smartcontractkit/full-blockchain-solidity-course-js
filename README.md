@@ -1893,10 +1893,14 @@ _[⌨️ (18:59:24) Lesson 12: Hardhat ERC20s](https://www.youtube.com/watch?v=g
 
 ## What is an ERC? What is an EIP?
 
+_[⌨️ (18:59:27) What is an ERC? What is an EIP?ERC20s](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=18h59m27s)_
+
 - [What is an EIP?](https://eips.ethereum.org/)
 - [EIPs codebase](https://github.com/ethereum/EIPs)
 
 ## What is an ERC20?
+
+_[⌨️ (19:01:40) What is an ERC20?](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=19h1m40s)_
 
 - [Video (using brownie/python)](https://youtu.be/8rpir_ZSK1g?t=39)
 - [EIP-20](https://eips.ethereum.org/EIPS/eip-20)
@@ -1905,13 +1909,19 @@ _[⌨️ (18:59:24) Lesson 12: Hardhat ERC20s](https://www.youtube.com/watch?v=g
 
 ## Manually Creating an ERC20 Token
 
+_[⌨️ (19:03:04) Manually Creating an ERC20 Token](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=19h3m4s)_
+
 ## Creating an ERC20 Token with Openzeppelin
+
+_[⌨️ (19:09:24) Creating an ERC20 Token with Openzeppelin](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=19h9m24s)_
 
 - [Openzeppelin](https://openzeppelin.com/)
 - [Openzeppelin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
 - [Solmate (Openzeppelin alternative)](https://github.com/Rari-Capital/solmate)
 
 ## Lesson 12 Recap
+
+_[⌨️ (19:14:26) Lesson 12 Recap](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=19h14m26s)_
 
 # Lesson 13: Hardhat DeFi & Aave
 
