@@ -2159,7 +2159,7 @@ _[⌨️ (23:22:14) Deploying the NFTs to a Testnet](https://www.youtube.com/wat
 
 ## Lesson 14 Recap
 
-_[⌨️ (23:34:11) Deploying the NFTs to a Testnet](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=23h34m11s)_
+_[⌨️ (23:34:11) Lesson 14 Recap](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=23h34m11s)_
 
 Extra credit:
 
@@ -2189,11 +2189,17 @@ Special thanks to [Matt Durkin](https://twitter.com/mdurkin92) for help with thi
 
 ### Hardhat Setup
 
+_[⌨️ (23:43:24) Hardhat Setup](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=23h43m24s)_
+
 ### NftMarketplace.sol
+
+_[⌨️ (23:46:11) NftMarketplace.sol](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=23h46m11s)_
 
 - [Pull Over Push](https://fravoll.github.io/solidity-patterns/pull_over_push.html)
 
-## Reentrancy
+## Reentrancy Attacks
+
+_[⌨️ (24:06:27) Reentrancy Attacks](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=24h6m27s)_
 
 - [Reentrancy](https://solidity-by-example.org/hacks/re-entrancy)
 - [Rekt.news](https://rekt.news/leaderboard/)
@@ -2201,32 +2207,52 @@ Special thanks to [Matt Durkin](https://twitter.com/mdurkin92) for help with thi
 
 ### NftMarketplace.sol - Continued
 
+_[⌨️ (24:19:14) NftMarketplace.sol - Continued](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=24h19m14s)_
+
 ### NftMarketplace.sol - Deploy Script
+
+_[⌨️ (24:26:17) NftMarketplace.sol - Deploy Script](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=24h26m17s)_
 
 ### NftMarketplace.sol - Tests
 
+_[⌨️ (24:32:46) NftMarketplace.sol - Tests](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=24h32m46s)_
+
 ### NftMarketplace.sol - Scripts
 
-## Part II: Moralis Front End
+_[⌨️ (24:43:38) NftMarketplace.sol - Scripts](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=24h43m38s)_
 
-### What is Moralis?
+## Part II: Moralis Front End - Introduction
 
-- [Special Guest Ivan Liljeqvist](https://twitter.com/IvanOnTech)
+_[⌨️ (24:48:28) Part II: Moralis Front End - Introduction](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=24h48m28s)_
 
 ### NextJS Setup
+
+_[⌨️ (24:52:32) NextJS Setup](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=24h52m32s)_
 
 - [Link NextJS](https://nextjs.org/docs/api-reference/next/link)
 
 ### Adding Tailwind
 
+_[⌨️ (25:01:59) Adding Tailwind](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=25h1m59s)_
+
 - [Tailwind with NextJS](https://tailwindcss.com/docs/guides/nextjs)
 
 ### Introduction to Indexing in Web3
 
+_[⌨️ (25:05:31) Introduction to Indexing in Web3](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=25h5m31s)_
+
 - [TheGraph](https://thegraph.com/en/)
 - [Moralis](https://moralis.io/)
 
+### What is Moralis?
+
+_[⌨️ (25:12:09) What is Moralis?](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=25h12m9s)_
+
+- [Special Guest Ivan Liljeqvist](https://twitter.com/IvanOnTech)
+
 ### Connecting Moralis to our Local Hardhat Node
+
+_[⌨️ (25:19:36) Connecting Moralis to our Local Hardhat Node](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=25h19m36s)_
 
 - [NextJS Environment Variables](https://nextjs.org/docs/basic-features/environment-variables)
 - [Reverse Proxy FRP](https://github.com/fatedier/frp/releases)
@@ -2237,11 +2263,17 @@ Special thanks to [Matt Durkin](https://twitter.com/mdurkin92) for help with thi
 
 ### Moralis Event Sync
 
+_[⌨️ (25:34:53) Connecting Moralis to our Local Hardhat Node](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=25h19m36s)_
+
 - [Moralis Add Event Sync From Code](https://docs.moralis.io/moralis-dapp/connect-the-sdk/connect-using-node#add-new-event-sync-from-code)
 
-#### Reset Local Chain
+### Resetting the Local Chain
+
+_[⌨️ (25:58:48) Resetting the Local Chain](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=25h58m48s)_
 
 ### Moralis Cloud Functions
+
+_[⌨️ (26:00:55) Moralis Cloud Functions](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=26h55s)_
 
 - [Moralis Cloud Functions](https://docs.moralis.io/moralis-dapp/cloud-code/cloud-functions)
 - [Moralis Logging](https://docs.moralis.io/moralis-dapp/tools/moralis-admin-cli#get-logs)
@@ -2249,15 +2281,27 @@ Special thanks to [Matt Durkin](https://twitter.com/mdurkin92) for help with thi
 - Moralis Database only confirms a transaction with a block confirmation - so we need to move blocks on our hardhat local node.
 - [Moralis Triggers](https://docs.moralis.io/moralis-dapp/cloud-code/triggers)
 
-#### Practice Resetting the Local Chain
+### Practice Resetting the Local Chain
+
+_[⌨️ (26:19:41) Practice Resetting the Local Chain](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=26h19m41s)_
 
 ### Moralis Cloud Functions II
 
+_[⌨️ (26:22:23) Moralis Cloud Functions II](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=26h22m23s)_
+
+### Moralis Cloud Functions III
+
+_[⌨️ (26:30:25) Moralis Cloud Functions III](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=26h30m25s)_
+
 ### Querying the Moralis Database
+
+_[⌨️ (26:42:14) Querying the Moralis Database](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=26h42m14s)_
 
 - [Moralis Queries](https://docs.moralis.io/moralis-dapp/database/queries)
 
 ### Rendering the NFT Images
+
+_[⌨️ (26:48:43) Rendering the NFT Images](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=26h48m43s)_
 
 - [useNFTBalance](https://github.com/MoralisWeb3/react-moralis#usenftbalances)
 - [fetch](https://www.npmjs.com/package/node-fetch)
@@ -2265,21 +2309,33 @@ Special thanks to [Matt Durkin](https://twitter.com/mdurkin92) for help with thi
 
 ### Update Listing Modal
 
+_[⌨️ (27:17:20) Update Listing Modal](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=27h17m20s)_
+
 ### Buy NFT Listing
 
-### Listing NFTs for Sale
+_[⌨️ (27:37:15) Buy NFT Listing](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=27h37m15s)_
+
+### Sell Page Listing NFTs for Sale
+
+_[⌨️ (27:40:54) Sell Page Listing NFTs for Sale](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=27h40m54s)_
 
 - [web3uikit Form](https://web3uikit.com/)
 
 ## Part III: TheGraph Front End
 
+_[⌨️ (27:57:26) Part III: TheGraph Front End](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=27h57m26s)_
+
 ### Introduction
 
 ### What is The Graph?
 
+_[⌨️ (28:03:07) What is The Graph?](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=28h3m7s)_
+
 - [Special Guest Nader Dabit](https://twitter.com/dabit3)
 
 ### Building a Subgraph
+
+_[⌨️ (28:07:06) Building a Subgraph](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=28h7m6s)_
 
 - [Example Subgraphs](https://thegraph.com/explorer/)
 - [The Graph Studio](https://thegraph.com/studio/)
@@ -2288,15 +2344,21 @@ Special thanks to [Matt Durkin](https://twitter.com/mdurkin92) for help with thi
 
 ### Deploying our Subgraph
 
+_[⌨️ (28:35:19) Deploying our Subgraph](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=28h35m19s)_
+
 - [GraphQL Queries](https://www.tutorialspoint.com/graphql/graphql_query.htm)
 
 ### Reading from The Graph
+
+_[⌨️ (28:39:58) Reading from The Graph](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=28h39m58s)_
 
 - [@apollo/client](https://www.npmjs.com/package/@apollo/client)
 - [gql](https://www.npmjs.com/package/gql)
 - [The Graph Docs](https://thegraph.com/docs/en/)
 
 ### Hosting our Dapp
+
+_[⌨️ (28:51:40) Hosting our Dapp](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=28h51m40s)_
 
 🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊 Completed Front End Basics! 🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊
 
