@@ -1931,34 +1931,48 @@ _[⌨️ (19:16:13) Lesson 13: Hardhat DeFi & Aave](https://www.youtube.com/watc
 
 ## What is DeFi?
 
+_[⌨️ (19:16:18) What is DeFi?](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=19h16m18s)_
+
 - [What is DeFi?](https://chain.link/education/defi)
 - [DefiLlama](https://defillama.com/)
 
 ## What is Aave?
+
+_[⌨️ (19:19:59) What is Aave?](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=19h19m59s)_
 
 - [Aave](https://aave.com/)
 - [My Previous Aave Video on Shorting Assets](https://www.youtube.com/watch?v=TmNGAvI-RUA)
 
 ## Programmatic Borrowing & Lending
 
+_[⌨️ (19:25:49) Programmatic Borrowing & Lending](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=19h25m49s)_
+
 - [DAI](https://makerdao.com/en/)
 - [Uniswap](https://app.uniswap.org/)
 
 ## WETH - Wrapped ETH
+
+_[⌨️ (19:30:51) WETH - Wrapped ETH](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=19h30m51s)_
 
 - [WETH Token Rinkeby Etherscan](https://rinkeby.etherscan.io/token/0xc778417e063141139fce010982780140aa0cd5ab#writeContract)
 - [WETH Token Mainnet](https://etherscan.io/token/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2)
 
 ## Forking Mainnet
 
+_[⌨️ (19:38:12) Forking Mainnet](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=19h38m12s)_
+
 - [Mainnet Forking](https://hardhat.org/hardhat-network/guides/mainnet-forking.html)
 
 ## Depositing into Aave
+
+_[⌨️ (19:45:20) Depositing into Aave](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=19h45m20s)_
 
 - [Aave V2 Docs](https://docs.aave.com/developers/v/2.0/)
 - [Aave NPM](https://www.npmjs.com/package/@aave/protocol-v2)
 
 ## Borrowing from Aave
+
+_[⌨️ (19:57:40) Borrowing from Aave](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=19h57m40s)_
 
 - [Aave Borrowing FAQs](https://docs.aave.com/faq/borrowing)
 - [Health Factor](https://docs.aave.com/faq/borrowing#what-is-the-health-factor)
@@ -1966,13 +1980,21 @@ _[⌨️ (19:16:13) Lesson 13: Hardhat DeFi & Aave](https://www.youtube.com/watc
 
 ## Repaying with Aave
 
-## Visualizing the Transactions
+_[⌨️ (20:12:02) Repaying with Aave](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=20h12m2s)_
+
+## Visualizing the Transactions (And aTokens)
+
+_[⌨️ (20:14:57) Visualizing the Transactions (And aTokens)](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=20h14m57s)_
 
 - [aTokens](https://docs.aave.com/developers/v/1.0/developing-on-aave/the-protocol/atokens)
 
 ## Lesson 13 Recap
 
+_[⌨️ (20:17:04) Lesson 13 Recap](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=20h17m4s)_
+
 ## Happy Bow-Tie Friday with Austin Griffith
+
+_[⌨️ (20:19:15) Happy Bow-Tie Friday with Austin Griffith](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=20h19m15s)_
 
 - [Special Guest Austin Griffith](https://twitter.com/austingriffith)!
 - [Speed Run Ethereum](https://speedrunethereum.com/)
