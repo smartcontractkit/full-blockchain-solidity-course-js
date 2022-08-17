@@ -2420,9 +2420,13 @@ _[⌨️ (29:45:24) Lesson 17: Hardhat DAOs](https://www.youtube.com/watch?v=gyM
 
 ## What is a DAO?
 
+_[⌨️ (29:46:35) What is a DAO?](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=29h46m35s)_
+
 - [What is a DAO?](https://www.youtube.com/watch?v=X_QKZzd68ro)
 
 ## How to build a DAO
+
+_[⌨️ (30:02:39) How to build a DAO](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=30h2m39s)_
 
 - [How to build a DAO](https://www.youtube.com/watch?v=AhJtmUqhAqg)
 - That's Patrick
