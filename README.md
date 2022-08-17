@@ -2449,6 +2449,8 @@ _[⌨️ (31:28:32) Lesson 18: Security & Auditing ](https://www.youtube.com/wat
 
 ## Slither
 
+_[⌨️ (31:35:31) Slither](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=31h35m31s)_
+
 - [Install python](https://www.python.org/downloads/)
 - [Slither](https://github.com/crytic/slither#how-to-install)
 - [solc-select](https://github.com/crytic/solc-select)
@@ -2456,11 +2458,15 @@ _[⌨️ (31:28:32) Lesson 18: Security & Auditing ](https://www.youtube.com/wat
 
 ## Fuzzing and Eth Security Toolbox
 
+_[⌨️ (31:41:23) Fuzzing and Eth Security Toolbox](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=31h41m23s)_
+
 - [Echidna](https://github.com/crytic/echidna)
 - [Docker Install](https://docs.docker.com/get-docker/)
 - [Eth-Security-ToolBox](https://github.com/trailofbits/eth-security-toolbox)
 
-## Closing Thoughts
+## Closing Security Thoughts
+
+_[⌨️ (31:47:06) Closing Security Thoughts](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=31h47m6s)_
 
 - [Best Practices](https://consensys.github.io/smart-contract-best-practices/)
 - [Attacks](https://consensys.github.io/smart-contract-best-practices/known_attacks/)
