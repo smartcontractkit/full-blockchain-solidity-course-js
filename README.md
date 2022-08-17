@@ -2012,17 +2012,25 @@ _[⌨️ (20:28:51) Lesson 14: Hardhat NFTs ](https://www.youtube.com/watch?v=gy
 
 ## What is an NFT?
 
+_[⌨️ (20:28:54) What is an NFT?](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=20h28m54s)_
+
 - [Video](https://www.youtube.com/watch?v=9yuHz6g_P50)
 - [Optional: All on Chain SVG NFT](https://www.youtube.com/watch?v=9oERTH9Bkw0)
 - [EIP-721](https://eips.ethereum.org/EIPS/eip-721)
 
 ## Code Overview
 
+_[⌨️ (20:36:00) Code Overview](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=20h36m)_
+
 - [Opensea Testnet](https://testnets.opensea.io/)
 
 ## Hardhat Setup
 
+_[⌨️ (20:38:36) Hardhat Setup](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=20h38m36s)_
+
 ## Basic NFT
+
+_[⌨️ (20:40:38) Basic NFT](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=20h40m38s)_
 
 ### Write Tests
 
@@ -2030,17 +2038,31 @@ _[⌨️ (20:28:51) Lesson 14: Hardhat NFTs ](https://www.youtube.com/watch?v=gy
 
 ## Random IPFS NFT
 
+_[⌨️ (20:54:58) Random IPFS NFT](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=20h54m58s)_
+
 ### Mapping Chainlink VRF Requests
+
+_[⌨️ (21:03:19) Mapping Chainlink VRF Requests](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=20h54m58s)_
 
 ### Creating Rare NFTs
 
+_[⌨️ (21:07:40) Creating Rare NFTs](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=21h7m40s)_
+
 ### Setting the NFT Image
+
+_[⌨️ (21:15:21) Setting the NFT Image](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=21h15m21s)_
 
 ### Setting an NFT Mint Price
 
+_[⌨️ (21:19:05) Setting an NFT Mint Price](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=21h19m5s)_
+
 ### Deploy Script
 
+_[⌨️ (21:26:02) Deploy Script](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=21h26m2s)_
+
 ### Uploading Token Images with Pinata
+
+_[⌨️ (21:31:12) Uploading Token Images with Pinata](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=21h31m12s)_
 
 - [Pinata](https://pinata.cloud)
 - [nft.storage](https://nft.storage)
@@ -2049,22 +2071,36 @@ _[⌨️ (20:28:51) Lesson 14: Hardhat NFTs ](https://www.youtube.com/watch?v=gy
 
 ### Uploading Token URIs (metadata) with Pinata
 
-### Deploying
+_[⌨️ (21:47:32) Uploading Token URIs (metadata) with Pinata](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=21h47m32s)_
 
-### Tests
+### Deploying III
+
+_[⌨️ (21:57:10) Deploying III](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=21h57m10s)_
+
+### Random IPFS NFT Tests
+
+_[⌨️ (22:00:55) Random IPFS NFT Tests](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=22h55s)_
 
 ## Dynamic SVG On-Chain NFT
+
+_[⌨️ (22:03:11) Dynamic SVG On-Chain NFT](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=22h3m11s)_
 
 - [Patrick's Original Video](https://www.youtube.com/watch?v=9oERTH9Bkw0)
 
 ### What is an SVG?
+
+_[⌨️ (22:04:36) What is an SVG?](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=22h4m36s)_
 
 - [SVG Tutorial](https://www.w3schools.com/graphics/svg_intro.asp)
   - [On-Chain SVG Example](https://opensea.io/assets/matic/0x291ff90b9c410f56e047599bfee6b585c0c484d7/2)
 
 ### Initial Code
 
+_[⌨️ (22:07:07) Initial Code](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=22h7m7s)_
+
 ### Base64 Encoding
+
+_[⌨️ (22:10:23) Base64 Encoding](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=22h10m23s)_
 
 - [Base64 Encoding](https://en.wikipedia.org/wiki/Base64)
   - [Example Encoder](https://base64.guru/converter/encode/image/svg)
@@ -2073,6 +2109,8 @@ _[⌨️ (20:28:51) Lesson 14: Hardhat NFTs ](https://www.youtube.com/watch?v=gy
 ## Advanced: EVM Opcodes, Encoding, and Calling
 
 ### abi.encode & abi.encodePacked
+
+_[⌨️ (22:16:33) abi.encode & abi.encodePacked](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=22h16m33s)_
 
 - [abi.encode](https://docs.soliditylang.org/en/v0.8.14/cheatsheet.html?highlight=cheatsheet#global-variables)
 - [abi.encodePacked](https://docs.soliditylang.org/en/v0.8.14/cheatsheet.html?highlight=cheatsheet#global-variables)
@@ -2086,22 +2124,42 @@ _[⌨️ (20:28:51) Lesson 14: Hardhat NFTs ](https://www.youtube.com/watch?v=gy
 
 ### Introduction to Encoding Function Calls Directly
 
-### Introduction to Encoding Function Calls Recap
+_[⌨️ (22:38:59) Introduction to Encoding Function Calls Directly](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=22h38m59s)_
+
+### Encoding Recap
+
+_[⌨️ (22:44:47) Encoding Recap](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=22h44m47s)_
 
 ### Encoding Function Calls Directly
+
+_[⌨️ (22:46:47) Encoding Function Calls Directly](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=22h46m47s)_
 
 - [Function Selector](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-iii-the-function-selector-6a9b6886ea49/)
 - [Function Signature](https://twitter.com/PatrickAlphaC/status/1517156225670078465)
 
 ### Creating an NFT TokenURI on-Chain
 
+_[⌨️ (23:01:13) Creating an NFT TokenURI on-Chain](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=23h1m13s)_
+
 ### Making the NFT Dynamic
+
+_[⌨️ (23:09:24) Making the NFT Dynamic](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=23h9m24s)_
 
 ### Deploy Script
 
+_[⌨️ (23:15:16) Deploy Script](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=23h15m16s)_
+
+## Writing Tests
+
+_[⌨️ (23:21:43) Writing Tests](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=23h21m43s)_
+
 ## Deploying the NFTs to a Testnet
 
+_[⌨️ (23:22:14) Deploying the NFTs to a Testnet](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=23h22m14s)_
+
 ## Lesson 14 Recap
+
+_[⌨️ (23:34:11) Deploying the NFTs to a Testnet](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=23h34m11s)_
 
 Extra credit:
 
