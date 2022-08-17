@@ -1719,6 +1719,8 @@ We move into using [NextJS](https://nextjs.org/) for our front end. NextJS is a 
 
 ## NextJS Setup
 
+_[⌨️ (16:40:36) NextJS Setup](https://youtu.be/gyMwXuJrbJQ?t=16h40m36s)_
+
 - [NextJS Documentation](https://nextjs.org/learn/basics/create-nextjs-app)
 - [NextJS Minimal Ethers Example For Lottery](https://github.com/PatrickAlphaC/nextjs-ethers-introduction)
 
@@ -1728,18 +1730,26 @@ yarn create next-app .
 
 ## Manual Header I
 
+_[⌨️ (16:48:44) Manual Header I](https://youtu.be/gyMwXuJrbJQ?t=16h48m44s)_
+
 - [What is a component?](https://www.w3schools.com/react/react_components.asp)
 - [jsx](https://reactjs.org/docs/introducing-jsx.html)
 - [Moralis](https://moralis.io/)
 - [React Moralis](https://github.com/MoralisWeb3/react-moralis)
 
-### React Hooks
+## React Hooks
+
+_[⌨️ (16:58:43) React Hooks](https://youtu.be/gyMwXuJrbJQ?t=16h58m43s)_
 
 - [What is a react hook?](https://reactjs.org/docs/hooks-overview.html)
 
 ## Manual Header II
 
+_[⌨️ (17:01:04) Manual Header II](https://youtu.be/gyMwXuJrbJQ?t=17h1m4s)_
+
 ## useEffect Hook
+
+_[⌨️ (17:05:23) useEffect Hook](https://youtu.be/gyMwXuJrbJQ?t=17h5m23s)_
 
 - [useEffect Hook](https://reactjs.org/docs/hooks-effect.html)
 - [More on useEffect](https://blog.logrocket.com/guide-to-react-useeffect-hook/)
@@ -1748,11 +1758,17 @@ yarn create next-app .
 
 ## Local Storage
 
+_[⌨️ (17:10:28) Local Storage](https://youtu.be/gyMwXuJrbJQ?t=17h10m28s)_
+
 - [Local Storage](https://codinglead.co/javascript/what-is-localstorage)
 
-## isWeb3EnabledLoading
+## isWeb3Enabled Loading
+
+_[⌨️ (17:18:23) isWeb3Enabled Loading](https://youtu.be/gyMwXuJrbJQ?t=17h18m23s)_
 
 ## web3uikit
+
+_[⌨️ (17:19:25) web3uikit](https://youtu.be/gyMwXuJrbJQ?t=17h19m25s)_
 
 - [web3uikit](https://github.com/web3ui/web3uikit)
 - [web3uikit interactive docs](https://web3ui.github.io/web3uikit/?path=/story/1-web3-blockie--custom-seed)
@@ -1760,13 +1776,19 @@ yarn create next-app .
 
 ## Introduction to Calling Functions in Nextjs
 
+_[⌨️ (17:22:25) Introduction to Calling Functions in Nextjs](https://youtu.be/gyMwXuJrbJQ?t=17h22m25s)_
+
 - [useWeb3Contract](https://github.com/MoralisWeb3/react-moralis#useweb3contract)
 
 ### Automatic Constant Value UI Updater
 
+_[⌨️ (17:26:29) Automatic Constant Value UI Updater](https://youtu.be/gyMwXuJrbJQ?t=17h26m29s)_
+
 - [ethers.utils.FormatTypes](https://docs.ethers.io/v5/api/utils/abi/fragments/#fragments--formats)
 
 ### runContractFunction
+
+_[⌨️ (17:38:37) runContractFunction](https://youtu.be/gyMwXuJrbJQ?t=17h38m37s)_
 
 - [Moralis Provider](https://github.com/MoralisWeb3/react-moralis#wrap-your-app-in-a-moralisprovider)
 - [useMoralis](https://github.com/MoralisWeb3/react-moralis#usemoralis)
@@ -1774,23 +1796,37 @@ yarn create next-app .
 
 ## useState
 
+_[⌨️ (17:45:59) useState](https://youtu.be/gyMwXuJrbJQ?t=17h45m59s)_
+
 - [useState Hook](https://reactjs.org/docs/hooks-state.html)
 
 ## Calling Functions in NextJS
 
+_[⌨️ (17:49:50) Calling Functions in NextJS](https://youtu.be/gyMwXuJrbJQ?t=17h49m50s)_
+
 ## useNotification
+
+_[⌨️ (17:52:57) useNotification](https://youtu.be/gyMwXuJrbJQ?t=17h52m57s)_
 
 - Add `onError` to all your `runContractFunction` calls
 
 ## Reading & Displaying Contract Data
 
+_[⌨️ (17:58:06) Reading & Displaying Contract Data](https://youtu.be/gyMwXuJrbJQ?t=17h58m6s)_
+
 ## A Note about `onSuccess`
+
+_[⌨️ (18:02:55) A Note about `onSuccess`](https://youtu.be/gyMwXuJrbJQ?t=18h2m55s)_
 
 - `onSuccess` just checks to see if MetaMask sends the transaction, not
 
 ## A Challenge to You
 
+_[⌨️ (18:03:23) A Challenge to You](https://youtu.be/gyMwXuJrbJQ?t=18h3m23s)_
+
 ## Tailwind & Styling
+
+_[⌨️ (18:04:14) Tailwind & Styling](https://youtu.be/gyMwXuJrbJQ?t=18h4m14s)_
 
 - [Learn CSS](https://www.w3schools.com/css/)
 - [Tailwindcss](https://tailwindcss.com/)
@@ -1800,7 +1836,7 @@ yarn create next-app .
 
 ## Introduction to Hosting your Site
 
-_[⌨️ (18:12:50) Introdunction to Hosting your Site](https://youtu.be/gyMwXuJrbJQ?t=65570)_
+_[⌨️ (18:12:51) Introduction to Hosting your Site](https://youtu.be/gyMwXuJrbJQ?t=18h12m51s)_
 
 - [Vercel](https://vercel.com/)
 - [Moralis](https://moralis.io/)
@@ -1809,7 +1845,7 @@ _[⌨️ (18:12:50) Introdunction to Hosting your Site](https://youtu.be/gyMwXuJ
 
 ## IPFS
 
-_[⌨️ (18:15:14) IPFS](https://youtu.be/gyMwXuJrbJQ?t=65714)_
+_[⌨️ (18:15:15) IPFS](https://youtu.be/gyMwXuJrbJQ?t=65715)_
 
 - [What is IPFS](https://www.youtube.com/watch?v=5Uj6uR3fp-U)
 - [IPFS](https://ipfs.io/)
@@ -1824,7 +1860,7 @@ _[⌨️ (18:18:51) Hosting on IPFS](https://youtu.be/gyMwXuJrbJQ?t=65931)_
 
 ## Hosting on IPFS & Filecoin using Fleek
 
-_[⌨️ (18:25:45) Hosting on IPFS & Filecoin using Fleek](https://youtu.be/gyMwXuJrbJQ?t=66345)_
+_[⌨️ (18:25:46) Hosting on IPFS & Filecoin using Fleek](https://youtu.be/gyMwXuJrbJQ?t=66346)_
 
 - [Fleek](https://fleek.co/)
 
@@ -1835,7 +1871,13 @@ _[⌨️ (18:31:28) Filecoin Overview](https://youtu.be/gyMwXuJrbJQ?t=66688)_
 - [Special Guest Ally Haire](https://twitter.com/DeveloperAlly)
 - [IPFS URL of Ally's Video](ipfs://bafybeiasd6oxqiefoxgtskrokomexnb4zcq3fhwlcbyplx2paw65zmq2du)
 
+## IPFS & Filecoin GitHub projects
+
+_[⌨️ (18:40:47) IPFS & Filecoin GitHub projects](https://youtu.be/gyMwXuJrbJQ?t=18h40m47s)_
+
 ## Lesson 10 Recap
+
+_[⌨️ (18:46:40) Lesson 10 Recap](https://youtu.be/gyMwXuJrbJQ?t=18h46m40s)_
 
 # Lesson 11: Hardhat Starter Kit
 
