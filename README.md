@@ -882,6 +882,7 @@ In your `.vscode/settings.json` file.
 - [async keyword](https://www.w3schools.com/JS//js_async.asp)
 - [Promise in Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 - [await keyword](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await)
+- [Asynchronous JavaScript](https://www.scaler.com/topics/javascript/asynchronous-javascript/)
 ## Compiling our Solidity
 - [Yarn Install](https://yarnpkg.com/getting-started/install)
 - [solc-js](https://github.com/ethereum/solc-js)
