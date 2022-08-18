@@ -27,7 +27,7 @@ All code references have both a javascript and a typescript edition.
 
 Recommended Testnet: Rinkeby
 
-`NOTICE: Use *GORELI* Testnet Because of Ethereum Merge Rinkeby, Ropsten, Kovan Testnets are Deprecated`
+> NOTICE: Use *GORELI* Testnet Because of Ethereum Merge Rinkeby, Ropsten, Kovan Testnets are Deprecated
 
 # [Testnet Faucets](https://faucets.chain.link)
 Main Faucet: https://faucets.chain.link
