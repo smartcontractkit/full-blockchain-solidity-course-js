@@ -27,10 +27,12 @@ All code references have both a javascript and a typescript edition.
 
 Recommended Testnet: Rinkeby
 
+`NOTICE: Use *GORELI* Testnet Because of Ethereum Merge Rinkeby, Ropsten, Kovan Testnets are Deprecated`
+
 # [Testnet Faucets](https://faucets.chain.link)
 Main Faucet: https://faucets.chain.link
 
-Backup Faucet: https://rinkebyfaucet.com/
+Backup Faucet: https://goerlifaucet.com/
 
 > ⚠️ All code associated with this course is for demo purposes only. They have not been audited and should not be considered production ready. Please use at your own risk. 
 
