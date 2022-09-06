@@ -95,6 +95,18 @@ It's _roughly_ similar to the options in our video, but you can just pick the `J
 
 [You can read more about the changes here.](https://twitter.com/HardhatHQ/status/1545124474470760449)
 
+----------
+
+# Lesson 7
+
+## New Hardhat Setup
+
+As the previous section has highlighted, changes in the hardhat version changed the hardhat startup menu. You can choose to go with the new menu but if you feel lost and still want to access the old one used in the video, you can do so by installing `hardhat v2.9.3`
+
+Run `yarn add --dev hardhat@2.9.3`
+
+---------
+
 # Lesson 9
 
 ## Keepers new UI
