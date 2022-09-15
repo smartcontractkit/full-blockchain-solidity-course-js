@@ -1640,7 +1640,8 @@ Special thanks to [Matt Durkin](https://twitter.com/mdurkin92) for help with thi
 ### Community
 
 -   [Twitter](https://twitter.com/PatrickAlphaC)
--   [Hardhat Discord](https://discord.gg/9zk7snTfWe)
+-   [Hardhat Discord](https://hardhat.org/discord)
+-   [Ethereum Python Community Discord](https://discord.gg/9zk7snTfWe)
 -   [Chainlink Discord](https://discord.gg/2YHSAey)
 -   [Ethereum Discord](https://ethereum.org/en/)
 -   [Reddit ethdev](https://www.reddit.com/r/ethdev/)
