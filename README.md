@@ -1,13 +1,3 @@
-<!-- [YouTube Video](https://www.youtube.com/watch?v=M576WGiDBdQ) -->
-
-<!-- <br/>
-<p align="center">
-<a href="https://www.youtube.com/watch?v=M576WGiDBdQ" target="_blank">
-<img src="./img/youtube_thumbnail.jpeg" width="350" alt="Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial">
-</a>
-</p>
-<br/> -->
-
 
 # Web3, Full Stack Solidity, Smart Contract & Blockchain - Beginner to Expert ULTIMATE Course | Javascript Edition
 
@@ -25,12 +15,14 @@ Welcome to the repository for the Ultimate Web3, Full Stack Solidity, and Smart 
 
 All code references have both a javascript and a typescript edition.
 
-Recommended Testnet: Rinkeby
+Recommended Testnet: Goerli
+
+*We have updated the repos to work with Goerli due to Rinkeby and Kovan being sunset. Let us know if any of the changes break stuff!*
 
 # [Testnet Faucets](https://faucets.chain.link)
 Main Faucet: https://faucets.chain.link
 
-Backup Faucet: https://rinkebyfaucet.com/
+Backup Faucet: https://goerlifaucet.com/
 
 > ⚠️ All code associated with this course is for demo purposes only. They have not been audited and should not be considered production ready. Please use at your own risk. 
 
@@ -308,7 +300,7 @@ Backup Faucet: https://rinkebyfaucet.com/
 </li>
 <li><a href="#rafflesol-staging-tests">Raffle.sol Staging Tests</a></li>
 <li><a href="#testing-on-a-testnet">Testing on a Testnet</a><ul>
-<li><a href="#recommended-link-amounts-for-rinkeby-staging-test">Recommended LINK amounts for Rinkeby Staging Test:</a></li>
+<li><a href="#recommended-link-amounts-for-goerli-staging-test">Recommended LINK amounts for Goerli Staging Test:</a></li>
 </ul>
 </li>
 <li><a href="#conclusion">Conclusion</a></li>
@@ -579,11 +571,10 @@ Backup Faucet: https://rinkebyfaucet.com/
     -   [What is a Private Key?](https://www.coinbase.com/learn/crypto-basics/what-is-a-private-key)
     -   [What is a Secret Phrase?](https://metamask.zendesk.com/hc/en-us/articles/360060826432-What-is-a-Secret-Recovery-Phrase-and-how-to-keep-your-crypto-wallet-secure)
 -   [Etherscan](https://etherscan.io/)
--   [Rinkeby Etherscan](https://rinkeby.etherscan.io/)
--   [Kovan Etherscan](https://kovan.etherscan.io/)
--   Rinkeby Faucet (Check the [link token contracts page](https://docs.chain.link/docs/link-token-contracts/#rinkeby))
-    -   NOTE: The Chainlink documentation always has the most up to date faucets on their [link token contracts page](https://docs.chain.link/docs/link-token-contracts/#rinkeby). If the faucet above is broken, check the chainlink documentation for the most up to date faucet.
--   OR, use the [Kovan ETH Faucet](https://faucets.chain.link/), just be sure to swap your metamask to kovan!
+-   [Goerli Etherscan](https://goerli.etherscan.io/)
+-   Goerli Faucet (Check the [link token contracts page](https://docs.chain.link/docs/link-token-contracts/#goerli))
+    -   NOTE: The Chainlink documentation always has the most up to date faucets on their [link token contracts page](https://docs.chain.link/docs/link-token-contracts/#goerli). If the faucet above is broken, check the chainlink documentation for the most up to date faucet.
+-   OR, use the [Goerli ETH Faucet](https://faucets.chain.link/), just be sure to swap your metamask to goerli!
 
 ## Gas I: Introduction to Gas
 -   [Gas and Gas Fees](https://ethereum.org/en/developers/docs/gas/)
@@ -681,7 +672,7 @@ Backup Faucet: https://rinkebyfaucet.com/
 ## Deploying your First Contract
 -   A testnet or mainnet
 -   Connecting Metamask
--   [Find a faucet here](https://docs.chain.link/docs/link-token-contracts/#rinkeby)
+-   [Find a faucet here](https://docs.chain.link/docs/link-token-contracts/#goerli)
 -   See the faucets at the top of this readme!
 -   Interacting with Deployed Contracts
 
@@ -1201,7 +1192,7 @@ yarn add --dev @nomiclabs/hardhat-ethers@npm:hardhat-deploy-ethers ethers @nomic
 ### Continued IV
 ## Raffle.sol Staging Tests
 ## Testing on a Testnet
-### Recommended LINK amounts for Rinkeby Staging Test:
+### Recommended LINK amounts for Goerli Staging Test:
 - Chainlink VRF: 2 LINK
 - Chainlink Keepers: 8 LINK
 ## Conclusion
@@ -1356,7 +1347,7 @@ yarn create next-app .
 - [DAI](https://makerdao.com/en/)
 - [Uniswap](https://app.uniswap.org/)
 ## WETH - Wrapped ETH
-- [WETH Token Rinkeby Etherscan](https://rinkeby.etherscan.io/token/0xc778417e063141139fce010982780140aa0cd5ab#writeContract)
+- [WETH Token Goerli Etherscan](https://goerli.etherscan.io/token/0x8b7fb00abb67ba04ce894b9e2769fe24a8409a6a)
 - [WETH Token Mainnet](https://etherscan.io/token/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2)
 ## Forking Mainnet
 - [Mainnet Forking](https://hardhat.org/hardhat-network/guides/mainnet-forking.html)
@@ -1424,7 +1415,7 @@ yarn create next-app .
 - [abi.encode](https://docs.soliditylang.org/en/latest/cheatsheet.html?highlight=cheatsheet#global-variables)
 - [abi.encodePacked](https://docs.soliditylang.org/en/latest/cheatsheet.html?highlight=cheatsheet#global-variables)
 Thanks to [Alex Roan](https://twitter.com/alexroan) for his help on this session!
-- [Example Contract Creation Transaction](https://rinkeby.etherscan.io/tx/0x924f592458b0e37ee17024f9c826b97697455cd97f6946b802bc42296e77ae43)
+- [Example Contract Creation Transaction](https://etherscan.io/tx/0x112133a0a74af775234c077c397c8b75850ceb61840b33b23ae06b753da40490)
 What REALLY is the ABI?
 - [EVM Opcodes](https://www.evm.codes/)
 - [More EVM Opcodes](https://github.com/crytic/evm-opcodes)
