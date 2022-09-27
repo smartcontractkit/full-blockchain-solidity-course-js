@@ -1,12 +1,12 @@
 # How do I make a contribution?
 
-Never made an open source contribution before? Wondering how contributions work in the in our project? Here's a quick rundown!
+Never made an open source contribution before? Wondering how contributions work in this project? Here's a quick rundown!
 
-- Find an issue that you are interested in addressing or a feature that you would like to add.
+- Find an issue that you want to address or a feature that you would like to add.
 
 - Fork the repository associated with the issue to your local GitHub organization. This means that you will have a copy of the repository under `your-GitHub-username/repository-name`.
 
-- Clone the repository to your local machine using `git clone https://github.com/github-username/repository-name.git`.
+- Clone the forked repository to your local machine using `git clone https://github.com/github-username/repository-name.git`.
 
 - Create a new branch for your fix using `git checkout -b branch-name-here`.
 
