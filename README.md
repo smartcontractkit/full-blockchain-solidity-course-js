@@ -877,6 +877,7 @@ In your `.vscode/settings.json` file.
 - [Yarn Install](https://yarnpkg.com/getting-started/install)
 - [solc-js](https://github.com/ethereum/solc-js)
   - `yarn add solc@0.8.7-fixed`
+  - `yarn solcjs --bin --abi --include-path node_modulus/ --base-path . -o . SimpleStorage.sol`
 - [yarn scripts](https://classic.yarnpkg.com/lang/en/docs/cli/run/)
 ## Ganache & Networks
 - [Ganache](https://trufflesuite.com/ganache/)
