@@ -2,7 +2,7 @@
 
 Never made an open-source contribution before? Wondering how contributions work in this project? Here's a quick run-down!
 
-- Find an issue that you want to address or a feature that you would like to add.
+- Find an issue that you want to address or a feature that you want to add.
 
 - Fork the repository associated with the issue to your local GitHub organization. This means that you will have a copy of the repository under `your-GitHub-username/repository-name`.
 
