@@ -1,6 +1,6 @@
 # How do I make a contribution?
 
-Never made an open source contribution before? Wondering how contributions work in this project? Here's a quick rundown!
+Never made an open-source contribution before? Wondering how contributions work in this project? Here's a quick run-down!
 
 - Find an issue that you want to address or a feature that you would like to add.
 
