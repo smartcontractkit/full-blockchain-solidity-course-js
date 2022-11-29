@@ -1442,6 +1442,15 @@ Extra credit:
 
 *[⌨️ (23:37:03) Lesson 15: NextJS NFT Marketplace (Full Stack / Front End)](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=85023s)*
 
+## Large Update, please read
+
+Moralis has recently updated to a self-hosted server over their own server. For this, you can do one of the following:
+- [Learn how to run one yourself](https://www.youtube.com/watch?v=9GtysZs-FrA)
+- Follow along to learn the concepts of this more interactive app, without actually coding along
+- Skip to the section where we interact with the graph
+
+TL;DR: TheGraph code should work exactly the same as the video, however the Moralis code will not. 
+
 💻 Code: 
  - Backend (Contracts): https://github.com/PatrickAlphaC/hardhat-nft-marketplace-fcc
  - Frontend (Moralis Indexer): https://github.com/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc
