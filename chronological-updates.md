@@ -173,6 +173,14 @@ and not
 
 - Remember if you are using gitpod then you cannot connect your local hardhat node with metamask. To resolve this you can use vs code or testnets instead of local node.
 
+# Large Update, please read
+Moralis has recently updated to a self-hosted server over their own server. For this, you can do one of the following:
+
+- Learn how to run one yourself
+- Follow along to learn the concepts of this more interactive app, without actually coding along
+- Skip to the section where we interact with the graph
+
+TL;DR: TheGraph code should work exactly the same as the video, however the Moralis code will not.
 
 --------
 
