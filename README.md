@@ -15,14 +15,14 @@ Welcome to the repository for the Ultimate Web3, Full Stack Solidity, and Smart 
 
 All code references have both a javascript and a typescript edition.
 
-Recommended Testnet: Goerli
+Recommended Testnet: sepolia
 
 *We have updated the repos to work with Goerli due to Rinkeby and Kovan being sunset. Let us know if any of the changes break stuff!*
 
 # [Testnet Faucets](https://faucets.chain.link)
 Main Faucet: https://faucets.chain.link
 
-Backup Faucet: https://goerlifaucet.com/
+Backup Faucet: https://sepoliafaucet.com/
 
 > ⚠️ All code associated with this course is for demo purposes only. They have not been audited and should not be considered production ready. Please use at your own risk. 
 
