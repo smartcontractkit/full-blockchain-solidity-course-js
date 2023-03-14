@@ -20,9 +20,9 @@ Recommended Testnet: Goerli
 *We have updated the repos to work with Goerli due to Rinkeby and Kovan being sunset. Let us know if any of the changes break stuff!*
 
 # [Testnet Faucets](https://faucets.chain.link)
-Main Faucet: https://faucets.chain.link
+Main Faucet:<a href="https://faucets.chain.link" target="_blank"> https://faucets.chain.link</a>
+Backup Faucet:<a href="https://faucets.chain.link" target="_blank"> https://goerlifaucet.com/</a>
 
-Backup Faucet: https://goerlifaucet.com/
 
 > ⚠️ All code associated with this course is for demo purposes only. They have not been audited and should not be considered production ready. Please use at your own risk. 
 
