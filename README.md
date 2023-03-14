@@ -15,14 +15,13 @@ Welcome to the repository for the Ultimate Web3, Full Stack Solidity, and Smart 
 
 All code references have both a javascript and a typescript edition.
 
-Recommended Testnet: Goerli
+Recommended Testnet: Sepolia
 
-*We have updated the repos to work with Goerli due to Rinkeby and Kovan being sunset. Let us know if any of the changes break stuff!*
+*We have updated the repos to work with Sepolia due to Rinkeby and Kovan being sunset, and Goerli being a disaster. Let us know if any of the changes break stuff!*
 
 # [Testnet Faucets](https://faucets.chain.link)
 Main Faucet:<a href="https://faucets.chain.link" target="_blank"> https://faucets.chain.link</a>
-Backup Faucet:<a href="https://faucets.chain.link" target="_blank"> https://goerlifaucet.com/</a>
-
+Backup Faucet:<a href="https://sepoliafaucet.com/" target="_blank"> https://sepoliafaucet.com/</a>
 
 > ⚠️ All code associated with this course is for demo purposes only. They have not been audited and should not be considered production ready. Please use at your own risk. 
 
@@ -300,7 +299,7 @@ Backup Faucet:<a href="https://faucets.chain.link" target="_blank"> https://goer
 </li>
 <li><a href="#rafflesol-staging-tests">Raffle.sol Staging Tests</a></li>
 <li><a href="#testing-on-a-testnet">Testing on a Testnet</a><ul>
-<li><a href="#recommended-link-amounts-for-goerli-staging-test">Recommended LINK amounts for Goerli Staging Test:</a></li>
+<li><a href="#recommended-link-amounts-for-sepolia-staging-test">Recommended LINK amounts for Sepolia Staging Test:</a></li>
 </ul>
 </li>
 <li><a href="#conclusion">Conclusion</a></li>
@@ -575,10 +574,10 @@ Backup Faucet:<a href="https://faucets.chain.link" target="_blank"> https://goer
     -   [What is a Private Key?](https://www.coinbase.com/learn/crypto-basics/what-is-a-private-key)
     -   [What is a Secret Phrase?](https://metamask.zendesk.com/hc/en-us/articles/360060826432-What-is-a-Secret-Recovery-Phrase-and-how-to-keep-your-crypto-wallet-secure)
 -   [Etherscan](https://etherscan.io/)
--   [Goerli Etherscan](https://goerli.etherscan.io/)
--   Goerli Faucet (Check the [link token contracts page](https://docs.chain.link/docs/link-token-contracts/#goerli))
-    -   NOTE: The Chainlink documentation always has the most up to date faucets on their [link token contracts page](https://docs.chain.link/docs/link-token-contracts/#goerli). If the faucet above is broken, check the chainlink documentation for the most up to date faucet.
--   OR, use the [Goerli ETH Faucet](https://faucets.chain.link/), just be sure to swap your metamask to goerli!
+-   [Sepolia Etherscan](https://sepolia.etherscan.io/)
+-   Sepolia Faucet (Check the [link token contracts page](https://docs.chain.link/docs/link-token-contracts/#sepolia))
+    -   NOTE: The Chainlink documentation always has the most up to date faucets on their [link token contracts page](https://docs.chain.link/docs/link-token-contracts/#sepolia). If the faucet above is broken, check the chainlink documentation for the most up to date faucet.
+-   OR, use the [Sepolia ETH Faucet](https://faucets.chain.link/), just be sure to swap your metamask to Sepolia!
 
 ## Gas I: Introduction to Gas
 *[⌨️ (00:58:59) Gas I: Introduction to Gas](https://youtu.be/gyMwXuJrbJQ?t=3539)*
@@ -691,7 +690,7 @@ Backup Faucet:<a href="https://faucets.chain.link" target="_blank"> https://goer
 *[⌨️ (02:53:38) Deploying your First Contract](https://youtu.be/gyMwXuJrbJQ?t=10418)*
 -   A testnet or mainnet
 -   Connecting Metamask
--   [Find a faucet here](https://docs.chain.link/docs/link-token-contracts/#goerli)
+-   [Find a faucet here](https://docs.chain.link/docs/link-token-contracts/#Sepolia)
 -   See the faucets at the top of this readme!
 -   Interacting with Deployed Contracts
 
@@ -1217,7 +1216,7 @@ yarn add --dev @nomiclabs/hardhat-ethers@npm:hardhat-deploy-ethers ethers @nomic
 ### Continued IV
 ## Raffle.sol Staging Tests
 ## Testing on a Testnet
-### Recommended LINK amounts for Goerli Staging Test:
+### Recommended LINK amounts for Sepolia Staging Test:
 - Chainlink VRF: 2 LINK
 - Chainlink Keepers: 8 LINK
 ## Conclusion
@@ -1372,7 +1371,7 @@ yarn create next-app .
 - [DAI](https://makerdao.com/en/)
 - [Uniswap](https://app.uniswap.org/)
 ## WETH - Wrapped ETH
-- [WETH Token Goerli Etherscan](https://goerli.etherscan.io/token/0xb4fbf271143f4fbf7b91a5ded31805e42b2208d6)
+- [WETH Token Sepolia Etherscan](https://sepolia.etherscan.io/address/0xdd13E55209Fd76AfE204dBda4007C227904f0a81)
 - [WETH Token Mainnet](https://etherscan.io/token/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2)
 ## Forking Mainnet
 - [Mainnet Forking](https://hardhat.org/hardhat-network/guides/mainnet-forking.html)
