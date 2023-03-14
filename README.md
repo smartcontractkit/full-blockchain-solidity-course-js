@@ -626,10 +626,12 @@ Backup Faucet: https://goerlifaucet.com/
 💻 Code: https://github.com/PatrickAlphaC/simple-storage-fcc
 
 ## Introduction
+*[⌨️ (02:03:05) Introduction](https://youtu.be/gyMwXuJrbJQ?t=7385)*
 - [Remix](https://remix.ethereum.org/)
 - [Solidity Documentation](https://docs.soliditylang.org/en/latest/index.html)
 
 ## Setting Up Your First Contract
+*[⌨️ (02:05:18) Setting Up Your First Contract](https://youtu.be/gyMwXuJrbJQ?t=7518)*
 -   Versioning
 -   Take notes in your code!
 -   [What is a software license](https://snyk.io/learn/what-is-a-software-license/)
@@ -638,7 +640,8 @@ Backup Faucet: https://goerlifaucet.com/
 -   Contract Declaration
 
 ## Basic Solidity: Types
--   [Types & Declaring Variables](https://docs.soliditylang.org/en/latest/)
+*[⌨️ (02:12:28) Basic Solidity Types](https://youtu.be/gyMwXuJrbJQ?t=7948)*
+-   [Types & Declaring Variables](https://docs.soliditylang.org/en/v0.8.13/)
     -   `uint256`, `int256`, `bool`, `string`, `address`, `bytes32`
     -   [Solidity Types](https://docs.soliditylang.org/en/latest/types.html)
     -   [Bits and Bytes](https://www.youtube.com/watch?v=Dnd28lQHquU)
@@ -646,6 +649,7 @@ Backup Faucet: https://goerlifaucet.com/
 -   Comments
 
 ## Basic Solidity: Functions
+*[⌨️ (02:18:40) Basic Solidity Functions](https://youtu.be/gyMwXuJrbJQ?t=8320)*
 -   Functions
 -   Deploying a Contract
     -   Smart Contracts have addresses just like our wallets
@@ -656,6 +660,7 @@ Backup Faucet: https://goerlifaucet.com/
 -   View & Pure Functions
 
 ## Basic Solidity: Arrays & Structs
+*[⌨️ (02:35:30) Basic Solidity Arrays & Structs](https://youtu.be/gyMwXuJrbJQ?t=9331)*
 -   Structs
 -   Intro to Storage
 -   Arrays 
@@ -664,10 +669,12 @@ Backup Faucet: https://goerlifaucet.com/
 
 
 ## Basic Solidity: Compiler Errors and Warnings
+*[⌨️ (02:45:35) Basic Solidity Errors & Warnings](https://youtu.be/gyMwXuJrbJQ?t=9935)*
 - Yellow: Warnings are Ok
 - Red: Errors are not Ok
 
 ## Memory, Storage, Calldata (Intro)
+*[⌨️ (02:46:34) Basic Solidity Memory, Storage, & Calldata (Intro)](https://youtu.be/gyMwXuJrbJQ?t=9994)*
 - 6 Places you can store and access data
   - calldata
   - memory
@@ -677,9 +684,11 @@ Backup Faucet: https://goerlifaucet.com/
   - stack
 
 ## Mappings
+*[⌨️ (02:50:17) Basic Solidity Mappings](https://youtu.be/gyMwXuJrbJQ?t=10217)*
 - [Mappings](https://solidity-by-example.org/mapping)
 
 ## Deploying your First Contract
+*[⌨️ (02:53:38) Deploying your First Contract](https://youtu.be/gyMwXuJrbJQ?t=10418)*
 -   A testnet or mainnet
 -   Connecting Metamask
 -   [Find a faucet here](https://docs.chain.link/docs/link-token-contracts/#goerli)
@@ -687,6 +696,7 @@ Backup Faucet: https://goerlifaucet.com/
 -   Interacting with Deployed Contracts
 
 ## The EVM & A Recap of Lesson 2
+*[⌨️ (03:03:07) The EVM & A Recap of Lesson 2](https://youtu.be/gyMwXuJrbJQ?t=10987)*
 -   The EVM
 
 # Lesson 3: Remix Storage Factory
