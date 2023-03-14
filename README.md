@@ -1,13 +1,3 @@
-<!-- [YouTube Video](https://www.youtube.com/watch?v=M576WGiDBdQ) -->
-
-<!-- <br/>
-<p align="center">
-<a href="https://www.youtube.com/watch?v=M576WGiDBdQ" target="_blank">
-<img src="./img/youtube_thumbnail.jpeg" width="350" alt="Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial">
-</a>
-</p>
-<br/> -->
-
 
 # Web3, Full Stack Solidity, Smart Contract & Blockchain - Beginner to Expert ULTIMATE Course | Javascript Edition
 
@@ -25,12 +15,14 @@ Welcome to the repository for the Ultimate Web3, Full Stack Solidity, and Smart 
 
 All code references have both a javascript and a typescript edition.
 
-Recommended Testnet: Rinkeby
+Recommended Testnet: Goerli
+
+*We have updated the repos to work with Goerli due to Rinkeby and Kovan being sunset. Let us know if any of the changes break stuff!*
 
 # [Testnet Faucets](https://faucets.chain.link)
 Main Faucet: https://faucets.chain.link
 
-Backup Faucet: https://rinkebyfaucet.com/
+Backup Faucet: https://goerlifaucet.com/
 
 > ⚠️ All code associated with this course is for demo purposes only. They have not been audited and should not be considered production ready. Please use at your own risk. 
 
@@ -308,7 +300,7 @@ Backup Faucet: https://rinkebyfaucet.com/
 </li>
 <li><a href="#rafflesol-staging-tests">Raffle.sol Staging Tests</a></li>
 <li><a href="#testing-on-a-testnet">Testing on a Testnet</a><ul>
-<li><a href="#recommended-link-amounts-for-rinkeby-staging-test">Recommended LINK amounts for Rinkeby Staging Test:</a></li>
+<li><a href="#recommended-link-amounts-for-goerli-staging-test">Recommended LINK amounts for Goerli Staging Test:</a></li>
 </ul>
 </li>
 <li><a href="#conclusion">Conclusion</a></li>
@@ -551,6 +543,7 @@ Backup Faucet: https://rinkebyfaucet.com/
 -   [What is a blockchain](https://www.investopedia.com/terms/b/blockchain.asp)
 
 ## The Purpose Of Smart Contracts
+*[⌨️ (00:18:27) The Purpose of Smart Contracts](https://youtu.be/gyMwXuJrbJQ?t=1107)*
 - 🎥 [Original Video](https://www.youtube.com/watch?v=_JeRq7Gwj5Y&feature=youtu.be)
 - 🦬 [My ETH Denver Talk](https://www.youtube.com/watch?v=06hXCX_jj2E)
 - 🍔 [McDonalds Scandal](https://www.chicagotribune.com/sns-mcdonalds-story.html)
@@ -560,6 +553,7 @@ Backup Faucet: https://rinkebyfaucet.com/
 - 🔮 [Chainlink & Oracles](https://www.youtube.com/watch?v=tIUHQ7sDoaU)
 
 ## Other Blockchain Benefits
+*[⌨️ (00:30:41) Other Blockchain Benefits](https://youtu.be/gyMwXuJrbJQ?t=1841)*
 - Decentralized
 - Transparency & Flexibility
 - Speed & Efficiency
@@ -567,7 +561,8 @@ Backup Faucet: https://rinkebyfaucet.com/
 - Counterparty Risk Removal
 - Trust Minimized Agreements
 
-## What have Smart Contracts done so far? 
+## What have Smart Contracts done so far?
+*[⌨️ (00:36:36) What have Smart Contracts done so far?](https://youtu.be/gyMwXuJrbJQ?t=2196)*
 - [DeFi](https://chain.link/education/defi)
   - [Defi Llama](https://defillama.com/)
   - [Why DeFi is Important](https://medium.com/the-capital/why-defi-1519cc4d4bd3)
@@ -575,41 +570,47 @@ Backup Faucet: https://rinkebyfaucet.com/
 - [NFTs](https://www.youtube.com/watch?v=9yuHz6g_P50)
 
 ## Making Your First Transaction
+*[⌨️ (00:39:17) Making Your First Transaction](https://youtu.be/gyMwXuJrbJQ?t=2357)*
 -   [Metamask Download Link](https://metamask.io/)
     -   [What is a Private Key?](https://www.coinbase.com/learn/crypto-basics/what-is-a-private-key)
     -   [What is a Secret Phrase?](https://metamask.zendesk.com/hc/en-us/articles/360060826432-What-is-a-Secret-Recovery-Phrase-and-how-to-keep-your-crypto-wallet-secure)
 -   [Etherscan](https://etherscan.io/)
--   [Rinkeby Etherscan](https://rinkeby.etherscan.io/)
--   [Kovan Etherscan](https://kovan.etherscan.io/)
--   Rinkeby Faucet (Check the [link token contracts page](https://docs.chain.link/docs/link-token-contracts/#rinkeby))
-    -   NOTE: The Chainlink documentation always has the most up to date faucets on their [link token contracts page](https://docs.chain.link/docs/link-token-contracts/#rinkeby). If the faucet above is broken, check the chainlink documentation for the most up to date faucet.
--   OR, use the [Kovan ETH Faucet](https://faucets.chain.link/), just be sure to swap your metamask to kovan!
+-   [Goerli Etherscan](https://goerli.etherscan.io/)
+-   Goerli Faucet (Check the [link token contracts page](https://docs.chain.link/docs/link-token-contracts/#goerli))
+    -   NOTE: The Chainlink documentation always has the most up to date faucets on their [link token contracts page](https://docs.chain.link/docs/link-token-contracts/#goerli). If the faucet above is broken, check the chainlink documentation for the most up to date faucet.
+-   OR, use the [Goerli ETH Faucet](https://faucets.chain.link/), just be sure to swap your metamask to goerli!
 
 ## Gas I: Introduction to Gas
+*[⌨️ (00:58:59) Gas I: Introduction to Gas](https://youtu.be/gyMwXuJrbJQ?t=3539)*
 -   [Gas and Gas Fees](https://ethereum.org/en/developers/docs/gas/)
 -   [Wei, Gwei, and Ether Converter](https://eth-converter.com/)
 -   [ETH Gas Station](https://ethgasstation.info/)
 
 ## How Do Blockchains Work?
+*[⌨️ (01:05:32) How Do Blockchains Work](https://youtu.be/gyMwXuJrbJQ?t=3932)*
 - [What is a hash?](https://techjury.net/blog/what-is-cryptographic-hash/)
 - [Blockchain Demo](https://andersbrownworth.com/blockchain/)
 - [Summary](https://ethereum.org/en/developers/docs/intro-to-ethereum/)
 
 ## Signing Transactions
+*[⌨️ (01:22:55) Signing Transactions](https://youtu.be/gyMwXuJrbJQ?t=4975)*
 -   [Public / Private Keys](https://andersbrownworth.com/blockchain/public-private-keys/keys)
 -   [Layer 2 and Rollups](https://ethereum.org/en/developers/docs/scaling/layer-2-rollups/)
 -   [Decentralized Blockchain Oracles](https://blog.chain.link/what-is-the-blockchain-oracle-problem/)
 
 ## Gas II
+*[⌨️ (01:30:22) Gas II: Block Rewards & EIP 1559](https://youtu.be/gyMwXuJrbJQ?t=5422)*
 -   [Block Rewards](https://www.investopedia.com/terms/b/block-reward.asp)
 -   Advanced Gas
     -   [EIP 1559](https://www.youtube.com/watch?v=MGemhK9t44Q)
     -   GWEI, WEI, and ETH
         -   [ETH Converter](https://eth-converter.com/)
 ## Gas II Summary
+*[⌨️ (01:36:44) Gas II Summary](https://youtu.be/gyMwXuJrbJQ?t=5804)*
 -   [Run Your Own Ethereum Node](https://geth.ethereum.org/docs/getting-started)
 
 ## High-Level Blockchain Fundamentals
+*[⌨️ (01:39:32) High-Level Blockchain Fundamentals]https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=5972s()*
 -   [Consensus](https://wiki.polkadot.network/docs/learn-consensus)
 -   [Proof of Stake](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
 -   [Proof of Work](https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/)
@@ -627,7 +628,7 @@ Backup Faucet: https://rinkebyfaucet.com/
 ## Introduction
 *[⌨️ (02:03:05) Introduction](https://youtu.be/gyMwXuJrbJQ?t=7385)*
 - [Remix](https://remix.ethereum.org/)
-- [Solidity Documentation](https://docs.soliditylang.org/en/v0.8.6/index.html)
+- [Solidity Documentation](https://docs.soliditylang.org/en/latest/index.html)
 
 ## Setting Up Your First Contract
 *[⌨️ (02:05:18) Setting Up Your First Contract](https://youtu.be/gyMwXuJrbJQ?t=7518)*
@@ -653,7 +654,7 @@ Backup Faucet: https://rinkebyfaucet.com/
 -   Deploying a Contract
     -   Smart Contracts have addresses just like our wallets
 -   Calling a public state-changing Function
--   [Visibility](https://docs.soliditylang.org/en/v0.7.3/contracts.html#visibility-and-getters)
+-   [Visibility](https://docs.soliditylang.org/en/latest/contracts.html#visibility-and-getters)
 -   Gas III | An example
 -   Scope
 -   View & Pure Functions
@@ -690,7 +691,7 @@ Backup Faucet: https://rinkebyfaucet.com/
 *[⌨️ (02:53:38) Deploying your First Contract](https://youtu.be/gyMwXuJrbJQ?t=10418)*
 -   A testnet or mainnet
 -   Connecting Metamask
--   [Find a faucet here](https://docs.chain.link/docs/link-token-contracts/#rinkeby)
+-   [Find a faucet here](https://docs.chain.link/docs/link-token-contracts/#goerli)
 -   See the faucets at the top of this readme!
 -   Interacting with Deployed Contracts
 
@@ -709,16 +710,16 @@ Backup Faucet: https://rinkebyfaucet.com/
 
 ## Basic Solidity: Importing Contracts into other Contracts
 - [Composibility](https://chain.link/techtalks/defi-composability)
-- [Solidity new keyword](https://docs.soliditylang.org/en/v0.8.14/control-structures.html?highlight=new#creating-contracts-via-new)
+- [Solidity new keyword](https://docs.soliditylang.org/en/latest/control-structures.html?highlight=new#creating-contracts-via-new)
 - [Importing Code in solidity](https://solidity-by-example.org/import)
 
 ## Basic Solidity: Interacting with other Contracts
 - To interact, you always need: ABI + Address
-- [ABI](https://docs.soliditylang.org/en/v0.8.14/abi-spec.html?highlight=abi)
+- [ABI](https://docs.soliditylang.org/en/latest/abi-spec.html?highlight=abi)
 
 ## Basic Solidity: Inheritance & Overrides
 - [Inheritance](https://solidity-by-example.org/inheritance) 
-- [Override & Virtual Keyword](https://docs.soliditylang.org/en/v0.8.14/contracts.html?highlight=override#function-overriding)
+- [Override & Virtual Keyword](https://docs.soliditylang.org/en/latest/contracts.html?highlight=override#function-overriding)
 
 ## Lesson 3 Recap
 
@@ -734,7 +735,7 @@ Backup Faucet: https://rinkebyfaucet.com/
 - [Fields in a Transaction](https://ethereum.org/en/developers/docs/transactions/)
 - [More on v,r,s](https://ethereum.stackexchange.com/questions/15766/what-does-v-r-s-in-eth-gettransactionbyhash-mean)
 - [payable](https://solidity-by-example.org/payable)
-- [msg.value & Other global keywords](https://docs.soliditylang.org/en/v0.8.14/cheatsheet.html?highlight=cheatsheet#global-variables)
+- [msg.value & Other global keywords](https://docs.soliditylang.org/en/latest/cheatsheet.html?highlight=cheatsheet#global-variables)
 - [require](https://codedamn.com/news/solidity/what-is-require-in-solidity)
 - [revert](https://medium.com/blockchannel/the-use-of-revert-assert-and-require-in-solidity-and-the-new-revert-opcode-in-the-evm-1a3a7990e06e)
 
@@ -760,15 +761,15 @@ Backup Faucet: https://rinkebyfaucet.com/
 ## Importing from GitHub & NPM
 - [Chainlink NPM Package](https://www.npmjs.com/package/@chainlink/contracts)
 
-## Floating Point Math in Solidtiy
-- [tuple](https://docs.soliditylang.org/en/v0.8.14/abi-spec.html?highlight=tuple#handling-tuple-types)
+## Floating Point Math in Solidity
+- [tuple](https://docs.soliditylang.org/en/latest/abi-spec.html?highlight=tuple#handling-tuple-types)
 - [Floating Point Numbers in Solidity](https://stackoverflow.com/questions/58277234/does-solidity-supports-floating-point-number)
 - [Type Casting](https://ethereum.stackexchange.com/questions/6891/type-casting-in-solidity)
 - Gas Estimation Failed
   - Someone should make an article explaining this error
 
 ## Basic Solidity: Arrays & Structs II
-- [msg.sender](https://docs.soliditylang.org/en/v0.8.14/cheatsheet.html?highlight=msg.sender)
+- [msg.sender](https://docs.soliditylang.org/en/latest/cheatsheet.html?highlight=msg.sender)
 
 ## Review of Interfaces, Importing from GitHub, & Math in Solidity
 
@@ -778,7 +779,7 @@ Backup Faucet: https://rinkebyfaucet.com/
 
 ## SafeMath, Overflow Checking, and the "unchecked" keyword
 - [Openzeppelin Safemath](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/utils/math/SafeMath.sol)
-- [unchecked vs. checked](https://docs.soliditylang.org/en/v0.8.0/control-structures.html#checked-or-unchecked-arithmetic)
+- [unchecked vs. checked](https://docs.soliditylang.org/en/latest/control-structures.html#checked-or-unchecked-arithmetic)
 
 ## Basic Solidity: For Loop
 - [For Loop](https://solidity-by-example.org/loop)
@@ -813,9 +814,9 @@ Backup Faucet: https://rinkebyfaucet.com/
 - [Custom Errors Introduction](https://blog.soliditylang.org/2021/04/21/custom-errors/)
 
 ### Receive & Fallback Functions
-- [Solidity Docs Special Functions](https://docs.soliditylang.org/en/v0.8.14/contracts.html?highlight=fallback#special-functions)
+- [Solidity Docs Special Functions](https://docs.soliditylang.org/en/latest/contracts.html?highlight=fallback#special-functions)
 - [Fallback](https://solidity-by-example.org/fallback)
-- [Receive](https://docs.soliditylang.org/en/v0.8.14/contracts.html?highlight=fallback#receive-ether-function)
+- [Receive](https://docs.soliditylang.org/en/latest/contracts.html?highlight=fallback#receive-ether-function)
 
 ## Lesson 4 Recap
 
@@ -1040,10 +1041,13 @@ yarn add --dev @typechain/ethers-v5 @typechain/hardhat @types/chai @types/node @
 ## Testnet Demo - Hardhat Fund Me
 *[⌨️ (10:55:45) Testnet Demo - Hardhat Fund Me](https://youtu.be/gyMwXuJrbJQ?t=39345)*
 - Hardhat Deploy Block Confirmations
+### TypeScript
+- [Code file](https://github.com/PatrickAlphaC/hardhat-fund-me-fcc/blob/84271e7002e55d86c90b26466ff27bc067f25de0/deploy/01-deploy-fund-me.ts#L29) (TypeScript edition)
+- Define blockConfirmations in the `helper-hardhat-config.ts` file instead of `hardhat-config.js`. 
 ## Solidity Style Guide
 *[⌨️ (11:00:10) Solidity Style Guide](https://youtu.be/gyMwXuJrbJQ?t=39610)*
-- [Style Guide](https://docs.soliditylang.org/en/v0.8.15/style-guide.html)
-- [NatSpec](https://docs.soliditylang.org/en/v0.8.15/natspec-format.html)
+- [Style Guide](https://docs.soliditylang.org/en/latest/style-guide.html)
+- [NatSpec](https://docs.soliditylang.org/en/latest/natspec-format.html)
 ## Testing Fund Me
 *[⌨️ (11:08:36) Testing Fund Me](https://youtu.be/gyMwXuJrbJQ?t=40116)*
 - [Unit Testing](https://en.wikipedia.org/wiki/Unit_testing)
@@ -1066,7 +1070,7 @@ yarn add --dev @typechain/ethers-v5 @typechain/hardhat @types/chai @types/node @
 *[⌨️ (11:37:31) Testing Fund Me II](https://youtu.be/gyMwXuJrbJQ?t=41851)*
 ## Storage in Solidity
 *[⌨️ (11:44:34) Storage in Solidity](https://youtu.be/gyMwXuJrbJQ?t=42274)*
-- [Storage Layout](https://docs.soliditylang.org/en/v0.8.13/internals/layout_in_storage.html)
+- [Storage Layout](https://docs.soliditylang.org/en/latest/internals/layout_in_storage.html)
 - [Purpose of the memory keyword](https://stackoverflow.com/questions/33839154/in-ethereum-solidity-what-is-the-purpose-of-the-memory-keyword)
 - [getStorageAt](https://docs.ethers.io/v5/api/providers/provider/#Provider-getStorageAt)
 ## Gas Optimizations using Storage Knowledge
@@ -1177,13 +1181,13 @@ yarn add --dev @nomiclabs/hardhat-ethers@npm:hardhat-deploy-ethers ethers @nomic
 ## Implementing Chainlink VRF - The Request
 ## Implementing Chainlink VRF - The FulFill
 ### Modulo
-- [Modulo](https://docs.soliditylang.org/en/v0.8.13/types.html?highlight=modulo#modulo)
+- [Modulo](https://docs.soliditylang.org/en/latest/types.html?highlight=modulo#modulo)
 ## Introduction to Chainlink Keepers
 - [Chainlink Keepers Docs](https://docs.chain.link/docs/chainlink-keepers/introduction/)
 - [Chainlink Keepers Walkthrough](https://www.youtube.com/watch?v=-Wkw5JVQGUo)
 ## Implementing Chainlink Keepers - checkUpkeep
 ### Enums
-- [Enum](https://docs.soliditylang.org/en/v0.8.13/structure-of-a-contract.html?highlight=enum#enum-types)
+- [Enum](https://docs.soliditylang.org/en/latest/structure-of-a-contract.html?highlight=enum#enum-types)
 ## Implementing Chainlink Keepers - checkUpkeep continued
 - block.timestamp
 ## Implementing Chainlink Keepers - performUpkeep
@@ -1208,7 +1212,7 @@ yarn add --dev @nomiclabs/hardhat-ethers@npm:hardhat-deploy-ethers ethers @nomic
 ### Continued IV
 ## Raffle.sol Staging Tests
 ## Testing on a Testnet
-### Recommended LINK amounts for Rinkeby Staging Test:
+### Recommended LINK amounts for Goerli Staging Test:
 - Chainlink VRF: 2 LINK
 - Chainlink Keepers: 8 LINK
 ## Conclusion
@@ -1363,7 +1367,7 @@ yarn create next-app .
 - [DAI](https://makerdao.com/en/)
 - [Uniswap](https://app.uniswap.org/)
 ## WETH - Wrapped ETH
-- [WETH Token Rinkeby Etherscan](https://rinkeby.etherscan.io/token/0xc778417e063141139fce010982780140aa0cd5ab#writeContract)
+- [WETH Token Goerli Etherscan](https://goerli.etherscan.io/token/0x8b7fb00abb67ba04ce894b9e2769fe24a8409a6a)
 - [WETH Token Mainnet](https://etherscan.io/token/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2)
 ## Forking Mainnet
 - [Mainnet Forking](https://hardhat.org/hardhat-network/guides/mainnet-forking.html)
@@ -1428,14 +1432,14 @@ yarn create next-app .
 - [base64-sol](https://www.npmjs.com/package/base64-sol/v/1.0.1)
 ## Advanced: EVM Opcodes, Encoding, and Calling
 ### abi.encode & abi.encodePacked
-- [abi.encode](https://docs.soliditylang.org/en/v0.8.14/cheatsheet.html?highlight=cheatsheet#global-variables)
-- [abi.encodePacked](https://docs.soliditylang.org/en/v0.8.14/cheatsheet.html?highlight=cheatsheet#global-variables)
+- [abi.encode](https://docs.soliditylang.org/en/latest/cheatsheet.html?highlight=cheatsheet#global-variables)
+- [abi.encodePacked](https://docs.soliditylang.org/en/latest/cheatsheet.html?highlight=cheatsheet#global-variables)
 Thanks to [Alex Roan](https://twitter.com/alexroan) for his help on this session!
-- [Example Contract Creation Transaction](https://rinkeby.etherscan.io/tx/0x924f592458b0e37ee17024f9c826b97697455cd97f6946b802bc42296e77ae43)
+- [Example Contract Creation Transaction](https://etherscan.io/tx/0x112133a0a74af775234c077c397c8b75850ceb61840b33b23ae06b753da40490)
 What REALLY is the ABI?
 - [EVM Opcodes](https://www.evm.codes/)
 - [More EVM Opcodes](https://github.com/crytic/evm-opcodes)
-- [Solidity Cheatsheet](https://docs.soliditylang.org/en/v0.8.13/cheatsheet.html?highlight=encodewithsignature)
+- [Solidity Cheatsheet](https://docs.soliditylang.org/en/latest/cheatsheet.html?highlight=encodewithsignature)
 - [abi.encode vs abi.encodePacked](https://ethereum.stackexchange.com/questions/91826/why-are-there-two-methods-encoding-arguments-abi-encode-and-abi-encodepacked)
 ### Introduction to Encoding Function Calls Directly
 ### Introduction to Encoding Function Calls Recap
@@ -1457,6 +1461,15 @@ Extra credit:
 # Lesson 15: NextJS NFT Marketplace (If you finish this lesson, you are a full-stack MONSTER!)
 
 *[⌨️ (23:37:03) Lesson 15: NextJS NFT Marketplace (Full Stack / Front End)](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=85023s)*
+
+## Large Update, please read
+
+Moralis has recently updated to a self-hosted server over their own server. For this, you can do one of the following:
+- [Learn how to run one yourself](https://www.youtube.com/watch?v=9GtysZs-FrA)
+- Follow along to learn the concepts of this more interactive app, without actually coding along
+- Skip to the section where we interact with the graph
+
+TL;DR: TheGraph code should work exactly the same as the video, however the Moralis code will not. 
 
 💻 Code: 
  - Backend (Contracts): https://github.com/PatrickAlphaC/hardhat-nft-marketplace-fcc
@@ -1612,7 +1625,7 @@ Special thanks to [Matt Durkin](https://twitter.com/mdurkin92) for help with thi
 - [Eth-Security-ToolBox](https://github.com/trailofbits/eth-security-toolbox)
 ## Closing Thoughts
 -   [Best Practices](https://consensys.github.io/smart-contract-best-practices/)
--   [Attacks](https://consensys.github.io/smart-contract-best-practices/known_attacks/)
+-   [Attacks](https://consensys.github.io/smart-contract-best-practices/attacks/)
     -   [Oracle Attacks](https://hackernoon.com/how-dollar100m-got-stolen-from-defi-in-2021-price-oracle-manipulation-and-flash-loan-attacks-explained-3n6q33r1)
     -   [Re-entrancy Attacks](https://quantstamp.com/blog/what-is-a-re-entrancy-attack)
 -   [Damn Vulnerable Defi](https://www.damnvulnerabledefi.xyz/)
@@ -1647,7 +1660,8 @@ Special thanks to [Matt Durkin](https://twitter.com/mdurkin92) for help with thi
 ### Community
 
 -   [Twitter](https://twitter.com/PatrickAlphaC)
--   [Hardhat Discord](https://discord.gg/9zk7snTfWe)
+-   [Hardhat Discord](https://hardhat.org/discord)
+-   [Ethereum Python Community Discord](https://discord.gg/9zk7snTfWe)
 -   [Chainlink Discord](https://discord.gg/2YHSAey)
 -   [Ethereum Discord](https://ethereum.org/en/)
 -   [Reddit ethdev](https://www.reddit.com/r/ethdev/)

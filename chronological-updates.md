@@ -95,6 +95,18 @@ It's _roughly_ similar to the options in our video, but you can just pick the `J
 
 [You can read more about the changes here.](https://twitter.com/HardhatHQ/status/1545124474470760449)
 
+----------
+
+# Lesson 7
+
+## New Hardhat Setup
+
+As the previous section has highlighted, changes in the hardhat version changed the hardhat startup menu. You can choose to go with the new menu but if you feel lost and still want to access the old one used in the video, you can do so by installing `hardhat v2.9.3`
+
+Run `yarn add --dev hardhat@2.9.3`
+
+---------
+
 # Lesson 9
 
 ## Keepers new UI
@@ -161,6 +173,14 @@ and not
 
 - Remember if you are using gitpod then you cannot connect your local hardhat node with metamask. To resolve this you can use vs code or testnets instead of local node.
 
+# Large Update, please read
+Moralis has recently updated to a self-hosted server over their own server. For this, you can do one of the following:
+
+- Learn how to run one yourself
+- Follow along to learn the concepts of this more interactive app, without actually coding along
+- Skip to the section where we interact with the graph
+
+TL;DR: TheGraph code should work exactly the same as the video, however the Moralis code will not.
 
 --------
 
