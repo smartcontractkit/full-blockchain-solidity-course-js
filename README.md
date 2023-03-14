@@ -1372,7 +1372,7 @@ yarn create next-app .
 - [DAI](https://makerdao.com/en/)
 - [Uniswap](https://app.uniswap.org/)
 ## WETH - Wrapped ETH
-- [WETH Token Goerli Etherscan](https://goerli.etherscan.io/token/0x8b7fb00abb67ba04ce894b9e2769fe24a8409a6a)
+- [WETH Token Goerli Etherscan](https://goerli.etherscan.io/token/0xb4fbf271143f4fbf7b91a5ded31805e42b2208d6)
 - [WETH Token Mainnet](https://etherscan.io/token/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2)
 ## Forking Mainnet
 - [Mainnet Forking](https://hardhat.org/hardhat-network/guides/mainnet-forking.html)
