@@ -706,22 +706,27 @@ Backup Faucet: https://goerlifaucet.com/
 💻 Code: https://github.com/PatrickAlphaC/storage-factory-fcc
 
 ## Introduction
+*[⌨️ (03:06:06) Introduction](https://youtu.be/gyMwXuJrbJQ?t=11166)*
 - [Factory Pattern](https://betterprogramming.pub/learn-solidity-the-factory-pattern-75d11c3e7d29)
 
 ## Basic Solidity: Importing Contracts into other Contracts
+*[⌨️ (03:07:29) Importing Contracts into other Contracts](https://youtu.be/gyMwXuJrbJQ?t=11249)*
 - [Composibility](https://chain.link/techtalks/defi-composability)
 - [Solidity new keyword](https://docs.soliditylang.org/en/latest/control-structures.html?highlight=new#creating-contracts-via-new)
 - [Importing Code in solidity](https://solidity-by-example.org/import)
 
 ## Basic Solidity: Interacting with other Contracts
+*[⌨️ (03:16:36) Interacting with other contracts](https://youtu.be/gyMwXuJrbJQ?t=11796)*
 - To interact, you always need: ABI + Address
 - [ABI](https://docs.soliditylang.org/en/latest/abi-spec.html?highlight=abi)
 
 ## Basic Solidity: Inheritance & Overrides
+*[⌨️ (03:25:23) Inheritance & Overrides](https://youtu.be/gyMwXuJrbJQ?t=12323)*
 - [Inheritance](https://solidity-by-example.org/inheritance) 
 - [Override & Virtual Keyword](https://docs.soliditylang.org/en/latest/contracts.html?highlight=override#function-overriding)
 
 ## Lesson 3 Recap
+*[⌨️ (03:30:29) Lesson 3 Recap](https://youtu.be/gyMwXuJrbJQ?t=12629)*
 
 # Lesson 4: Remix Fund Me
 
