@@ -609,7 +609,7 @@ Backup Faucet:<a href="https://sepoliafaucet.com/" target="_blank"> https://sepo
 -   [Run Your Own Ethereum Node](https://geth.ethereum.org/docs/getting-started)
 
 ## High-Level Blockchain Fundamentals
-*[⌨️ (01:39:32) High-Level Blockchain Fundamentals]https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=5972s()*
+*[⌨️ (01:39:32) High-Level Blockchain Fundamentals](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=5972s)*
 -   [Consensus](https://wiki.polkadot.network/docs/learn-consensus)
 -   [Proof of Stake](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
 -   [Proof of Work](https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/)
