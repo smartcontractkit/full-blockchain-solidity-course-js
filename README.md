@@ -7,6 +7,7 @@
 <a href="https://github.com/smartcontractkit/full-blockchain-solidity-course-js/network/members"><img src="https://img.shields.io/github/forks/smartcontractkit/full-blockchain-solidity-course-js" alt="Forks Badge"/></a>
 <a href="https://github.com/smartcontractkit/full-blockchain-solidity-course-js/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/smartcontractkit/full-blockchain-solidity-course-js?color=2b9348"></a>
 <br/>
+</div>
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=gyMwXuJrbJQ" target="_blank">
