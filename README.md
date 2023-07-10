@@ -1,4 +1,4 @@
-
+<div align="center">
 # Web3, Full Stack Solidity, Smart Contract & Blockchain - Beginner to Expert ULTIMATE Course | Javascript Edition
 
 <a href="https://github.com/smartcontractkit/full-blockchain-solidity-course-js"><img src="https://sloc.xyz/github/smartcontractkit/full-blockchain-solidity-course-js" alt="LOC"/></a>
