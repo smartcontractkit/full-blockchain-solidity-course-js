@@ -1673,8 +1673,8 @@ Special thanks to [Matt Durkin](https://twitter.com/mdurkin92) for help with thi
 ### Hackathons
 
 -   [CL Hackathon](https://chain.link/hackathon)
--   [ETH Global](https://ethglobal.co/)
--   [ETH India](https://twitter.com/ETHIndiaco)
+-   [ETHGlobal](https://ethglobal.com/)
+-   [ETHIndia](https://ethindia.co/)
 
 Be sure to check out project grant programs!
 
