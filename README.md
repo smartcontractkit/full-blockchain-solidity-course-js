@@ -1277,6 +1277,8 @@ yarn create next-app .
 ## Local Storage
 - [Local Storage](https://codinglead.co/javascript/what-is-localstorage)
 ## isWeb3EnabledLoading
+## Common Errors in Metamask
+On getting this error  `metamask transaction failed ethjs-query nonce too high` we go to metamask->Settings(the three dot button on the top right of the modal )-> Advanced ->Clear Activity Tab Data
 ## web3uikit
 - [web3uikit](https://github.com/web3ui/web3uikit)
 - [web3uikit interactive docs](https://web3ui.github.io/web3uikit/?path=/story/1-web3-blockie--custom-seed)
