@@ -1,10 +1,10 @@
-# How to ask a question 
+# How to ask a question
 
 > Note: Before reading this, you might want to read my guide on [top 6 tips to solve any software engineering error](https://medium.com/better-programming/top-6-tips-to-solve-any-software-engineering-error-a794a162fcaf).
 
 Also note, take this pledge: "I solemnly swear that after asking a question I will spend at least 5 minutes trying to answer someone else's question. I will consult the 'How to answer a question' page before I do so. "
 
-The internet is our documentation, and we want to treat is as such. **Every** *specific* question we have *should* be able to be found by typing it into a web search bar. 
+The internet is our documentation, and we want to treat is as such. **Every** _specific_ question we have _should_ be able to be found by typing it into a web search bar.
 
 Now, there are no "bad" questions, but there are poorly-formatted questions. A poorly formatted question has a low chance of being answered, poor chance of being discovered, and can "clutter up" forums and discussion boards. So let's make sure we strive for well-formatted questions!
 
@@ -20,24 +20,23 @@ Here are the steps to ask a well-formatted question:
 6. Make sure you copy paste your code instead of using screenshots
 7. Make sure your code is a minimal example
 
-
 # 1. Search to see if the question has already been asked
 
 ## Do not skip this step!
 
-We should think of the internet as one giant document. If a question has already been asked and you can find it on the first page of your search engine, it's good! Don't ask the question again! 
+We should consider the internet as one giant document. If a question has already been asked and you can find the answer on the first page of your search engine, that's great! There's no need to ask the question again.
 
-And if it's not on the first page of your search results, then **yes, you should 100% ask the question on a forum even if you know the answer.**
+However, if the answer is not on the first page of your search results, then **you should definitely ask the question on a forum, even if you know the answer.**
 
-We want every tech question ever to be:
+Our goal is to have every tech question to be :
 
 1. Indexed by search engines
 2. Easy to find
-3. Easy to reproduce
+3. Easy to reproduce.
 
-So that in 6 months when you forget the answer, you can just google it and it'll show up!
+This way, if you forget the answer in 6 months, you can simply search for it on Google and it will appear.
 
-We don't want there to be multiple questions, because that can fragment where people look! We want to add answers, comments, etc all in one place
+We don't want multiple questions about the same topic, as it can scatter information across different sources. Rather, we want to consolidate all answers, comments, and discussions in one place.
 
 # 2. Know where to post your question
 
@@ -53,11 +52,11 @@ These are what we strive for. These are reproducible questions that help the wor
 
 - The "Q&A" discussions section of this course
 - stackoverflow
-- stack exchange ETH. 
+- stack exchange ETH.
 
-These are questions that typically can have a "right" or "many right answers". Generally, these are not very opinionated questions. 
+These are questions that typically can have a "right" or "many right answers". Generally, these are not very opinionated questions.
 
-These are questions like "How to convert bytes32 to uint256". 
+These are questions like "How to convert bytes32 to uint256".
 
 ## Generic Theoretical Questions
 
@@ -77,34 +76,39 @@ These are very specific use cases and 99% of your questions will not be these ki
 - Email
 - etc
 
-And should be used *very* sparingly. 
+And should be used _very_ sparingly.
 
 # 3. Make a title that summarizes the problem
 
 It should be minimal, searchable, indexable (by search engines).
 
 ## Examples:
+
 Bad:
+
 - I'm stuck, please help
 
 Good:
+
 - Could Not Detect Network using WSL & Ganache
 
 Bad:
+
 - hardhat error
 
 Good:
+
 - TypeError: Cannot read property 'length' of undefined - when deploying contract
 
 # 4. Introduce the problem before writing any code
 
-In the body of the question, say what you're trying to do, what you've done, and give a summary of your problem.
+When asking a question, it's important to provide details about what you're trying to do, what you've done so far, and a brief summary of the problem you're facing.
 
-With this course in the discussions tab, you may also give a timestamp of where you're getting the issue (in fact, please give a timestamp with a link to the location in the video).
+If you're asking a question related to a specific course, you can also include a timestamp in the discussions tab to indicate where you're experiencing the issue. Please include a link to the location in the video as well."
 
 # 5. Make sure you format code using backticks (```) and a language tag
 
-You'll want to format your question so it's as easy as possible to read! Especially with your code snippets.
+To ensure your question is easy to read, it's important to format it properly, especially when including code snippets.
 
 Your code should show up like this:
 
@@ -120,12 +124,11 @@ In your question, you'll type it like this:
 ```
 ````
 
-If it doesn't get formatted, you can edit your question (usually, you can click the three little dots at the top right of your question) to make it formatted nicely. 
+If your question isn't formatted properly, you can edit it to make it more readable. Usually, you can do this by clicking on the three dots located at the top-right corner of your question and formatting it nicely.
 
 # 6. Make sure you copy paste your code instead of using screenshots
 
 We want web crawlers to index every word you write, so even copy paste errors (and format them with 3 backticks!)
-
 
 # 7. Make sure your code is a minimal example
 
@@ -149,11 +152,8 @@ Hi I'm confused my code isn't working here is all my code
 I'm getting `error x` on line 42 of my code:
 
 ```javascript
-const some_var = "dog"
+const some_var = "dog";
 // this is the line that is erroring
 ```
 
 [More information on reproducible code.](https://stackoverflow.com/help/minimal-reproducible-example)
-
-
-
