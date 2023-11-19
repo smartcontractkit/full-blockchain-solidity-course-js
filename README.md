@@ -1,5 +1,5 @@
 
-# Web3, Full Stack Solidity, Smart Contract & Blockchain - Beginner to Expert ULTIMATE Course | Javascript Edition
+# Web3, Full Stack Solidity, Smart Contract & Blockchain - Beginner to Expert ULTIMATE Course: Javascript Edition
 
 <br/>
 <p align="center">
