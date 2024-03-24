@@ -42,14 +42,38 @@ Keep this running in it's own terminal, and use the endpoint it gives you. To ki
 ### Building the `ganache` GUI using the ganache image.
 
 1. sudo apt install wget
-2. wget https://github.com/trufflesuite/ganache-ui/releases/download/v2.5.4/ganache-2.5.4-linux-x86_64.AppImage
-3. chmod +x ganache-2.5.4-linux-x86_64.AppImage
-4. sudo apt install fuse libfuse2
+2. wget https://github.com/trufflesuite/ganache-ui/releases/download/v2.7.1/ganache-2.7.1-linux-x86_64.AppImage
+3. chmod +x ganache-2.7.1-linux-x86_64.AppImage
+4. sudo apt install fuse && sudo apt install libfuse2 && sudo apt install -y libgbm-dev 
 5. sudo modprobe -v fuse
 6. sudo addgroup fuse
 7. sudo adduser $USER fuse
 8. exit your terminal and then reopen it
-9. open your linux GUI instance by running: ./ganache-2.5.4-linux-x86_64.AppImage
+9. open your linux GUI instance by running: ./ganache-2.7.1-linux-x86_64.AppImage
+
+
+**Note:** Apparently `libgbm1` is also sufficient and not as "overkill" as `libgbm-dev` (so for those trying to use less diskspace this is an option).
+
+**Note:** When working with `ganache` downgrade your solidity and solc version to 0.8.19. The reason for this is because as per the following ethereum stackexchange https://ethereum.stackexchange.com/questions/152509/could-not-coalesce-error-invalid-opcode `solidity 0.8.20` introduces the PUSH0(0x5f) opcode which is only supported on the ETH mainnet and not on any other chains. That's why other chains (including ganache) can't find the PUSH0(0x5f) opcode and throw an error when running `node deploy.js` later on.  
+
+#### To fix this:
+
+- For solidity go into your SimpleStorage.sol and incorporate the following change `pragma solidity 0.8.19`, then perform a ctrl+s to save
+
+- For solc you can do this as follows:
+  1. Go into the package.json file and update the following line
+  ``` {
+  "dependencies": {
+   "solc": "0.8.19"
+  }
+  ```
+  2. After you are done, save (ctrl+s) and run ```yarn install ``` in your terminal
+  3. Make sure to delete the earlier compiled SimpleStorage .abi and .bin files
+  4. run your script: `yarn compile` or `yarn solcjs --bin --abi --include-path node_modules/ --base-path . -o . SimpleStorage.sol` in your terminal to generate new .abi and .bin files
+     
+
+
+  
 
 Keep this running in it's own terminal, and use the endpoint it gives you. To kill it, press `CTRL` + `C`.
 
