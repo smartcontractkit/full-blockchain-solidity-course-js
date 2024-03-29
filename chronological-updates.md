@@ -105,6 +105,13 @@ As the previous section has highlighted, changes in the hardhat version changed 
 
 Run `yarn add --dev hardhat@2.9.3`
 
+## Importing from NPM
+There are changes in the @chainlink/contracts dependency, if you install the latest version you will end up in an error:
+'Error HH404: File @chainlink/contracts/src/v0.8/interfaces/AggregatorV3Interface.sol, imported fr/FundMe.sol, not found.'
+
+To avoid this specify the version used in the course:
+`yarn add --dev @chainlink/contracts@^0.3.1`
+
 ---------
 
 # Lesson 9
