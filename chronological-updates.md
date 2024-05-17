@@ -1,6 +1,14 @@
 # Chronological Updates
 
 This file will contain all updates to sections. 
+# Lesson 2
+# Using test network
+
+- As of October 5th 2022 Rinkeby Testnet was deprecated by Ethereum Foundation
+
+- You can find more about it here [Rinkeby Depreciation](https://www.alchemy.com/overviews/rinkeby-testnet)
+
+- Use the Sephola testnet as your test network or to test your dApps
 
 # Lesson 5
 ## Windows, WSL, & Ganache
