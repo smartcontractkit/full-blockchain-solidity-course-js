@@ -181,7 +181,7 @@ Backup Faucet:<a href="https://sepoliafaucet.com/" target="_blank"> https://sepo
 <ol>
 <li><a href="#introduction-3">Introduction</a></li>
 <li><a href="#hardhat-setup">Hardhat Setup</a><ul>
-<li><a href="#troubleshooting-hardaht-setup">Troubleshooting Hardaht Setup</a></li>
+<li><a href="#troubleshooting-hardhat-setup">Troubleshooting Hardaht Setup</a></li>
 </ul>
 </li>
 <li><a href="#hardhat-setup-continued">Hardhat Setup Continued</a></li>
