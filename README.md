@@ -1,3 +1,13 @@
+<div align="center">
+<h1>Web3, Full Stack Solidity, Smart Contract & Blockchain - Beginner to Expert ULTIMATE Course | Javascript Edition </h1>
+
+<a href="https://github.com/smartcontractkit/full-blockchain-solidity-course-js"><img src="https://sloc.xyz/github/smartcontractkit/full-blockchain-solidity-course-js" alt="LOC"/></a>
+<a href="https://github.com/smartcontractkit/full-blockchain-solidity-course-js"><img src="https://visitor-badge.laobi.icu/badge?page_id=smartcontractkit.full-blockchain-solidity-course-js" alt="visitor count"/></a>
+<a href="https://github.com/smartcontractkit/full-blockchain-solidity-course-js/stargazers"><img src="https://img.shields.io/github/stars/smartcontractkit/full-blockchain-solidity-course-js" alt="Stars Badge"/></a>
+<a href="https://github.com/smartcontractkit/full-blockchain-solidity-course-js/network/members"><img src="https://img.shields.io/github/forks/smartcontractkit/full-blockchain-solidity-course-js" alt="Forks Badge"/></a>
+<a href="https://github.com/smartcontractkit/full-blockchain-solidity-course-js/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/smartcontractkit/full-blockchain-solidity-course-js?color=2b9348"></a>
+
+ =======
 # Update: Head to Cyfrin Updraft
 
 > **ℹ️ Important:**
@@ -7,6 +17,8 @@
 # Web3, Full Stack Solidity, Smart Contract & Blockchain - Beginner to Expert ULTIMATE Course | Javascript Edition
 
 <br/>
+</div>
+
 <p align="center">
 <a href="https://www.youtube.com/watch?v=gyMwXuJrbJQ" target="_blank">
 <img src="./img/blockchain1.png" width="500" alt="Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Javascript Tutorial">
@@ -640,6 +652,12 @@ _[⌨️ (01:36:44) Gas II Summary](https://youtu.be/gyMwXuJrbJQ?t=5804)_
 - [Run Your Own Ethereum Node](https://geth.ethereum.org/docs/getting-started)
 
 ## High-Level Blockchain Fundamentals
+*[⌨️ (01:39:32) High-Level Blockchain Fundamentals](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=5972s)*
+-   [Consensus](https://wiki.polkadot.network/docs/learn-consensus)
+-   [Proof of Stake](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
+-   [Proof of Work](https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/)
+-   [Nakamoto Consensus](https://blockonomi.com/nakamoto-consensus/)
+-   [Ethereum 2 (the merge)](https://ethereum.org/en/eth2/)
 
 _[⌨️ (01:39:32) High-Level Blockchain Fundamentals]https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=5972s()_
 
